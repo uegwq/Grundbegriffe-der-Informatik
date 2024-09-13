@@ -1,0 +1,2960 @@
+[
+  {
+    "objectID": "9 Speicher/Speichern.html",
+    "href": "9 Speicher/Speichern.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Etwas zu speichern bedeutet etwas zu schreiben und zu einem späteren Zeitpunkt zu lesen.\n\nSeite 33 in Zeile 22 Zeichen Nummer 11\nInschrift",
+    "crumbs": [
+      "9 Speicher",
+      "9 Speichern"
+    ]
+  },
+  {
+    "objectID": "9 Speicher/Speichern.html#speichern",
+    "href": "9 Speicher/Speichern.html#speichern",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Etwas zu speichern bedeutet etwas zu schreiben und zu einem späteren Zeitpunkt zu lesen.\n\nSeite 33 in Zeile 22 Zeichen Nummer 11\nInschrift",
+    "crumbs": [
+      "9 Speicher",
+      "9 Speichern"
+    ]
+  },
+  {
+    "objectID": "9 Speicher/Bit.html",
+    "href": "9 Speicher/Bit.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ein Zeichen des Alphabets {0,1}\n\nSpeichern\nAlphabet",
+    "crumbs": [
+      "9 Speicher",
+      "9 Bit"
+    ]
+  },
+  {
+    "objectID": "9 Speicher/Bit.html#bit",
+    "href": "9 Speicher/Bit.html#bit",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ein Zeichen des Alphabets {0,1}\n\nSpeichern\nAlphabet",
+    "crumbs": [
+      "9 Speicher",
+      "9 Bit"
+    ]
+  },
+  {
+    "objectID": "9 Speicher/Auslesefunktion eines Speichers.html",
+    "href": "9 Speicher/Auslesefunktion eines Speichers.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(\\text{memread} : \\text{Mem} \\times \\text{Adr} \\rightarrow \\text{Val}\\)\n\\((m, a) \\mapsto m(a)\\)\n\nSpeicher als Tabelle",
+    "crumbs": [
+      "9 Speicher",
+      "9 Auslesefunktion eines Speichers"
+    ]
+  },
+  {
+    "objectID": "9 Speicher/Auslesefunktion eines Speichers.html#auslesefunktion-eines-speichers",
+    "href": "9 Speicher/Auslesefunktion eines Speichers.html#auslesefunktion-eines-speichers",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(\\text{memread} : \\text{Mem} \\times \\text{Adr} \\rightarrow \\text{Val}\\)\n\\((m, a) \\mapsto m(a)\\)\n\nSpeicher als Tabelle",
+    "crumbs": [
+      "9 Speicher",
+      "9 Auslesefunktion eines Speichers"
+    ]
+  },
+  {
+    "objectID": "9 Speicher/Wahlfreier Zugriff.html",
+    "href": "9 Speicher/Wahlfreier Zugriff.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Englisch “random access”. Darunter versteht man die Möglichkeit in konstanter (oder unter-linearer) Zeit ein Element aus einem Speicher zu lesen oder schreiben zu können.\n\nSpeichern",
+    "crumbs": [
+      "9 Speicher",
+      "9 Wahlfreier Zugriff"
+    ]
+  },
+  {
+    "objectID": "9 Speicher/Wahlfreier Zugriff.html#wahlfreier-zugriff",
+    "href": "9 Speicher/Wahlfreier Zugriff.html#wahlfreier-zugriff",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Englisch “random access”. Darunter versteht man die Möglichkeit in konstanter (oder unter-linearer) Zeit ein Element aus einem Speicher zu lesen oder schreiben zu können.\n\nSpeichern",
+    "crumbs": [
+      "9 Speicher",
+      "9 Wahlfreier Zugriff"
+    ]
+  },
+  {
+    "objectID": "9 Speicher/Menge aller möglichen Speicherzustände.html",
+    "href": "9 Speicher/Menge aller möglichen Speicherzustände.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(\\text{Mem} = \\text{Val}^{\\text{Adr}}\\)\n\nSpeicher als Tabelle\nMenge aller Abbildungen von A nach B",
+    "crumbs": [
+      "9 Speicher",
+      "9 Menge aller möglichen Speicherzustände"
+    ]
+  },
+  {
+    "objectID": "9 Speicher/Menge aller möglichen Speicherzustände.html#menge-aller-möglichen-speicherzustände",
+    "href": "9 Speicher/Menge aller möglichen Speicherzustände.html#menge-aller-möglichen-speicherzustände",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(\\text{Mem} = \\text{Val}^{\\text{Adr}}\\)\n\nSpeicher als Tabelle\nMenge aller Abbildungen von A nach B",
+    "crumbs": [
+      "9 Speicher",
+      "9 Menge aller möglichen Speicherzustände"
+    ]
+  },
+  {
+    "objectID": "17 Quantitative Aspekte/Mastertheorem.html",
+    "href": "17 Quantitative Aspekte/Mastertheorem.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(\\text{Fall 1:} \\quad \\text{Wenn } f \\in O(n^{\\log_b a - \\epsilon}) \\text{ für ein } \\epsilon &gt; 0 \\text{ ist, dann ist } T \\in \\Theta(n^{\\log_b a}).\\)\n\\(\\text{Fall 2:} \\quad \\text{Wenn } f \\in \\Theta(n^{\\log_b a}) \\text{ ist, dann ist } T \\in \\Theta(n^{\\log_b a} \\log n).\\)\\(\\text{Fall 3:} \\quad \\text{Wenn } f \\in \\Omega(n^{\\log_b a + \\epsilon}) \\text{ für ein } \\epsilon &gt; 0 \\text{und wenn es eine Konstante d gibt mit 0 &lt; d &lt;1,sodass für alle hinreichend großen n gilt af(n/b) ≤ df, dann ist T ∈ Θ(f)}\\)\n\nAsymptotisches bzw Größenordnungsmäßiges Wachstum",
+    "crumbs": [
+      "17 Quantitative Aspekte",
+      "17 Mastertheorem"
+    ]
+  },
+  {
+    "objectID": "17 Quantitative Aspekte/Mastertheorem.html#mastertheorem",
+    "href": "17 Quantitative Aspekte/Mastertheorem.html#mastertheorem",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(\\text{Fall 1:} \\quad \\text{Wenn } f \\in O(n^{\\log_b a - \\epsilon}) \\text{ für ein } \\epsilon &gt; 0 \\text{ ist, dann ist } T \\in \\Theta(n^{\\log_b a}).\\)\n\\(\\text{Fall 2:} \\quad \\text{Wenn } f \\in \\Theta(n^{\\log_b a}) \\text{ ist, dann ist } T \\in \\Theta(n^{\\log_b a} \\log n).\\)\\(\\text{Fall 3:} \\quad \\text{Wenn } f \\in \\Omega(n^{\\log_b a + \\epsilon}) \\text{ für ein } \\epsilon &gt; 0 \\text{und wenn es eine Konstante d gibt mit 0 &lt; d &lt;1,sodass für alle hinreichend großen n gilt af(n/b) ≤ df, dann ist T ∈ Θ(f)}\\)\n\nAsymptotisches bzw Größenordnungsmäßiges Wachstum",
+    "crumbs": [
+      "17 Quantitative Aspekte",
+      "17 Mastertheorem"
+    ]
+  },
+  {
+    "objectID": "17 Quantitative Aspekte/Rechenzeit eines Algorithmus.html",
+    "href": "17 Quantitative Aspekte/Rechenzeit eines Algorithmus.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Asymptotisches bzw Größenordnungsmäßiges Wachstum",
+    "crumbs": [
+      "17 Quantitative Aspekte",
+      "17 Rechenzeit eines Algorithmus"
+    ]
+  },
+  {
+    "objectID": "17 Quantitative Aspekte/Rechenzeit eines Algorithmus.html#rechenzeit-eines-algorithmus",
+    "href": "17 Quantitative Aspekte/Rechenzeit eines Algorithmus.html#rechenzeit-eines-algorithmus",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Asymptotisches bzw Größenordnungsmäßiges Wachstum",
+    "crumbs": [
+      "17 Quantitative Aspekte",
+      "17 Rechenzeit eines Algorithmus"
+    ]
+  },
+  {
+    "objectID": "17 Quantitative Aspekte/Asymptotisches bzw Größenordnungsmäßiges Wachstum.html",
+    "href": "17 Quantitative Aspekte/Asymptotisches bzw Größenordnungsmäßiges Wachstum.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Zwei Funktionen g,f wachsen größenordnungsmäßig gleich, wenn zwei konstante Faktoren c und c’ existieren, sodass ich g mit f oder umgekehrt “Einsandwichen” kann. Formal gesagt:\n\\(\\exists c, c' \\in \\mathbb{R}^+ : \\exists n_0 \\in \\mathbb{N}_0 : \\forall n \\geq n_0 : cf(n) \\leq g(n) \\leq c' f(n)\\)\nIn dem fall schreibt man \\(f ≍ g \\ \\ \\text{oder} \\ \\ f(n) ≍ g(n).\\)\n\nAbbildung",
+    "crumbs": [
+      "17 Quantitative Aspekte",
+      "17 Asymptotisches bzw Größenordnungsmäßiges Wachstum"
+    ]
+  },
+  {
+    "objectID": "17 Quantitative Aspekte/Asymptotisches bzw Größenordnungsmäßiges Wachstum.html#asymptotisches-bzw-größenordnungsmäßiges-wachstum",
+    "href": "17 Quantitative Aspekte/Asymptotisches bzw Größenordnungsmäßiges Wachstum.html#asymptotisches-bzw-größenordnungsmäßiges-wachstum",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Zwei Funktionen g,f wachsen größenordnungsmäßig gleich, wenn zwei konstante Faktoren c und c’ existieren, sodass ich g mit f oder umgekehrt “Einsandwichen” kann. Formal gesagt:\n\\(\\exists c, c' \\in \\mathbb{R}^+ : \\exists n_0 \\in \\mathbb{N}_0 : \\forall n \\geq n_0 : cf(n) \\leq g(n) \\leq c' f(n)\\)\nIn dem fall schreibt man \\(f ≍ g \\ \\ \\text{oder} \\ \\ f(n) ≍ g(n).\\)\n\nAbbildung",
+    "crumbs": [
+      "17 Quantitative Aspekte",
+      "17 Asymptotisches bzw Größenordnungsmäßiges Wachstum"
+    ]
+  },
+  {
+    "objectID": "17 Quantitative Aspekte/O(f).html",
+    "href": "17 Quantitative Aspekte/O(f).html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(O(f)\\) ist die Menge aller Funktionen, die asymptotisch/größenordnungsmäßig langsamer oder gleichschnell wie f wachsen.\n\nAsymptotisches bzw Größenordnungsmäßiges Wachstum",
+    "crumbs": [
+      "17 Quantitative Aspekte",
+      "17 $O(f)$"
+    ]
+  },
+  {
+    "objectID": "17 Quantitative Aspekte/O(f).html#of",
+    "href": "17 Quantitative Aspekte/O(f).html#of",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(O(f)\\) ist die Menge aller Funktionen, die asymptotisch/größenordnungsmäßig langsamer oder gleichschnell wie f wachsen.\n\nAsymptotisches bzw Größenordnungsmäßiges Wachstum",
+    "crumbs": [
+      "17 Quantitative Aspekte",
+      "17 $O(f)$"
+    ]
+  },
+  {
+    "objectID": "20 Turingmaschine/Konfiguration einer Turingmaschine.html",
+    "href": "20 Turingmaschine/Konfiguration einer Turingmaschine.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine Turingmaschine befindet sich zu jedem Zeitpunkt in einem Gesamtzustand, den wir die Konfiguration nennen. Diese beinhaltet:\n\nDie aktuelle Bandposition\nDie aktuelle Beschriftung des Bandes\nDer aktuelle Zustand \\(z \\in Z\\) der Steuereinheit\n\n\nTuringmaschine",
+    "crumbs": [
+      "20 Turingmaschine",
+      "20 Konfiguration einer Turingmaschine"
+    ]
+  },
+  {
+    "objectID": "20 Turingmaschine/Konfiguration einer Turingmaschine.html#konfiguration-einer-turingmaschine",
+    "href": "20 Turingmaschine/Konfiguration einer Turingmaschine.html#konfiguration-einer-turingmaschine",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine Turingmaschine befindet sich zu jedem Zeitpunkt in einem Gesamtzustand, den wir die Konfiguration nennen. Diese beinhaltet:\n\nDie aktuelle Bandposition\nDie aktuelle Beschriftung des Bandes\nDer aktuelle Zustand \\(z \\in Z\\) der Steuereinheit\n\n\nTuringmaschine",
+    "crumbs": [
+      "20 Turingmaschine",
+      "20 Konfiguration einer Turingmaschine"
+    ]
+  },
+  {
+    "objectID": "20 Turingmaschine/Zeitkomplexität.html",
+    "href": "20 Turingmaschine/Zeitkomplexität.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ist einer der beiden Komplexitätsmaße einer Turingmaschine. Um diese zu beschreiben gibt es zwei Funktionen die folgendermaßen definiert sind:\n\\(time_T: A^+ \\rightarrow \\Bbb{N}_+\\)\n\\(w \\mapsto \\text{das t, für das gilt} \\ \\ \\bf{\\Delta^t(c_0(w))} \\ \\text{ist eine Endkonfiguration}\\)\n\\(Time_T: \\Bbb{N}_+ \\rightarrow \\Bbb{N}_+\\)\n\\(n \\mapsto max\\{time_T(w) \\ |  \\ w \\in A^n\\}\\)\nfür diese gilt:\n\nTuringmaschine\nRechenzeit eines Algorithmus",
+    "crumbs": [
+      "20 Turingmaschine",
+      "20 Zeitkomplexität"
+    ]
+  },
+  {
+    "objectID": "20 Turingmaschine/Zeitkomplexität.html#zeitkomplexität",
+    "href": "20 Turingmaschine/Zeitkomplexität.html#zeitkomplexität",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ist einer der beiden Komplexitätsmaße einer Turingmaschine. Um diese zu beschreiben gibt es zwei Funktionen die folgendermaßen definiert sind:\n\\(time_T: A^+ \\rightarrow \\Bbb{N}_+\\)\n\\(w \\mapsto \\text{das t, für das gilt} \\ \\ \\bf{\\Delta^t(c_0(w))} \\ \\text{ist eine Endkonfiguration}\\)\n\\(Time_T: \\Bbb{N}_+ \\rightarrow \\Bbb{N}_+\\)\n\\(n \\mapsto max\\{time_T(w) \\ |  \\ w \\in A^n\\}\\)\nfür diese gilt:\n\nTuringmaschine\nRechenzeit eines Algorithmus",
+    "crumbs": [
+      "20 Turingmaschine",
+      "20 Zeitkomplexität"
+    ]
+  },
+  {
+    "objectID": "20 Turingmaschine/Endkonfiguration einer Turingmaschine.html",
+    "href": "20 Turingmaschine/Endkonfiguration einer Turingmaschine.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Falls es für eine Konfiguration \\(c\\) keine Nachfolgerkonfiguration gibt dann nennt man \\(c\\) auch eine Endkonfiguration. Die Turingmaschine hält dann.\n\nTuringmaschine",
+    "crumbs": [
+      "20 Turingmaschine",
+      "20 Endkonfiguration einer Turingmaschine"
+    ]
+  },
+  {
+    "objectID": "20 Turingmaschine/Endkonfiguration einer Turingmaschine.html#endkonfiguration-einer-turingmaschine",
+    "href": "20 Turingmaschine/Endkonfiguration einer Turingmaschine.html#endkonfiguration-einer-turingmaschine",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Falls es für eine Konfiguration \\(c\\) keine Nachfolgerkonfiguration gibt dann nennt man \\(c\\) auch eine Endkonfiguration. Die Turingmaschine hält dann.\n\nTuringmaschine",
+    "crumbs": [
+      "20 Turingmaschine",
+      "20 Endkonfiguration einer Turingmaschine"
+    ]
+  },
+  {
+    "objectID": "20 Turingmaschine/Turingmaschinenakzeptor.html",
+    "href": "20 Turingmaschine/Turingmaschinenakzeptor.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine Turingmaschine ist ein Turingmaschinenakzeptor, falls diese Entscheidungsprobleme lösen kann. Eine Eingabe gilt als Akzeptiert, falls die Turingmaschine in einem akzeptierenden Zustand hält. Die Menge aller akzeptierten Wörter nennt man akzeptierte Formale Sprache \\(L(T)\\). Man kann so eine Turingmaschine aber auch immer umbauen, dass falls das Wort akzeptiert wird, dass eine 1 bzw 0 auf das Band geschrieben wird lol.\n\nTuringmaschine\nEndlicher Akzeptor",
+    "crumbs": [
+      "20 Turingmaschine",
+      "20 Turingmaschinenakzeptor"
+    ]
+  },
+  {
+    "objectID": "20 Turingmaschine/Turingmaschinenakzeptor.html#turingmaschinenakzeptor",
+    "href": "20 Turingmaschine/Turingmaschinenakzeptor.html#turingmaschinenakzeptor",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine Turingmaschine ist ein Turingmaschinenakzeptor, falls diese Entscheidungsprobleme lösen kann. Eine Eingabe gilt als Akzeptiert, falls die Turingmaschine in einem akzeptierenden Zustand hält. Die Menge aller akzeptierten Wörter nennt man akzeptierte Formale Sprache \\(L(T)\\). Man kann so eine Turingmaschine aber auch immer umbauen, dass falls das Wort akzeptiert wird, dass eine 1 bzw 0 auf das Band geschrieben wird lol.\n\nTuringmaschine\nEndlicher Akzeptor",
+    "crumbs": [
+      "20 Turingmaschine",
+      "20 Turingmaschinenakzeptor"
+    ]
+  },
+  {
+    "objectID": "20 Turingmaschine/(haltende) Endliche Berechnung (Turingmaschine).html",
+    "href": "20 Turingmaschine/(haltende) Endliche Berechnung (Turingmaschine).html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine Folge von Konfiguration \\((c_1,c_2,c_3,...,c_k)\\) ist eine endliche Berechnung, wenn die Konfigurationen alle aufsteigend sind, und es eine Konfigurationsübergangsfunktion \\(\\Delta\\) gibt, sodass \\(\\Delta(c_i) = (c_{i+1})\\). Eine Endliche Berechnung ist haltend, wenn \\(c_k\\) eine Endkonfiguration ist.\n\nEndkonfiguration einer Turingmaschine",
+    "crumbs": [
+      "20 Turingmaschine",
+      "20 (haltende) Endliche Berechnung (Turingmaschine)"
+    ]
+  },
+  {
+    "objectID": "20 Turingmaschine/(haltende) Endliche Berechnung (Turingmaschine).html#haltende-endliche-berechnung-turingmaschine",
+    "href": "20 Turingmaschine/(haltende) Endliche Berechnung (Turingmaschine).html#haltende-endliche-berechnung-turingmaschine",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine Folge von Konfiguration \\((c_1,c_2,c_3,...,c_k)\\) ist eine endliche Berechnung, wenn die Konfigurationen alle aufsteigend sind, und es eine Konfigurationsübergangsfunktion \\(\\Delta\\) gibt, sodass \\(\\Delta(c_i) = (c_{i+1})\\). Eine Endliche Berechnung ist haltend, wenn \\(c_k\\) eine Endkonfiguration ist.\n\nEndkonfiguration einer Turingmaschine",
+    "crumbs": [
+      "20 Turingmaschine",
+      "20 (haltende) Endliche Berechnung (Turingmaschine)"
+    ]
+  },
+  {
+    "objectID": "16 Algorhitmen in Graphen/Adjazenzliste.html",
+    "href": "16 Algorhitmen in Graphen/Adjazenzliste.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Man speichert die Information über benachbarte Knoten bei jedem Knoten als Liste. Man kann dies als Tabelle auffassen wo man in einer Spalte die jeweiligen Knoten hat und in der anderen Spalte die Adjazenten Knoten.\n\nAdjazente Knoten",
+    "crumbs": [
+      "16 Algorhitmen in Graphen",
+      "16 Adjazenzliste"
+    ]
+  },
+  {
+    "objectID": "16 Algorhitmen in Graphen/Adjazenzliste.html#adjazenzliste",
+    "href": "16 Algorhitmen in Graphen/Adjazenzliste.html#adjazenzliste",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Man speichert die Information über benachbarte Knoten bei jedem Knoten als Liste. Man kann dies als Tabelle auffassen wo man in einer Spalte die jeweiligen Knoten hat und in der anderen Spalte die Adjazenten Knoten.\n\nAdjazente Knoten",
+    "crumbs": [
+      "16 Algorhitmen in Graphen",
+      "16 Adjazenzliste"
+    ]
+  },
+  {
+    "objectID": "16 Algorhitmen in Graphen/Berechnung der Ereichbarkeitsrelation.html",
+    "href": "16 Algorhitmen in Graphen/Berechnung der Ereichbarkeitsrelation.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Naja also ich muss ja sozusagen die Unendliche Vereinigung aller Erreichbarkeitsrelationen machen. Aber ne das geht schlauer: Wir summieren die Potenzen der Matrix von 0 bis n-1. An die resultierende Matrix wenden wir die Signum Funktion an und schon haben wir die Wegematrix zu einem zugehören Graphen anhang seiner Adjazenzmatrix berechnet :)\n\nWegematrix",
+    "crumbs": [
+      "16 Algorhitmen in Graphen",
+      "16 Berechnung der Ereichbarkeitsrelation"
+    ]
+  },
+  {
+    "objectID": "16 Algorhitmen in Graphen/Berechnung der Ereichbarkeitsrelation.html#berechnung-der-ereichbarkeitsrelation",
+    "href": "16 Algorhitmen in Graphen/Berechnung der Ereichbarkeitsrelation.html#berechnung-der-ereichbarkeitsrelation",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Naja also ich muss ja sozusagen die Unendliche Vereinigung aller Erreichbarkeitsrelationen machen. Aber ne das geht schlauer: Wir summieren die Potenzen der Matrix von 0 bis n-1. An die resultierende Matrix wenden wir die Signum Funktion an und schon haben wir die Wegematrix zu einem zugehören Graphen anhang seiner Adjazenzmatrix berechnet :)\n\nWegematrix",
+    "crumbs": [
+      "16 Algorhitmen in Graphen",
+      "16 Berechnung der Ereichbarkeitsrelation"
+    ]
+  },
+  {
+    "objectID": "16 Algorhitmen in Graphen/Adjazenzmatrizen.html",
+    "href": "16 Algorhitmen in Graphen/Adjazenzmatrizen.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Naja man kann eine Adjazenzmatrix aufstellen und wenn zwischen zwei Knoten eine Verbindung besteht schreiben wir in den Eintrag 1 hin. Wie bei Matrizen gilt auch hier das Prinzip: erst nach unten laufen und dann nach rechts: also wenn von 0 nach 1 eine Verbindung besteht gehen wir 0 nach unten und 1 nach rechts und schreiben in den Eintrag der Matrix eine 1 hin.\nBei einem ungerichteten Graphen versteht man unter der Adjazenzmatrix die Adjazentmatrix der jeweils zum Ungerichtete Graphen gehörige Gerichteter Graph.\n\nAdjazenzliste\nAdjazente Knoten",
+    "crumbs": [
+      "16 Algorhitmen in Graphen",
+      "16 Adjazenzmatrizen"
+    ]
+  },
+  {
+    "objectID": "16 Algorhitmen in Graphen/Adjazenzmatrizen.html#adjazenzmatrizen",
+    "href": "16 Algorhitmen in Graphen/Adjazenzmatrizen.html#adjazenzmatrizen",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Naja man kann eine Adjazenzmatrix aufstellen und wenn zwischen zwei Knoten eine Verbindung besteht schreiben wir in den Eintrag 1 hin. Wie bei Matrizen gilt auch hier das Prinzip: erst nach unten laufen und dann nach rechts: also wenn von 0 nach 1 eine Verbindung besteht gehen wir 0 nach unten und 1 nach rechts und schreiben in den Eintrag der Matrix eine 1 hin.\nBei einem ungerichteten Graphen versteht man unter der Adjazenzmatrix die Adjazentmatrix der jeweils zum Ungerichtete Graphen gehörige Gerichteter Graph.\n\nAdjazenzliste\nAdjazente Knoten",
+    "crumbs": [
+      "16 Algorhitmen in Graphen",
+      "16 Adjazenzmatrizen"
+    ]
+  },
+  {
+    "objectID": "18 Endliche Automaten/Moore-Automaten.html",
+    "href": "18 Endliche Automaten/Moore-Automaten.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ist festgelegt durch:\nMoore-Automat A = (Z,z0,X, f,Y,h)\n• eine endliche Zustandsmenge Z,\n• einen Anfangszustand z0 ∈ Z,\n• ein Eingabealphabet X,\n• eine Zustandsüberführungsfunktion f : Z × X → Z,\n• ein Ausgabealphabet Y,\n• eine Ausgabefunktion h : Z → Y∗\nEin Moore-Automat unterscheidet sich nur durch die Definition der Aufgabefunktion h. Hierbei ist der Unterschied, dass ein Moore Automat eine Ausgabe macht, wenn wir in einem Zustand sind. Der Mealy automat dagegen, wenn wir von einem Zustand in einen anderen übergehen.\n\nGerichteter Graph",
+    "crumbs": [
+      "18 Endliche Automaten",
+      "18 Moore-Automaten"
+    ]
+  },
+  {
+    "objectID": "18 Endliche Automaten/Moore-Automaten.html#moore-automaten",
+    "href": "18 Endliche Automaten/Moore-Automaten.html#moore-automaten",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ist festgelegt durch:\nMoore-Automat A = (Z,z0,X, f,Y,h)\n• eine endliche Zustandsmenge Z,\n• einen Anfangszustand z0 ∈ Z,\n• ein Eingabealphabet X,\n• eine Zustandsüberführungsfunktion f : Z × X → Z,\n• ein Ausgabealphabet Y,\n• eine Ausgabefunktion h : Z → Y∗\nEin Moore-Automat unterscheidet sich nur durch die Definition der Aufgabefunktion h. Hierbei ist der Unterschied, dass ein Moore Automat eine Ausgabe macht, wenn wir in einem Zustand sind. Der Mealy automat dagegen, wenn wir von einem Zustand in einen anderen übergehen.\n\nGerichteter Graph",
+    "crumbs": [
+      "18 Endliche Automaten",
+      "18 Moore-Automaten"
+    ]
+  },
+  {
+    "objectID": "18 Endliche Automaten/Zustandsauswertungsfunktionen eines endlichen Automaten.html",
+    "href": "18 Endliche Automaten/Zustandsauswertungsfunktionen eines endlichen Automaten.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Als info: ein Stern soll bedeuten, dass ein zweites Argument nicht nur ein einzelnes Symbol ist, sondern ein ganzes Wort.\nZwei Sterne soll bedeuten, dass wir uns nicht für einen Funktionswert interessieren, sondern für ein ganzes Wort von Funktionswerten.\n\\(f_*(z, \\varepsilon) = z\\)\n\\(\\forall w \\in X^* : \\forall x \\in X : f_*(z, wx) = f(f_*(z, w), x)\\)\nzudem:\n\\(f_{**}(z, \\varepsilon) = z\\)\n\\(\\forall w \\in X^* : \\forall x \\in X : f_{**}(z, wx) = f_{**}(z,w) \\cdot f_*(z,wx)\\)\n\nMealy-Automat\nMoore-Automaten",
+    "crumbs": [
+      "18 Endliche Automaten",
+      "18 Zustandsuswertungsfunktionen eines endlichen Automaten"
+    ]
+  },
+  {
+    "objectID": "18 Endliche Automaten/Zustandsauswertungsfunktionen eines endlichen Automaten.html#zustandsuswertungsfunktionen-eines-endlichen-automaten",
+    "href": "18 Endliche Automaten/Zustandsauswertungsfunktionen eines endlichen Automaten.html#zustandsuswertungsfunktionen-eines-endlichen-automaten",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Als info: ein Stern soll bedeuten, dass ein zweites Argument nicht nur ein einzelnes Symbol ist, sondern ein ganzes Wort.\nZwei Sterne soll bedeuten, dass wir uns nicht für einen Funktionswert interessieren, sondern für ein ganzes Wort von Funktionswerten.\n\\(f_*(z, \\varepsilon) = z\\)\n\\(\\forall w \\in X^* : \\forall x \\in X : f_*(z, wx) = f(f_*(z, w), x)\\)\nzudem:\n\\(f_{**}(z, \\varepsilon) = z\\)\n\\(\\forall w \\in X^* : \\forall x \\in X : f_{**}(z, wx) = f_{**}(z,w) \\cdot f_*(z,wx)\\)\n\nMealy-Automat\nMoore-Automaten",
+    "crumbs": [
+      "18 Endliche Automaten",
+      "18 Zustandsuswertungsfunktionen eines endlichen Automaten"
+    ]
+  },
+  {
+    "objectID": "18 Endliche Automaten/Ausgabeauswertungsfunktion eines Endlichen Automatens.html",
+    "href": "18 Endliche Automaten/Ausgabeauswertungsfunktion eines Endlichen Automatens.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Als info: ein Stern soll bedeuten, dass ein zweites Argument nicht nur ein einzelnes Symbol ist, sondern ein ganzes Wort.\nZwei Sterne soll bedeuten, dass wir uns nicht für einen Funktionswert interessieren, sondern für ein ganzes Wort von Funktionswerten.\n\\(g_*(z, \\varepsilon) = \\varepsilon\\)\n\\(\\forall w \\in X^* : \\forall x \\in X : g_*(z, wx) = g(f_*(z,w),x)\\)\n\n\n\n\\(g_{**}(z, \\varepsilon) = \\varepsilon\\)\n\\(\\forall w \\in X^* : \\forall x \\in X : g_{**}(z, wx) = g_{**}(z,w) \\cdot g^*(z,wx)\\)\n\nAbbildung",
+    "crumbs": [
+      "18 Endliche Automaten",
+      "18 Ausgabeauswertungsfunktion eines Endlichen Automatens"
+    ]
+  },
+  {
+    "objectID": "18 Endliche Automaten/Ausgabeauswertungsfunktion eines Endlichen Automatens.html#ausgabeauswertungsfunktion-eines-endlichen-automatens",
+    "href": "18 Endliche Automaten/Ausgabeauswertungsfunktion eines Endlichen Automatens.html#ausgabeauswertungsfunktion-eines-endlichen-automatens",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Als info: ein Stern soll bedeuten, dass ein zweites Argument nicht nur ein einzelnes Symbol ist, sondern ein ganzes Wort.\nZwei Sterne soll bedeuten, dass wir uns nicht für einen Funktionswert interessieren, sondern für ein ganzes Wort von Funktionswerten.\n\\(g_*(z, \\varepsilon) = \\varepsilon\\)\n\\(\\forall w \\in X^* : \\forall x \\in X : g_*(z, wx) = g(f_*(z,w),x)\\)\n\n\n\n\\(g_{**}(z, \\varepsilon) = \\varepsilon\\)\n\\(\\forall w \\in X^* : \\forall x \\in X : g_{**}(z, wx) = g_{**}(z,w) \\cdot g^*(z,wx)\\)\n\nAbbildung",
+    "crumbs": [
+      "18 Endliche Automaten",
+      "18 Ausgabeauswertungsfunktion eines Endlichen Automatens"
+    ]
+  },
+  {
+    "objectID": "21 Relationen/Halbordnungen.html",
+    "href": "21 Relationen/Halbordnungen.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine Relation heißt Halbordnung, wenn sie Reflexiv, Antisymetrisch und Transitiv ist.\nDas ist so gebaut, dass \\(\\leq, \\subseteq...\\) alles Halbordnungen sind\n\nAntisymetrie\nÄquivalenzrealtionen\nRelation",
+    "crumbs": [
+      "21 Relationen",
+      "21 Halbordnungen"
+    ]
+  },
+  {
+    "objectID": "21 Relationen/Halbordnungen.html#halbordnungen",
+    "href": "21 Relationen/Halbordnungen.html#halbordnungen",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine Relation heißt Halbordnung, wenn sie Reflexiv, Antisymetrisch und Transitiv ist.\nDas ist so gebaut, dass \\(\\leq, \\subseteq...\\) alles Halbordnungen sind\n\nAntisymetrie\nÄquivalenzrealtionen\nRelation",
+    "crumbs": [
+      "21 Relationen",
+      "21 Halbordnungen"
+    ]
+  },
+  {
+    "objectID": "21 Relationen/Antisymetrie.html",
+    "href": "21 Relationen/Antisymetrie.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine Relation heißt Antisymetrisch, wenn sie nicht Symetrisch ist. Also: wenn es zwischen zwei Elemente eine Symetrische Relation gibt dann sike die sind eigentlich gleich",
+    "crumbs": [
+      "21 Relationen",
+      "Antisymetrie.html"
+    ]
+  },
+  {
+    "objectID": "21 Relationen/Totale Ordnung.html",
+    "href": "21 Relationen/Totale Ordnung.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "eine Relation \\(R \\subseteq M \\times M\\) ist eine Ordnung (oder auch totale Ordnung), wenn:\n\ndie Relation R eine Halbordnung ist\n\\(\\forall x,y \\in M: xRy \\lor yRx\\).\n\nHalbordnungen",
+    "crumbs": [
+      "21 Relationen",
+      "Totale Ordnung.html"
+    ]
+  },
+  {
+    "objectID": "13 Prädikatenlogik/Signatur einer prädikatenlogischen Formel.html",
+    "href": "13 Prädikatenlogik/Signatur einer prädikatenlogischen Formel.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine Signatur \\(\\Sigma\\) ist ein 5-Tupel bestehend aus \\(\\Sigma = (\\text{Var}_{\\text{PL}}, \\text{Fun}_{\\text{PL}}, \\text{Const}_{\\text{PL}}, \\text{Rel}_{\\text{PL}}, \\text{ar})\\)\n\\(Var_{PL}\\) sind die Variablensymbole \\(x_1, x_1, x_3...\\)\n\\(Fun_{PL}\\) sind die Funktionsymbole \\(f_1,f_2,f_3...\\)\n\\(Const_{PL}\\) sind die Konstantensymbole. Idk hier einfach nicht definiert ja viel Glück\n\\(Rel_PL\\) sind die Relationssymbole \\(R_1,R_2,R_3\\)\n\\(ar\\) ist die Aritätsfunktion, die jedem Funktionssymbol und Relationssymbol eine Arität zuweist.\nSehr random Merksatz für die Reihenfolge:\nVarianten funkitonierender konstruktiver Religionen argumentieren\n\nAussage",
+    "crumbs": [
+      "13 Prädikatenlogik",
+      "13 Signatur einer prädikatenlogischen Formel"
+    ]
+  },
+  {
+    "objectID": "13 Prädikatenlogik/Signatur einer prädikatenlogischen Formel.html#signatur-einer-prädikatenlogischen-formel",
+    "href": "13 Prädikatenlogik/Signatur einer prädikatenlogischen Formel.html#signatur-einer-prädikatenlogischen-formel",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine Signatur \\(\\Sigma\\) ist ein 5-Tupel bestehend aus \\(\\Sigma = (\\text{Var}_{\\text{PL}}, \\text{Fun}_{\\text{PL}}, \\text{Const}_{\\text{PL}}, \\text{Rel}_{\\text{PL}}, \\text{ar})\\)\n\\(Var_{PL}\\) sind die Variablensymbole \\(x_1, x_1, x_3...\\)\n\\(Fun_{PL}\\) sind die Funktionsymbole \\(f_1,f_2,f_3...\\)\n\\(Const_{PL}\\) sind die Konstantensymbole. Idk hier einfach nicht definiert ja viel Glück\n\\(Rel_PL\\) sind die Relationssymbole \\(R_1,R_2,R_3\\)\n\\(ar\\) ist die Aritätsfunktion, die jedem Funktionssymbol und Relationssymbol eine Arität zuweist.\nSehr random Merksatz für die Reihenfolge:\nVarianten funkitonierender konstruktiver Religionen argumentieren\n\nAussage",
+    "crumbs": [
+      "13 Prädikatenlogik",
+      "13 Signatur einer prädikatenlogischen Formel"
+    ]
+  },
+  {
+    "objectID": "13 Prädikatenlogik/Prädikatenlogische Formel.html",
+    "href": "13 Prädikatenlogik/Prädikatenlogische Formel.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Die menge der Prädikatenlogischen Formeln \\(For_\\Sigma\\) ist die kleinste Menge für die gilt:\nJede Atomare Formel ist in \\(For_\\Sigma\\).\nWenn \\(G,H\\in For_{AL}\\), dann sind auch \\(\\neg F, (G \\land F), (G \\lor F), (G \\implies F) \\in For_\\Sigma\\).\nWenn \\(x\\in Var_{PL}\\), und \\(F\\in For_\\Sigma\\), dann sind \\((\\forall x \\ \\ F),(\\exists x \\ \\ F) \\in For_\\Sigma\\).\n\nPrädikatenlogische Formel\nSignatur einer prädikatenlogischen Formel\n[[Formel]]",
+    "crumbs": [
+      "13 Prädikatenlogik",
+      "13 Prädikatenlogische Formel"
+    ]
+  },
+  {
+    "objectID": "13 Prädikatenlogik/Prädikatenlogische Formel.html#prädikatenlogische-formel",
+    "href": "13 Prädikatenlogik/Prädikatenlogische Formel.html#prädikatenlogische-formel",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Die menge der Prädikatenlogischen Formeln \\(For_\\Sigma\\) ist die kleinste Menge für die gilt:\nJede Atomare Formel ist in \\(For_\\Sigma\\).\nWenn \\(G,H\\in For_{AL}\\), dann sind auch \\(\\neg F, (G \\land F), (G \\lor F), (G \\implies F) \\in For_\\Sigma\\).\nWenn \\(x\\in Var_{PL}\\), und \\(F\\in For_\\Sigma\\), dann sind \\((\\forall x \\ \\ F),(\\exists x \\ \\ F) \\in For_\\Sigma\\).\n\nPrädikatenlogische Formel\nSignatur einer prädikatenlogischen Formel\n[[Formel]]",
+    "crumbs": [
+      "13 Prädikatenlogik",
+      "13 Prädikatenlogische Formel"
+    ]
+  },
+  {
+    "objectID": "13 Prädikatenlogik/Gleichheit in der Prädikatenlogik.html",
+    "href": "13 Prädikatenlogik/Gleichheit in der Prädikatenlogik.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Die Gleichheit in der Prädikatenlogik ist einfach eine ganz normale Relation. Diese ist aber immer so definiert, dass I(\\(\\stackrel{\\cdot}{=}\\)) = \\(I_D\\). Also ist die Interpretation die Menge aller Tupel der Form (d,d) wenn \\(d \\in D\\).\n\nPrädikatenlogische Interpretation",
+    "crumbs": [
+      "13 Prädikatenlogik",
+      "13 Gleichheit in der Prädikatenlogik"
+    ]
+  },
+  {
+    "objectID": "13 Prädikatenlogik/Gleichheit in der Prädikatenlogik.html#gleichheit-in-der-prädikatenlogik",
+    "href": "13 Prädikatenlogik/Gleichheit in der Prädikatenlogik.html#gleichheit-in-der-prädikatenlogik",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Die Gleichheit in der Prädikatenlogik ist einfach eine ganz normale Relation. Diese ist aber immer so definiert, dass I(\\(\\stackrel{\\cdot}{=}\\)) = \\(I_D\\). Also ist die Interpretation die Menge aller Tupel der Form (d,d) wenn \\(d \\in D\\).\n\nPrädikatenlogische Interpretation",
+    "crumbs": [
+      "13 Prädikatenlogik",
+      "13 Gleichheit in der Prädikatenlogik"
+    ]
+  },
+  {
+    "objectID": "13 Prädikatenlogik/Modell einer prädikatenlogische Formel G.html",
+    "href": "13 Prädikatenlogik/Modell einer prädikatenlogische Formel G.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ist (D, I) eine Interpretation für eine Prädikatenlogsiche Formel G, dann ist (D, I) ein Modell von G, wenn die Formel für jede Variablenbelegung auf Wahr auswertet.\n\nAuswertung einer Prädikatenlogischer Formel",
+    "crumbs": [
+      "13 Prädikatenlogik",
+      "13 Modell einer prädikatenlogische Formel G"
+    ]
+  },
+  {
+    "objectID": "13 Prädikatenlogik/Modell einer prädikatenlogische Formel G.html#modell-einer-prädikatenlogische-formel-g",
+    "href": "13 Prädikatenlogik/Modell einer prädikatenlogische Formel G.html#modell-einer-prädikatenlogische-formel-g",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ist (D, I) eine Interpretation für eine Prädikatenlogsiche Formel G, dann ist (D, I) ein Modell von G, wenn die Formel für jede Variablenbelegung auf Wahr auswertet.\n\nAuswertung einer Prädikatenlogischer Formel",
+    "crumbs": [
+      "13 Prädikatenlogik",
+      "13 Modell einer prädikatenlogische Formel G"
+    ]
+  },
+  {
+    "objectID": "13 Prädikatenlogik/Prädikatenlogische Interpretation.html",
+    "href": "13 Prädikatenlogik/Prädikatenlogische Interpretation.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Sei einer Signatur \\(\\Sigma\\) gegeben. (ALSO Varianten funktionierender konstruktiver Religionen argumentieren). \\((Var, Fun, Const, Rel, \\text{ar})\\).\nEine prädikatenlogische Interpretation \\((D,I)\\) für \\(\\Sigma\\) ist so definiert:\n\nEs gibt eine nicht leere menge D, das sogenannte Universum uii.\nFür jedes \\(f \\in Fun_{PL}\\) bildet \\(I(f): D^{ar(f)} \\rightarrow D\\)\nFür jedes \\(R \\in Rel_{PL}\\) bildet \\(I(R) \\subseteq D^{ar(R)}\\)\n\nErklärung von der Interpretation einer Relation: Warum wtf was passiert hier? Die Interpretation einer Realtion ist ja eine Menge. In dieser Menge sind alle “n-Tupel”, für die die Relation auf Wahr ausertet. Dementsprechend macht die Auswertung einer Prädikatenlogischer Formel sinn, weil \\(val_{D,I,\\beta}(R(t1,t2)\\) ist nur wahr, wenn \\(t1,t2\\) in dieser Menge \\(I(R)\\) enthalten sind.\n\nInterpretation bzw Information\nPrädikatenlogische Formel\nSignatur einer prädikatenlogischen Formel",
+    "crumbs": [
+      "13 Prädikatenlogik",
+      "13 Prädikatenlogische Interpretation"
+    ]
+  },
+  {
+    "objectID": "13 Prädikatenlogik/Prädikatenlogische Interpretation.html#prädikatenlogische-interpretation",
+    "href": "13 Prädikatenlogik/Prädikatenlogische Interpretation.html#prädikatenlogische-interpretation",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Sei einer Signatur \\(\\Sigma\\) gegeben. (ALSO Varianten funktionierender konstruktiver Religionen argumentieren). \\((Var, Fun, Const, Rel, \\text{ar})\\).\nEine prädikatenlogische Interpretation \\((D,I)\\) für \\(\\Sigma\\) ist so definiert:\n\nEs gibt eine nicht leere menge D, das sogenannte Universum uii.\nFür jedes \\(f \\in Fun_{PL}\\) bildet \\(I(f): D^{ar(f)} \\rightarrow D\\)\nFür jedes \\(R \\in Rel_{PL}\\) bildet \\(I(R) \\subseteq D^{ar(R)}\\)\n\nErklärung von der Interpretation einer Relation: Warum wtf was passiert hier? Die Interpretation einer Realtion ist ja eine Menge. In dieser Menge sind alle “n-Tupel”, für die die Relation auf Wahr ausertet. Dementsprechend macht die Auswertung einer Prädikatenlogischer Formel sinn, weil \\(val_{D,I,\\beta}(R(t1,t2)\\) ist nur wahr, wenn \\(t1,t2\\) in dieser Menge \\(I(R)\\) enthalten sind.\n\nInterpretation bzw Information\nPrädikatenlogische Formel\nSignatur einer prädikatenlogischen Formel",
+    "crumbs": [
+      "13 Prädikatenlogik",
+      "13 Prädikatenlogische Interpretation"
+    ]
+  },
+  {
+    "objectID": "13 Prädikatenlogik/Allgemeingültige Prädikatenlogische Formeln.html",
+    "href": "13 Prädikatenlogik/Allgemeingültige Prädikatenlogische Formeln.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine Prädikatenlogische Formeln F ist allgemeingültig, wenn die für jede Interpretation (D, I) und jede Variablenbelegung die Auswertungsfunktion auf wahr auswertet yey.\n\nAuswertung einer Prädikatenlogischer Formel",
+    "crumbs": [
+      "13 Prädikatenlogik",
+      "13 Allgemeingültige Prädikatenlogische Formeln"
+    ]
+  },
+  {
+    "objectID": "13 Prädikatenlogik/Allgemeingültige Prädikatenlogische Formeln.html#allgemeingültige-prädikatenlogische-formeln",
+    "href": "13 Prädikatenlogik/Allgemeingültige Prädikatenlogische Formeln.html#allgemeingültige-prädikatenlogische-formeln",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine Prädikatenlogische Formeln F ist allgemeingültig, wenn die für jede Interpretation (D, I) und jede Variablenbelegung die Auswertungsfunktion auf wahr auswertet yey.\n\nAuswertung einer Prädikatenlogischer Formel",
+    "crumbs": [
+      "13 Prädikatenlogik",
+      "13 Allgemeingültige Prädikatenlogische Formeln"
+    ]
+  },
+  {
+    "objectID": "3 Mengen, Alphabete, Abbildungen/Rechtseindeutig.html",
+    "href": "3 Mengen, Alphabete, Abbildungen/Rechtseindeutig.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "von zwei rechten kommt man auf kein linkes doppelt\njede Funktion muss rechtseindeutig sein, sonst ist sie keine funktion. schwichtig\nstell dir eine Funktion vor, die jeder Zahl x aus |R ihre positive und negative Wurzel zuweist, das ist nichts rechtseindeutig\nVgl Seite 19\nAbbildung",
+    "crumbs": [
+      "3 Mengen, Alphabete, Abbildungen",
+      "Rechtseindeutig.html"
+    ]
+  },
+  {
+    "objectID": "3 Mengen, Alphabete, Abbildungen/Unicode als Beispiel.html",
+    "href": "3 Mengen, Alphabete, Abbildungen/Unicode als Beispiel.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Es liegt folgendes vor:\n*Eine große Menge von Zeichen AU \n*numeriereung dieser Zeichen\nAnders gesagt liegt eine Beziehung / Relation zwischen AU und |No vor.\nEs gibt also eine f: AU -&gt; |N0\nVgl Seite 16\nBinäre Operation",
+    "crumbs": [
+      "3 Mengen, Alphabete, Abbildungen",
+      "Unicode als Beispiel.html"
+    ]
+  },
+  {
+    "objectID": "3 Mengen, Alphabete, Abbildungen/Potenzmenge.html",
+    "href": "3 Mengen, Alphabete, Abbildungen/Potenzmenge.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Die Menge aller teilmengen.\nAnschauliches Beispiel aus dem Script (S.21)\n\nKathesisches Produkt von A und B",
+    "crumbs": [
+      "3 Mengen, Alphabete, Abbildungen",
+      "Potenzmenge.html"
+    ]
+  },
+  {
+    "objectID": "3 Mengen, Alphabete, Abbildungen/Mn.html",
+    "href": "3 Mengen, Alphabete, Abbildungen/Mn.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "n - fache karthesische Produkt mit sich selbst von M.\nM x M x M…  ist ein n-Tupel mit allen Tupelkombinationen von M\nVgl Seite 18\nKathesisches Produkt von M1, M2 und M3",
+    "crumbs": [
+      "3 Mengen, Alphabete, Abbildungen",
+      "Mn.html"
+    ]
+  },
+  {
+    "objectID": "3 Mengen, Alphabete, Abbildungen/Linkseindeutig.html",
+    "href": "3 Mengen, Alphabete, Abbildungen/Linkseindeutig.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "von zwei linken kommt man auf kein rechtes doppelt\nfunktionen die das erfüllen nennt man auch injektiv\nz.B. sin(x) ist auf jeden fall nichts rechtseindeutig!\nx^3 dafür schon yey\nVgl Seite 19\nAbbildung",
+    "crumbs": [
+      "3 Mengen, Alphabete, Abbildungen",
+      "Linkseindeutig.html"
+    ]
+  },
+  {
+    "objectID": "3 Mengen, Alphabete, Abbildungen/Rechtstotal.html",
+    "href": "3 Mengen, Alphabete, Abbildungen/Rechtstotal.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "jedes rechte ist glücklich :)\nBsp:\n\\[ f: \\mathbb{R} \\rightarrow \\mathbb{R} \\\\ x \\mapsto x^2 \\]\nist nichts rechtstotal, denn z.b. -1 wird nicht getroffen\ng(x) = x ist dafür rechtstotal\nrechtstotale abbildungen nennt man auch surjektiv\nVgl Seite 19\nAbbildung",
+    "crumbs": [
+      "3 Mengen, Alphabete, Abbildungen",
+      "Rechtstotal.html"
+    ]
+  },
+  {
+    "objectID": "3 Mengen, Alphabete, Abbildungen/Kathesisches Produkt von M1, M2 und M3.html",
+    "href": "3 Mengen, Alphabete, Abbildungen/Kathesisches Produkt von M1, M2 und M3.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "M1 x M2 x M3 = { (x1,x2,x3) | x1€M1, x2€M2, x3€M3 }\nVgl Seite 18\nKathesisches Produkt von A und B",
+    "crumbs": [
+      "3 Mengen, Alphabete, Abbildungen",
+      "Kathesisches Produkt von M1, M2 und M3.html"
+    ]
+  },
+  {
+    "objectID": "4 Wörter/Iterierte Konkatenation.html",
+    "href": "4 Wörter/Iterierte Konkatenation.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "wk = ww…*w (k-mal)\nVgl Seite 30\nKonkatenation zweier Wörter",
+    "crumbs": [
+      "4 Wörter",
+      "Iterierte Konkatenation.html"
+    ]
+  },
+  {
+    "objectID": "4 Wörter/A hoch n.html",
+    "href": "4 Wörter/A hoch n.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Menge aller Wörter aus dem Alphabet A, die genau n Zeichen haben. Beispiel\n\nVgl Seite 25\nAlphabet",
+    "crumbs": [
+      "4 Wörter",
+      "A hoch n.html"
+    ]
+  },
+  {
+    "objectID": "4 Wörter/Formale Sprache.html",
+    "href": "4 Wörter/Formale Sprache.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ein sehr abstrakter Begriff. Eine Formale Sprache L ist eine Teilmenge von A*.\nMeist wird eine Formale Sprache in GBI von etwas wie einer Gramatik oder einem Automaten, Turing Mashine etc erzeugt\nVgl Seite 31\nA hoch n\nAlphabet",
+    "crumbs": [
+      "4 Wörter",
+      "Formale Sprache.html"
+    ]
+  },
+  {
+    "objectID": "5 Aussagenlogik/Aussagenlogische Variablen.html",
+    "href": "5 Aussagenlogik/Aussagenlogische Variablen.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "ValAl. Es soll gelten, dass VarAl eine Teilmenge von ForAl ist.\nVgl Seite 35\nAussagenlogische Variablen\nAussage",
+    "crumbs": [
+      "5 Aussagenlogik",
+      "Aussagenlogische Variablen.html"
+    ]
+  },
+  {
+    "objectID": "5 Aussagenlogik/Menge aller Interpretationen für eine Variablenmenge V.html",
+    "href": "5 Aussagenlogik/Menge aller Interpretationen für eine Variablenmenge V.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "|BV\nInterpretation einer Menge VarAl",
+    "crumbs": [
+      "5 Aussagenlogik",
+      "Menge aller Interpretationen für eine Variablenmenge V.html"
+    ]
+  },
+  {
+    "objectID": "5 Aussagenlogik/Äquivalente Aussagen.html",
+    "href": "5 Aussagenlogik/Äquivalente Aussagen.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Zwei Aussagen sind äquivalent, wenn sie für jede Interpretation denselben Wert haben. Man schreibt auch G≡H\nVgl Seite 40\nAussage",
+    "crumbs": [
+      "5 Aussagenlogik",
+      "Äquivalente Aussagen.html"
+    ]
+  },
+  {
+    "objectID": "5 Aussagenlogik/Aussagenlogische Formel.html",
+    "href": "5 Aussagenlogik/Aussagenlogische Formel.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Werden nach festen Regeln zusammengetzt. Man bezeichnet die Menge aller Aussagenlogischer Formeln durch\n**ForAL.\nEs gilt, dass ForAL** eine Teilmenge von A*AL ist. Wir betrachen die Menge aller Aussagenlogischer Formeln also als Formale Sprache.\nM0 = VarAl \nMn+1 = Mn vereinigt Ver(Mn)\nForAl = unendliche Vereinigung(Mi)\nVgl Seite 34ff\nAussage",
+    "crumbs": [
+      "5 Aussagenlogik",
+      "Aussagenlogische Formel.html"
+    ]
+  },
+  {
+    "objectID": "5 Aussagenlogik/Boolesche Menge.html",
+    "href": "5 Aussagenlogik/Boolesche Menge.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "{w, f}\nVgl Seite 44\nAussagenlogische Formel",
+    "crumbs": [
+      "5 Aussagenlogik",
+      "Boolesche Menge.html"
+    ]
+  },
+  {
+    "objectID": "5 Aussagenlogik/Tautologie.html",
+    "href": "5 Aussagenlogik/Tautologie.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Man schreibt |= G, wenn G für alle Interpretationen wahr ist. Man nennt G dann eine Tautologie.\nVgl Seite 41ff\nModell einer Formelmenge",
+    "crumbs": [
+      "5 Aussagenlogik",
+      "Tautologie.html"
+    ]
+  },
+  {
+    "objectID": "5 Aussagenlogik/Boolsche Funktion.html",
+    "href": "5 Aussagenlogik/Boolsche Funktion.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "f: |Bn -&gt; |B\nVgl Seite 43\nAbbildung",
+    "crumbs": [
+      "5 Aussagenlogik",
+      "Boolsche Funktion.html"
+    ]
+  },
+  {
+    "objectID": "5 Aussagenlogik/Γ Tautologie zu G.html",
+    "href": "5 Aussagenlogik/Γ Tautologie zu G.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Man schreibt Γ |= G, wenn jedes Modell von Γ auch ein Modell von G ist yey.\nAlso jede Interpretation die in Γ auf wahr auswertet wertet auch in G auf wahr aus.\nTautologie\nModell einer Formelmenge",
+    "crumbs": [
+      "5 Aussagenlogik",
+      "Γ Tautologie zu G.html"
+    ]
+  },
+  {
+    "objectID": "7 Formale Sprachen/Konkatenation Formaler Sprachen.html",
+    "href": "7 Formale Sprachen/Konkatenation Formaler Sprachen.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\[L = \\{ w_1 \\ w_2 | \\ w\\in L_1 \\; \\mathrm{und}\\; w \\in L_2 \\}\\]\n\nFormale Sprache",
+    "crumbs": [
+      "7 Formale Sprachen",
+      "7 Konkatenation Formaler Sprachen"
+    ]
+  },
+  {
+    "objectID": "7 Formale Sprachen/Konkatenation Formaler Sprachen.html#konkatenation-formaler-sprachen",
+    "href": "7 Formale Sprachen/Konkatenation Formaler Sprachen.html#konkatenation-formaler-sprachen",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\[L = \\{ w_1 \\ w_2 | \\ w\\in L_1 \\; \\mathrm{und}\\; w \\in L_2 \\}\\]\n\nFormale Sprache",
+    "crumbs": [
+      "7 Formale Sprachen",
+      "7 Konkatenation Formaler Sprachen"
+    ]
+  },
+  {
+    "objectID": "2 Signale, Nachrichten, Informationen, Daten/Datum.html",
+    "href": "2 Signale, Nachrichten, Informationen, Daten/Datum.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Wichtig, hier singular von Daten. Hier geht es um ein Paar von einer Nachricht und einer zugehörigen Information\nNachricht\nInterpretation bzw Information",
+    "crumbs": [
+      "2 Signale, Nachrichten, Informationen, Daten",
+      "Datum.html"
+    ]
+  },
+  {
+    "objectID": "2 Signale, Nachrichten, Informationen, Daten/Nachricht.html",
+    "href": "2 Signale, Nachrichten, Informationen, Daten/Nachricht.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Man kann verschiedene Sachen mit verschiedenen Signalen übertragen / speichern. Was Übrig bleibt wenn man von der Signalübertragung / Speicherung absieht nennt man eine Nachricht\nVgl Seite 6\nSignal",
+    "crumbs": [
+      "2 Signale, Nachrichten, Informationen, Daten",
+      "Nachricht.html"
+    ]
+  },
+  {
+    "objectID": "2 Signale, Nachrichten, Informationen, Daten/Abstraktion.html",
+    "href": "2 Signale, Nachrichten, Informationen, Daten/Abstraktion.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Wichtiger random Begriff in der Informatik. Um wirklich etwas zu verstehen was wo steht müssen wir in unserem Kopf einen Akt tun: diesen Akt nennt man Abstraktion\nVgl Seite 6",
+    "crumbs": [
+      "2 Signale, Nachrichten, Informationen, Daten",
+      "Abstraktion.html"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Homomorphismus im Wortkontext.html",
+    "href": "8 Übersetzungen und Codierungen/Homomorphismus im Wortkontext.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine Abbildung \\(h : A^* \\rightarrow B^*\\) zwischen Zwei Alphabeten A und B nennt man Homomorphismus, wenn für alle \\(w_1 \\in A^*\\) und \\(w_2 \\in B^*\\) gilt:\n\\(h(w_1w_2) = h(w_1)h(w_2)\\)\nFür jeden Homomorphismus muss automatisch gelten, dass das Nullwort auf das Nullwort abgebildet wird :)\n\nAbbildung\nCodierung",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Homomorphismus im Wortkontext"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Homomorphismus im Wortkontext.html#homomorphismus-im-wortkontext",
+    "href": "8 Übersetzungen und Codierungen/Homomorphismus im Wortkontext.html#homomorphismus-im-wortkontext",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine Abbildung \\(h : A^* \\rightarrow B^*\\) zwischen Zwei Alphabeten A und B nennt man Homomorphismus, wenn für alle \\(w_1 \\in A^*\\) und \\(w_2 \\in B^*\\) gilt:\n\\(h(w_1w_2) = h(w_1)h(w_2)\\)\nFür jeden Homomorphismus muss automatisch gelten, dass das Nullwort auf das Nullwort abgebildet wird :)\n\nAbbildung\nCodierung",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Homomorphismus im Wortkontext"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Binärdarstellung.html",
+    "href": "8 Übersetzungen und Codierungen/Binärdarstellung.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Darstellung von Wörtern in Binärdartellung in \\(\\Bbb N_0\\):\n\\(num_2(0) = 0\\)\n\\(num_2(1) = 1\\)\n\\(Num_2(\\varepsilon) = 0\\) \\(\\forall w \\in \\mathbb{Z}^*, \\forall x \\in \\mathbb{Z}_2 : Num_2(wx) = 2 \\cdot Num_2(w) + num_2(x)\\)\nnum(x) Dezimaldarstellung von Zahlen",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Binärdarstellung"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Binärdarstellung.html#binärdarstellung",
+    "href": "8 Übersetzungen und Codierungen/Binärdarstellung.html#binärdarstellung",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Darstellung von Wörtern in Binärdartellung in \\(\\Bbb N_0\\):\n\\(num_2(0) = 0\\)\n\\(num_2(1) = 1\\)\n\\(Num_2(\\varepsilon) = 0\\) \\(\\forall w \\in \\mathbb{Z}^*, \\forall x \\in \\mathbb{Z}_2 : Num_2(wx) = 2 \\cdot Num_2(w) + num_2(x)\\)\nnum(x) Dezimaldarstellung von Zahlen",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Binärdarstellung"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Übersetzen.html",
+    "href": "8 Übersetzungen und Codierungen/Übersetzen.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Was heißt es etwas zu übersetzten?\n\nDie Zuordnung von einem Wort aus einer Sprache zu einem Wort aus einer anderen Sprache\nDie Bedeutung der beiden Wörter bleibt jedoch gleich!\n\nMan kann eine Übersetzung also auch als Funktion auffassen:\n\\(\\text{semA}: L_A \\rightarrow \\text{Sem}\\) und \\(\\text{semB}: L_B \\rightarrow \\text{Sem}\\), wobei \\(L_A\\) und \\(L_B\\) jeweils zwei formale Sprachen sind.\nEine Abbildung \\(f : L_A \\rightarrow L_B\\) heißt Übersetzung bezüglich \\(sem_A\\) und \\(sem_B\\), wenn f die Bedeutung erhält. D.h. \\(\\forall w \\in L_A : \\text{semA}(w) = \\text{semB}(f(w))\\)\n\nAbbildung",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Übersetzten"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Übersetzen.html#übersetzten",
+    "href": "8 Übersetzungen und Codierungen/Übersetzen.html#übersetzten",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Was heißt es etwas zu übersetzten?\n\nDie Zuordnung von einem Wort aus einer Sprache zu einem Wort aus einer anderen Sprache\nDie Bedeutung der beiden Wörter bleibt jedoch gleich!\n\nMan kann eine Übersetzung also auch als Funktion auffassen:\n\\(\\text{semA}: L_A \\rightarrow \\text{Sem}\\) und \\(\\text{semB}: L_B \\rightarrow \\text{Sem}\\), wobei \\(L_A\\) und \\(L_B\\) jeweils zwei formale Sprachen sind.\nEine Abbildung \\(f : L_A \\rightarrow L_B\\) heißt Übersetzung bezüglich \\(sem_A\\) und \\(sem_B\\), wenn f die Bedeutung erhält. D.h. \\(\\forall w \\in L_A : \\text{semA}(w) = \\text{semB}(f(w))\\)\n\nAbbildung",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Übersetzten"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Menge aller Abbildungen von A nach B.html",
+    "href": "8 Übersetzungen und Codierungen/Menge aller Abbildungen von A nach B.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(B^A\\)\nEs gilt für endliche Mengen: \\(|B^A| = |B|^{|A|}\\)\n\nAbbildung",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Menge aller Abbildungen von A nach B"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Menge aller Abbildungen von A nach B.html#menge-aller-abbildungen-von-a-nach-b",
+    "href": "8 Übersetzungen und Codierungen/Menge aller Abbildungen von A nach B.html#menge-aller-abbildungen-von-a-nach-b",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(B^A\\)\nEs gilt für endliche Mengen: \\(|B^A| = |B|^{|A|}\\)\n\nAbbildung",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Menge aller Abbildungen von A nach B"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/num(x) Dezimaldarstellung von Zahlen.html",
+    "href": "8 Übersetzungen und Codierungen/num(x) Dezimaldarstellung von Zahlen.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(num_{10}(x)\\) weist einem Zeichen/Wort/Symbol einen Zahlenwert in \\(\\Bbb Z_{10}\\) zu.\n\\(\\text{num10: } \\text{Z}_{10} \\rightarrow \\mathbb{Z}_{10}\\), triviale Darstellung\n\\(\\text{Num10: } \\text{Z}^*_{10} \\rightarrow \\mathbb{N}_0\\)\n\\(\\text{Num10}(\\varepsilon) = 0\\)\n\\(\\forall w \\in \\text{Z}^*_{10}, \\forall x \\in \\text{Z}_{10} :\\) \\(\\text{Num10}(wx) = 10 \\cdot \\text{Num10}(w) + \\text{num10}(x)\\)\n\nÜbersetzen",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Dezimaldarstellung von Zahlen"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/num(x) Dezimaldarstellung von Zahlen.html#dezimaldarstellung-von-zahlen",
+    "href": "8 Übersetzungen und Codierungen/num(x) Dezimaldarstellung von Zahlen.html#dezimaldarstellung-von-zahlen",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(num_{10}(x)\\) weist einem Zeichen/Wort/Symbol einen Zahlenwert in \\(\\Bbb Z_{10}\\) zu.\n\\(\\text{num10: } \\text{Z}_{10} \\rightarrow \\mathbb{Z}_{10}\\), triviale Darstellung\n\\(\\text{Num10: } \\text{Z}^*_{10} \\rightarrow \\mathbb{N}_0\\)\n\\(\\text{Num10}(\\varepsilon) = 0\\)\n\\(\\forall w \\in \\text{Z}^*_{10}, \\forall x \\in \\text{Z}_{10} :\\) \\(\\text{Num10}(wx) = 10 \\cdot \\text{Num10}(w) + \\text{num10}(x)\\)\n\nÜbersetzen",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Dezimaldarstellung von Zahlen"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Komposition von Funktionen.html",
+    "href": "8 Übersetzungen und Codierungen/Komposition von Funktionen.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "wenn man zwei Funktionen \\(f: A \\rightarrow B\\), sowie \\(g: B \\rightarrow C\\) gegeben hat, lässt sich eine Funktion \\(h: A \\rightarrow C\\) konsturieren, mit h(a) = g(f(a)). Man nennt h dann die komposition von g nach f und schreibt \\(h = g◦ f\\)\n\nAbbildung",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Komposition von Funktionen"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Komposition von Funktionen.html#komposition-von-funktionen",
+    "href": "8 Übersetzungen und Codierungen/Komposition von Funktionen.html#komposition-von-funktionen",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "wenn man zwei Funktionen \\(f: A \\rightarrow B\\), sowie \\(g: B \\rightarrow C\\) gegeben hat, lässt sich eine Funktion \\(h: A \\rightarrow C\\) konsturieren, mit h(a) = g(f(a)). Man nennt h dann die komposition von g nach f und schreibt \\(h = g◦ f\\)\n\nAbbildung",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Komposition von Funktionen"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Präfixfreier Homomorphismus.html",
+    "href": "8 Übersetzungen und Codierungen/Präfixfreier Homomorphismus.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Problem: es ist schwer zu sehen wann ein Homomorphismus \\(h: A^* \\rightarrow B^*\\) injektiv, und somit eine Codierung ist.\nAber bei präfixfreien Homomorphismen kann man das ganz einfach sehen. Def:\nEin Homomorphismus ist präfixfrei, wenn für keine zwei Symbole \\(x1, \\ x2 \\in A ; x1 \\not= x2: \\text{h(x1) ist ein Präfix von h(x2)}\\)\n\nHomomorphismus im Wortkontext",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Präfixfreier Homomorphismus"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Präfixfreier Homomorphismus.html#präfixfreier-homomorphismus",
+    "href": "8 Übersetzungen und Codierungen/Präfixfreier Homomorphismus.html#präfixfreier-homomorphismus",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Problem: es ist schwer zu sehen wann ein Homomorphismus \\(h: A^* \\rightarrow B^*\\) injektiv, und somit eine Codierung ist.\nAber bei präfixfreien Homomorphismen kann man das ganz einfach sehen. Def:\nEin Homomorphismus ist präfixfrei, wenn für keine zwei Symbole \\(x1, \\ x2 \\in A ; x1 \\not= x2: \\text{h(x1) ist ein Präfix von h(x2)}\\)\n\nHomomorphismus im Wortkontext",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Präfixfreier Homomorphismus"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Codierung.html",
+    "href": "8 Übersetzungen und Codierungen/Codierung.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Wir kennen Übersetzungen. Eine Übersetzung ist eine Codierung, wenn diese Übersetzungsfunktion injektiv ist. Also linkseindeutig also kommen wir von keinen zwei linken auf ein rechtes doppelt also von jedem Codewort auf sein Ursprungswort zurück. Wenn \\(f: A \\rightarrow B\\) geht und \\(w \\in A\\) ist, dann ist \\(f(w)\\) das Codewort von \\(w\\). Das Bild von \\(f\\) heißt dann Code.\nProblem hierbei ist, dass man somit irgendwie angeblich wohl laut Script alle Funktionsvorschriften aufschreiben muss, und das braucht wohl viel Speicher. Dehalb gibt es tolle Homomorphismen :)\n\nÜbersetzen\nLinkseindeutig",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Codierung, Codewort, Code"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Codierung.html#codierung-codewort-code",
+    "href": "8 Übersetzungen und Codierungen/Codierung.html#codierung-codewort-code",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Wir kennen Übersetzungen. Eine Übersetzung ist eine Codierung, wenn diese Übersetzungsfunktion injektiv ist. Also linkseindeutig also kommen wir von keinen zwei linken auf ein rechtes doppelt also von jedem Codewort auf sein Ursprungswort zurück. Wenn \\(f: A \\rightarrow B\\) geht und \\(w \\in A\\) ist, dann ist \\(f(w)\\) das Codewort von \\(w\\). Das Bild von \\(f\\) heißt dann Code.\nProblem hierbei ist, dass man somit irgendwie angeblich wohl laut Script alle Funktionsvorschriften aufschreiben muss, und das braucht wohl viel Speicher. Dehalb gibt es tolle Homomorphismen :)\n\nÜbersetzen\nLinkseindeutig",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Codierung, Codewort, Code"
+    ]
+  },
+  {
+    "objectID": "22 MIMA/Wie läuft die Arbeitsschritte konkret ab.html",
+    "href": "22 MIMA/Wie läuft die Arbeitsschritte konkret ab.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Durchführung de Befehle in drei Phasen:\n\nHolphase (holen eines Befehls und gleichzeitige Berechnung des nächsten Befehls)\n\n\nHolens der Wertes vom Speicher (SAR verarbetiet den Werd, SDR outputter ihn.)\nIAR Addiert im ALU 1 zum Aktuellen Adressenwert.\nDer output wird dann im IAR gespeichert. Das ist dann die Adresse des nächstens Befehls.\n\n-&gt; In der Realität passieren Schritte 1,2,3 aber simultan und getaktet. Bisschen wie bei einem 4 Takter Motot (Belüftungsphase, keine Ahnung Phase aber getaktet.)\n\nDecodierphase\n\n\nDas Steuerwerk liest die obersten 4 bits des aktuellen Befehls um zu wissen welcher befehl ausgeführt werden soll, und für den Jump if Negative Befehl soll dann der höchste Bit des Akkumulators gelesen werden.\n\n\nAusführungsphase\n\n-&gt; Abhängig vom zu Ausführenden Befehl\nEs gibt dann da eine Tabelle, die je nach Befehlsbit die Befehle in die Leitungen führt und koodiniert wo was wie hinfließt. Das ist dann letzendlich auch ein endlicher Automat.\nWie läuft das ab mit den Befehlen",
+    "crumbs": [
+      "22 MIMA",
+      "Wie läuft die Arbeitsschritte konkret ab.html"
+    ]
+  },
+  {
+    "objectID": "22 MIMA/Allgemeiner Aufbau des Prozessors.html",
+    "href": "22 MIMA/Allgemeiner Aufbau des Prozessors.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "TARGET\n22 Allgemeiner Aufbau des Prozessors\n\nRegister\nRechenwerk: ALU / arithmetic logic unit. Dieser hat verschiedene Funktionen aber kann auf die Register zugreifen, sie lesen, sie verarbeiten und darauf wieder speichern.\nSteuerwerk:\n\nIR Instruction Register (Dort wird der aktuelle Befehl gespeichert, damit der Prozessor weiß was getan werden soll)\nIAR Instruction Address Register (Dort wird geschrieben wo wir in unserer Befehlsausführungskette gerade sind, dort steht die Adresse vom Speicher von der nächsten zu lesenden Funktion)\n\nSpeicherwerk: (Naja noch nicht so ganz verstasnden, ist das Speicherwert wie die Funktion die einer Adresse einen Wert zuweist?)\n\nSAR Storage address register (Über welche Adresse rede ich gerade)\nSDR Storage data register (Was steht am Wert von der Adresse)\n\nDatenbus:\n\nErlaubt Kommunikation zwischen den einzelnen Einheiten die Oben genannt wurden. Sonst bräuchte man O(n^2) viele Datenlinien zwischen den Einheiten also machen wir eine Busverbindung mit einer Linie und jeder hängt da dran.\n\n\nTuringmaschine",
+    "crumbs": [
+      "22 MIMA",
+      "Allgemeiner Aufbau des Prozessors.html"
+    ]
+  },
+  {
+    "objectID": "22 MIMA/Neimann Architektur vs Harvard Architektur.html",
+    "href": "22 MIMA/Neimann Architektur vs Harvard Architektur.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "MIMA hat von Neumann Architektur (gemeinsamer Speicher für Befehle und Daten\n\n\n\nHarvard Architektur\n\nphysisch getrennte Speicher für Befehle und Daten. Das hat vor und Nachteile: es gibt besseren Speicherschutz und man kann gleichzeitig Befehlen und Daten laden.\n\nHeutige Rechner haben eine Mischung, aber die geben einem eine ganz gute Idee wie ein heutiger Prozessor funktioniert.\nGrobstruktur der Mima, von neumann architektur",
+    "crumbs": [
+      "22 MIMA",
+      "Neimann Architektur vs Harvard Architektur.html"
+    ]
+  },
+  {
+    "objectID": "22 MIMA/Wie läuft das ab mit den Befehlen.html",
+    "href": "22 MIMA/Wie läuft das ab mit den Befehlen.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Wie arbeitet das Seuerwerk?:\nEs gibt verschiedene Typen von Befehlen, undzwar Transport von Daten, Verarbeitung von Daten und Beeinflussung der Befehlsreihenfolge.\nWie werden diese Befehle notiert?\nNaja wie gesagt, 4 Bit befehl und 20 Bit Wert. Davon kann man aber Abstrahieren:\nz.B. 001000000000000000101010\nDas ist kompliziert aber eigentlich ist das ja nur:\n10 Entspricht STV (Store Value at Adress) Befehl\n101010 Wert (= 42)\n\n\n\nEs gibt noch:\nLDC const (load constant). Schreibt eine constante const auf den Akkumulator\nLDV adr (load value from): Schreibt den Wert von einer Adresse adr auf den Akkumulator\nSTV adr (Store Value at Adress) schreibt den Wert des Akkumulator auf eine Adresse adr\n\n\n\n\nCoolere Befehle:\nLDIV ard (load value indirect from address) wir gehen an eine Adresse adr, da schauen wir was steht. Dann gehen wir an die Adresse von dem Wert der an adr steht und gehen dort hin. Es werden von den 24 bit speicher nur die niedrigwertigsten stellen verwendet.\nZ.b. bei 46 steht “10”, bei 10 steht “42”. LDIV 46 schreibt 42 in den Akkumulator.\nSTIV adr\n\n\n\nLogische Befehle:\nADD adr wir schreiben auf den Akkumulator \\(Akku + M(adr)\\). (Mit zweierkomplement!)\nAND adr (Akkumulatorwert AND adr und dies stellenweise je! Das Ergebnis schreiben wir in den Akkumulator. Analog zu OR und XOR.)\nOR adr\nXOR adr\nNOT (Invertierung de Akku bits)\nRAR (Rorate accumulator right) wir machen wie so einen shift. Alle die sozusagen rausfallen von unserem Tisch werden links wieder eingeführt.\nEQL adr (equal?) Wenn die Werte gleich sind schreiben wir 111111111111111111111111 auf den Akkumulator, sonst schreiben wir 000000000000000000000000.\n\n\n\nKrasser Befehl um zu jumpen für schleife mit if:\nJMP adr (Jump) setze fort mit Befehl in Adresse adr.\nJMN adr (Jump if negative). Springt zu Adresse adr, wenn der Speicher im Akkumulator negativ ist. (Also wenn das 24. Bit eine 1 sind.)\nHALT (Okay danke Maschine, das wars wir müssen jetzt nicht mehr weiter machen)\nProgramm in einer Mima",
+    "crumbs": [
+      "22 MIMA",
+      "Wie läuft das ab mit den Befehlen.html"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Ungerichteter Baum.html",
+    "href": "15 Graphen/Ungerichteter Baum.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Man nennt einen ungerichteten Graphen einen ungerichteten Baum, wenn ja man sich einen Baum mit wurzel in einem gerichteten Graphen basteln kann yey.\n\nBaum\nUngerichtete Graphen",
+    "crumbs": [
+      "15 Graphen",
+      "15 Ungerichteter Baum"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Ungerichteter Baum.html#ungerichteter-baum",
+    "href": "15 Graphen/Ungerichteter Baum.html#ungerichteter-baum",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Man nennt einen ungerichteten Graphen einen ungerichteten Baum, wenn ja man sich einen Baum mit wurzel in einem gerichteten Graphen basteln kann yey.\n\nBaum\nUngerichtete Graphen",
+    "crumbs": [
+      "15 Graphen",
+      "15 Ungerichteter Baum"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Schlinge, Schlingenfrei.html",
+    "href": "15 Graphen/Schlinge, Schlingenfrei.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine Kante \\((x,x) \\in E\\) heißt Schlinge ooo. Ein Graph ist Schlingenfrei wenn er keine Schlinge hat.\n\nGerichteter Graph",
+    "crumbs": [
+      "15 Graphen",
+      "15 Schlinge, Schlingenfrei"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Schlinge, Schlingenfrei.html#schlinge-schlingenfrei",
+    "href": "15 Graphen/Schlinge, Schlingenfrei.html#schlinge-schlingenfrei",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine Kante \\((x,x) \\in E\\) heißt Schlinge ooo. Ein Graph ist Schlingenfrei wenn er keine Schlinge hat.\n\nGerichteter Graph",
+    "crumbs": [
+      "15 Graphen",
+      "15 Schlinge, Schlingenfrei"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Pfad.html",
+    "href": "15 Graphen/Pfad.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Bei gerichteten Graphen Ha!\nEin nichtleeres n-tupel \\(p = (v_0,...,v_n) \\in V1 {(+)}\\) ist ein Pfad, wenn für jedes \\(i \\in \\Bbb{Z_n}\\) gilt: \\((v_1,v_{i+1}) \\in E\\).\nDie länge eines Pfades bezeichnet man als \\(l = |p| - 1\\). Es geht hier um die Anzahl der Kanten!!!\n\nGerichteter Graph",
+    "crumbs": [
+      "15 Graphen",
+      "15 Pfad"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Pfad.html#pfad",
+    "href": "15 Graphen/Pfad.html#pfad",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Bei gerichteten Graphen Ha!\nEin nichtleeres n-tupel \\(p = (v_0,...,v_n) \\in V1 {(+)}\\) ist ein Pfad, wenn für jedes \\(i \\in \\Bbb{Z_n}\\) gilt: \\((v_1,v_{i+1}) \\in E\\).\nDie länge eines Pfades bezeichnet man als \\(l = |p| - 1\\). Es geht hier um die Anzahl der Kanten!!!\n\nGerichteter Graph",
+    "crumbs": [
+      "15 Graphen",
+      "15 Pfad"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Blätter eines Baumes.html",
+    "href": "15 Graphen/Blätter eines Baumes.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Blätter sind entweder einfach gesagt die Knoten die “Ganz unten” sind oder diejenigen Knoten, die einen Ausgangsgrad von 0 haben.\n\nBaum\nEingangs bzw Ausgangsgrad und Grad eines Knotens",
+    "crumbs": [
+      "15 Graphen",
+      "15 Blätter eines Baumes"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Blätter eines Baumes.html#blätter-eines-baumes",
+    "href": "15 Graphen/Blätter eines Baumes.html#blätter-eines-baumes",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Blätter sind entweder einfach gesagt die Knoten die “Ganz unten” sind oder diejenigen Knoten, die einen Ausgangsgrad von 0 haben.\n\nBaum\nEingangs bzw Ausgangsgrad und Grad eines Knotens",
+    "crumbs": [
+      "15 Graphen",
+      "15 Blätter eines Baumes"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Adjazente Knoten.html",
+    "href": "15 Graphen/Adjazente Knoten.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Benachbarte Knoten. Also es gibt eine Kante \\((x,y) \\in E \\leftrightarrow \\text{x ist mit y adjazent}\\). DIES IST NICHT SYMETRISCH! ACHTUNGG!!\n\nGerichteter Graph",
+    "crumbs": [
+      "15 Graphen",
+      "15 Adjazente Knoten"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Adjazente Knoten.html#adjazente-knoten",
+    "href": "15 Graphen/Adjazente Knoten.html#adjazente-knoten",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Benachbarte Knoten. Also es gibt eine Kante \\((x,y) \\in E \\leftrightarrow \\text{x ist mit y adjazent}\\). DIES IST NICHT SYMETRISCH! ACHTUNGG!!\n\nGerichteter Graph",
+    "crumbs": [
+      "15 Graphen",
+      "15 Adjazente Knoten"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Wiederholungsfreier Pfad.html",
+    "href": "15 Graphen/Wiederholungsfreier Pfad.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ein Pfad \\(p = (v_0,...,v_n)\\) ist wiederholungsfrei, wenn alle \\(v_1,...,v_n\\) paarweise verschieden sind. Die einzigen knoten die gleich sein dürfen sind \\(v_0\\) und \\(v_n\\).\n\nPfad",
+    "crumbs": [
+      "15 Graphen",
+      "15 Wiederholungsfreier Pfad"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Wiederholungsfreier Pfad.html#wiederholungsfreier-pfad",
+    "href": "15 Graphen/Wiederholungsfreier Pfad.html#wiederholungsfreier-pfad",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ein Pfad \\(p = (v_0,...,v_n)\\) ist wiederholungsfrei, wenn alle \\(v_1,...,v_n\\) paarweise verschieden sind. Die einzigen knoten die gleich sein dürfen sind \\(v_0\\) und \\(v_n\\).\n\nPfad",
+    "crumbs": [
+      "15 Graphen",
+      "15 Wiederholungsfreier Pfad"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Baum.html",
+    "href": "15 Graphen/Baum.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ein Baum ist ein Baum wenn es eine Wurzel gibt. Das heißt es gibt einen knoten von denen man alle anderen mit nur einem Pfad!! erreichen kann.\nDie Wurzel eines gerichteten Baumes ist eindeutig.\n\nGerichteter Graph",
+    "crumbs": [
+      "15 Graphen",
+      "15 Baum"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Baum.html#baum",
+    "href": "15 Graphen/Baum.html#baum",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ein Baum ist ein Baum wenn es eine Wurzel gibt. Das heißt es gibt einen knoten von denen man alle anderen mit nur einem Pfad!! erreichen kann.\nDie Wurzel eines gerichteten Baumes ist eindeutig.\n\nGerichteter Graph",
+    "crumbs": [
+      "15 Graphen",
+      "15 Baum"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Teilpfad.html",
+    "href": "15 Graphen/Teilpfad.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Steicht man in einem Pfad \\(p = (v_0,...,v_n)\\) vom Anfang/Ende endlich viele Knoten, aber nicht alle, entsteht ein Teilpfad.\n\nPfad",
+    "crumbs": [
+      "15 Graphen",
+      "15 Teilpfad"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Teilpfad.html#teilpfad",
+    "href": "15 Graphen/Teilpfad.html#teilpfad",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Steicht man in einem Pfad \\(p = (v_0,...,v_n)\\) vom Anfang/Ende endlich viele Knoten, aber nicht alle, entsteht ein Teilpfad.\n\nPfad",
+    "crumbs": [
+      "15 Graphen",
+      "15 Teilpfad"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/M+.html",
+    "href": "15 Graphen/M+.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Das ist die Menge aller nichtleerer n-Tupel, dessen Elemente aus M stammen. Man notiert dies in der Form \\((m1,m2,m3,...,m_k)\\).\n\nKathesisches Produkt von A und B",
+    "crumbs": [
+      "15 Graphen",
+      "15 $M^{(+)}$"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/M+.html#m",
+    "href": "15 Graphen/M+.html#m",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Das ist die Menge aller nichtleerer n-Tupel, dessen Elemente aus M stammen. Man notiert dies in der Form \\((m1,m2,m3,...,m_k)\\).\n\nKathesisches Produkt von A und B",
+    "crumbs": [
+      "15 Graphen",
+      "15 $M^{(+)}$"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Weg.html",
+    "href": "15 Graphen/Weg.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Jo Weg bro ist halt Pfad aber in ungerichteten Graphen. Das Scipt sagt dazu:\n“Wir wollen sagen, dass eine nichtleere Liste p = (v0,…,vn) ∈ V(+) von Knoten ein Weg in einem ungerichteten Graphen G = (V,E) ist, wenn für alle i ∈ Zn gilt: {vi,vi+1} ∈ E. Die Anzahl n = |p|−1 der Kanten (!) heißt die Länge des Weges.”.\n\nPfad\nUngerichtete Graphen",
+    "crumbs": [
+      "15 Graphen",
+      "15 Weg"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Weg.html#weg",
+    "href": "15 Graphen/Weg.html#weg",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Jo Weg bro ist halt Pfad aber in ungerichteten Graphen. Das Scipt sagt dazu:\n“Wir wollen sagen, dass eine nichtleere Liste p = (v0,…,vn) ∈ V(+) von Knoten ein Weg in einem ungerichteten Graphen G = (V,E) ist, wenn für alle i ∈ Zn gilt: {vi,vi+1} ∈ E. Die Anzahl n = |p|−1 der Kanten (!) heißt die Länge des Weges.”.\n\nPfad\nUngerichtete Graphen",
+    "crumbs": [
+      "15 Graphen",
+      "15 Weg"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/(Einfacher) Zyklus.html",
+    "href": "15 Graphen/(Einfacher) Zyklus.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Wenn \\(n \\geq 1\\) ist, dann nennt man einen geschlossenen Pfad einen Zyklus. Es ist ein einfacher Zyklus, wenn er außerdem wiederholungsfrei ist.\n\nPfad",
+    "crumbs": [
+      "15 Graphen",
+      "15 (Einfacher) Zyklus"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/(Einfacher) Zyklus.html#einfacher-zyklus",
+    "href": "15 Graphen/(Einfacher) Zyklus.html#einfacher-zyklus",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Wenn \\(n \\geq 1\\) ist, dann nennt man einen geschlossenen Pfad einen Zyklus. Es ist ein einfacher Zyklus, wenn er außerdem wiederholungsfrei ist.\n\nPfad",
+    "crumbs": [
+      "15 Graphen",
+      "15 (Einfacher) Zyklus"
+    ]
+  },
+  {
+    "objectID": "12 Kontextfreie Grammatiken/Von einer Grammatik erzeugten Formalen Sprache.html",
+    "href": "12 Kontextfreie Grammatiken/Von einer Grammatik erzeugten Formalen Sprache.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(L(G) = \\{w \\in V^* | S \\implies^* \\ w\\}\\)\n\nAufbau einer kontextfreien Grammatik\nFormale Sprache",
+    "crumbs": [
+      "12 Kontextfreie Grammatiken",
+      "12 Von einer Grammatik erzeugten Formalen Sprache"
+    ]
+  },
+  {
+    "objectID": "12 Kontextfreie Grammatiken/Von einer Grammatik erzeugten Formalen Sprache.html#von-einer-grammatik-erzeugten-formalen-sprache",
+    "href": "12 Kontextfreie Grammatiken/Von einer Grammatik erzeugten Formalen Sprache.html#von-einer-grammatik-erzeugten-formalen-sprache",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(L(G) = \\{w \\in V^* | S \\implies^* \\ w\\}\\)\n\nAufbau einer kontextfreien Grammatik\nFormale Sprache",
+    "crumbs": [
+      "12 Kontextfreie Grammatiken",
+      "12 Von einer Grammatik erzeugten Formalen Sprache"
+    ]
+  },
+  {
+    "objectID": "12 Kontextfreie Grammatiken/Aufbau einer kontextfreien Grammatik.html",
+    "href": "12 Kontextfreie Grammatiken/Aufbau einer kontextfreien Grammatik.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine kontextfreue Grammatik ist ein 4-Tupel \\(G = (N, T, S, P)\\). Die bedeutung der Symbole müsste eigentlich klar sein für dich.\nMerksatz für die Reihenfolge: Nie Tante Sigrid parfümieren\nN Nichterminale (Menge)\nT Terminale (Menge)\nS Startsymbol (Symbol)\nP Produktionsvorschrift der Form (Teilmenge von Tupeln \\({N} \\times V^*\\))",
+    "crumbs": [
+      "12 Kontextfreie Grammatiken",
+      "12 Aufbau einer kontextfreien Grammatik / Typ-2-Grammatik"
+    ]
+  },
+  {
+    "objectID": "12 Kontextfreie Grammatiken/Aufbau einer kontextfreien Grammatik.html#aufbau-einer-kontextfreien-grammatik-typ-2-grammatik",
+    "href": "12 Kontextfreie Grammatiken/Aufbau einer kontextfreien Grammatik.html#aufbau-einer-kontextfreien-grammatik-typ-2-grammatik",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine kontextfreue Grammatik ist ein 4-Tupel \\(G = (N, T, S, P)\\). Die bedeutung der Symbole müsste eigentlich klar sein für dich.\nMerksatz für die Reihenfolge: Nie Tante Sigrid parfümieren\nN Nichterminale (Menge)\nT Terminale (Menge)\nS Startsymbol (Symbol)\nP Produktionsvorschrift der Form (Teilmenge von Tupeln \\({N} \\times V^*\\))",
+    "crumbs": [
+      "12 Kontextfreie Grammatiken",
+      "12 Aufbau einer kontextfreien Grammatik / Typ-2-Grammatik"
+    ]
+  },
+  {
+    "objectID": "12 Kontextfreie Grammatiken/Potenz einer Relation.html",
+    "href": "12 Kontextfreie Grammatiken/Potenz einer Relation.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(R_0 = I_M\\)\n\\(\\forall i \\in \\mathbb{N}_0 : R_{i+1} = R_i \\circ R\\)\n\nProdukt von Relationen",
+    "crumbs": [
+      "12 Kontextfreie Grammatiken",
+      "12 Potenz einer Relation"
+    ]
+  },
+  {
+    "objectID": "12 Kontextfreie Grammatiken/Potenz einer Relation.html#potenz-einer-relation",
+    "href": "12 Kontextfreie Grammatiken/Potenz einer Relation.html#potenz-einer-relation",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(R_0 = I_M\\)\n\\(\\forall i \\in \\mathbb{N}_0 : R_{i+1} = R_i \\circ R\\)\n\nProdukt von Relationen",
+    "crumbs": [
+      "12 Kontextfreie Grammatiken",
+      "12 Potenz einer Relation"
+    ]
+  },
+  {
+    "objectID": "12 Kontextfreie Grammatiken/Produkt von Relationen.html",
+    "href": "12 Kontextfreie Grammatiken/Produkt von Relationen.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(S \\circ R = \\{(x, z) \\in M1 \\times M3 \\mid \\text{es gibt ein } y \\in M2 : (x, y) \\in R \\land (y, z) \\in S\\}\\)\n\nRelation\nKathesisches Produkt von A und B",
+    "crumbs": [
+      "12 Kontextfreie Grammatiken",
+      "12 Produkt von Relationen"
+    ]
+  },
+  {
+    "objectID": "12 Kontextfreie Grammatiken/Produkt von Relationen.html#produkt-von-relationen",
+    "href": "12 Kontextfreie Grammatiken/Produkt von Relationen.html#produkt-von-relationen",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(S \\circ R = \\{(x, z) \\in M1 \\times M3 \\mid \\text{es gibt ein } y \\in M2 : (x, y) \\in R \\land (y, z) \\in S\\}\\)\n\nRelation\nKathesisches Produkt von A und B",
+    "crumbs": [
+      "12 Kontextfreie Grammatiken",
+      "12 Produkt von Relationen"
+    ]
+  },
+  {
+    "objectID": "19 Regulärer Ausdruck/Stukturelle Induktion.html",
+    "href": "19 Regulärer Ausdruck/Stukturelle Induktion.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Naja ich habe meinen Induktionsanfang und dann baue ich im Induktionsschritt die Basisfälle zusammen und nehme aber in der Induktionsvorraussetzung an, dass ich schon im weiten Zusammenbauschritt bin. Alles im allen am Ende macht es dann voll Sinn\n\nInduktion über die Wortlänge",
+    "crumbs": [
+      "19 Regulärer Ausdruck",
+      "Strukturelle Induktion"
+    ]
+  },
+  {
+    "objectID": "19 Regulärer Ausdruck/Stukturelle Induktion.html#strukturelle-induktion",
+    "href": "19 Regulärer Ausdruck/Stukturelle Induktion.html#strukturelle-induktion",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Naja ich habe meinen Induktionsanfang und dann baue ich im Induktionsschritt die Basisfälle zusammen und nehme aber in der Induktionsvorraussetzung an, dass ich schon im weiten Zusammenbauschritt bin. Alles im allen am Ende macht es dann voll Sinn\n\nInduktion über die Wortlänge",
+    "crumbs": [
+      "19 Regulärer Ausdruck",
+      "Strukturelle Induktion"
+    ]
+  },
+  {
+    "objectID": "19 Regulärer Ausdruck/Regulärer Ausdruck über Alphabet A.html",
+    "href": "19 Regulärer Ausdruck/Regulärer Ausdruck über Alphabet A.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Wichtig! A darf keines der fünf Zeichen \\(Z = \\{|,(,),*,\\not O\\}\\) enthalten. !\nNun ist ein Regulärer Ausdruck:\n• \\(\\not O\\) ist ein regulärer Ausdruck.\n• Für jedes x ∈ A ist x ein regulärer Ausdruck.\n• Wenn R1 und R2 reguläre Ausdrücke sind, dann sind auch (R1|R2) und (R1R2) reguläre Ausdrücke.\n• Wenn R ein regulärer Ausdruck ist, dann auch (R*).\n• Nichts anderes sind reguläre Ausdrücke.",
+    "crumbs": [
+      "19 Regulärer Ausdruck",
+      "19 Regulärer Ausdruck über Alphabet A"
+    ]
+  },
+  {
+    "objectID": "19 Regulärer Ausdruck/Regulärer Ausdruck über Alphabet A.html#regulärer-ausdruck-über-alphabet-a",
+    "href": "19 Regulärer Ausdruck/Regulärer Ausdruck über Alphabet A.html#regulärer-ausdruck-über-alphabet-a",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Wichtig! A darf keines der fünf Zeichen \\(Z = \\{|,(,),*,\\not O\\}\\) enthalten. !\nNun ist ein Regulärer Ausdruck:\n• \\(\\not O\\) ist ein regulärer Ausdruck.\n• Für jedes x ∈ A ist x ein regulärer Ausdruck.\n• Wenn R1 und R2 reguläre Ausdrücke sind, dann sind auch (R1|R2) und (R1R2) reguläre Ausdrücke.\n• Wenn R ein regulärer Ausdruck ist, dann auch (R*).\n• Nichts anderes sind reguläre Ausdrücke.",
+    "crumbs": [
+      "19 Regulärer Ausdruck",
+      "19 Regulärer Ausdruck über Alphabet A"
+    ]
+  },
+  {
+    "objectID": "19 Regulärer Ausdruck/Rechtslineare Grammatiken.html",
+    "href": "19 Regulärer Ausdruck/Rechtslineare Grammatiken.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine rechtslineare Grammatik ist eine kontextfreie Grammatik, das besondere ist, dass die Produktionsvorschriften nur die Form:\n\\(X -&gt; a\\)\n\\(X -&gt; aY\\)\nhaben können.\n\nAufbau einer kontextfreien Grammatik",
+    "crumbs": [
+      "19 Regulärer Ausdruck",
+      "19 Rechtslineare Grammatik / Typ-3-Grammatik"
+    ]
+  },
+  {
+    "objectID": "19 Regulärer Ausdruck/Rechtslineare Grammatiken.html#rechtslineare-grammatik-typ-3-grammatik",
+    "href": "19 Regulärer Ausdruck/Rechtslineare Grammatiken.html#rechtslineare-grammatik-typ-3-grammatik",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine rechtslineare Grammatik ist eine kontextfreie Grammatik, das besondere ist, dass die Produktionsvorschriften nur die Form:\n\\(X -&gt; a\\)\n\\(X -&gt; aY\\)\nhaben können.\n\nAufbau einer kontextfreien Grammatik",
+    "crumbs": [
+      "19 Regulärer Ausdruck",
+      "19 Rechtslineare Grammatik / Typ-3-Grammatik"
+    ]
+  },
+  {
+    "objectID": "19 Regulärer Ausdruck/Durch regulären Ausdruck beschriebene Formale Sprache.html",
+    "href": "19 Regulärer Ausdruck/Durch regulären Ausdruck beschriebene Formale Sprache.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Naja okay du wendest halt einfach die Regeln an oof.\n• L(\\(\\not O\\)) = {} (d.h. die leere Menge).\n• Für x ∈ A ist L(x) = {x}.\n• Sind R1 und R2 reguläre Ausdrücke, so ist L(R1|R2) = L(R1)∪ L(R2).\n• Sind R1 und R2 reguläre Ausdrücke, so ist L(R1R2) = L(R1)· L(R2).\n• Ist R ein regulärer Ausdruck, so ist L(R*) = L(R)∗.\n\nFormale Sprache\nRegulärer Ausdruck über Alphabet A",
+    "crumbs": [
+      "19 Regulärer Ausdruck",
+      "19 Durch regulären Ausdruck beschriebene Formale Sprache"
+    ]
+  },
+  {
+    "objectID": "19 Regulärer Ausdruck/Durch regulären Ausdruck beschriebene Formale Sprache.html#durch-regulären-ausdruck-beschriebene-formale-sprache",
+    "href": "19 Regulärer Ausdruck/Durch regulären Ausdruck beschriebene Formale Sprache.html#durch-regulären-ausdruck-beschriebene-formale-sprache",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Naja okay du wendest halt einfach die Regeln an oof.\n• L(\\(\\not O\\)) = {} (d.h. die leere Menge).\n• Für x ∈ A ist L(x) = {x}.\n• Sind R1 und R2 reguläre Ausdrücke, so ist L(R1|R2) = L(R1)∪ L(R2).\n• Sind R1 und R2 reguläre Ausdrücke, so ist L(R1R2) = L(R1)· L(R2).\n• Ist R ein regulärer Ausdruck, so ist L(R*) = L(R)∗.\n\nFormale Sprache\nRegulärer Ausdruck über Alphabet A",
+    "crumbs": [
+      "19 Regulärer Ausdruck",
+      "19 Durch regulären Ausdruck beschriebene Formale Sprache"
+    ]
+  },
+  {
+    "objectID": "19 Regulärer Ausdruck/Drei Sätze über die Erzeugung, Erkennung und Beschreibung formaler Sprachen.html",
+    "href": "19 Regulärer Ausdruck/Drei Sätze über die Erzeugung, Erkennung und Beschreibung formaler Sprachen.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Für jede formale Sprache L sind die folgenden drei Aussagen äquivalent:\n\nL kann von einem endlichen Akzeptor erkannt werden.\nL kann durch einen regulären Ausdruck beschrieben werden.\nL kann von einer rechtslinearen Grammatik erzeugt werden.\n\nEine formale Sprache die die folgenden Eigenschaften hat nennt man reguläre Sprache\n\nFormale Sprache\nRegulärer Ausdruck über Alphabet A\nEndlicher Akzeptor\nRechtslineare Grammatiken",
+    "crumbs": [
+      "19 Regulärer Ausdruck",
+      "19 Drei Sätze über die Erzeugung, Erkennung und Beschreibung formaler Sprachen"
+    ]
+  },
+  {
+    "objectID": "19 Regulärer Ausdruck/Drei Sätze über die Erzeugung, Erkennung und Beschreibung formaler Sprachen.html#drei-sätze-über-die-erzeugung-erkennung-und-beschreibung-formaler-sprachen",
+    "href": "19 Regulärer Ausdruck/Drei Sätze über die Erzeugung, Erkennung und Beschreibung formaler Sprachen.html#drei-sätze-über-die-erzeugung-erkennung-und-beschreibung-formaler-sprachen",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Für jede formale Sprache L sind die folgenden drei Aussagen äquivalent:\n\nL kann von einem endlichen Akzeptor erkannt werden.\nL kann durch einen regulären Ausdruck beschrieben werden.\nL kann von einer rechtslinearen Grammatik erzeugt werden.\n\nEine formale Sprache die die folgenden Eigenschaften hat nennt man reguläre Sprache\n\nFormale Sprache\nRegulärer Ausdruck über Alphabet A\nEndlicher Akzeptor\nRechtslineare Grammatiken",
+    "crumbs": [
+      "19 Regulärer Ausdruck",
+      "19 Drei Sätze über die Erzeugung, Erkennung und Beschreibung formaler Sprachen"
+    ]
+  },
+  {
+    "objectID": "12 Kontextfreie Grammatiken/Identische Abbildung auf Menge M.html",
+    "href": "12 Kontextfreie Grammatiken/Identische Abbildung auf Menge M.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(I_M = \\{(x, x) \\mid x \\in M\\}\\)\n\nRelation",
+    "crumbs": [
+      "12 Kontextfreie Grammatiken",
+      "12 Identische Abbildung auf menge M"
+    ]
+  },
+  {
+    "objectID": "12 Kontextfreie Grammatiken/Identische Abbildung auf Menge M.html#identische-abbildung-auf-menge-m",
+    "href": "12 Kontextfreie Grammatiken/Identische Abbildung auf Menge M.html#identische-abbildung-auf-menge-m",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(I_M = \\{(x, x) \\mid x \\in M\\}\\)\n\nRelation",
+    "crumbs": [
+      "12 Kontextfreie Grammatiken",
+      "12 Identische Abbildung auf menge M"
+    ]
+  },
+  {
+    "objectID": "12 Kontextfreie Grammatiken/Reflexiv Transitive Hülle.html",
+    "href": "12 Kontextfreie Grammatiken/Reflexiv Transitive Hülle.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(R^* = \\bigcup_{i=0}^{\\infty} R_i\\)\nTransitiv: (x,x) ist in R\nTransitiv: (x,y) (y,z) in R, also ist auch (x,z) in R\nDie Reflexiv Transitive Hülle macht einfach nur eine Relation reflexiv und transitiv zu jedem Element seiner beiden Mengen die in der Relation sind.\n\nProdukt von Relationen",
+    "crumbs": [
+      "12 Kontextfreie Grammatiken",
+      "12 Reflexiv Transitive Hülle"
+    ]
+  },
+  {
+    "objectID": "12 Kontextfreie Grammatiken/Reflexiv Transitive Hülle.html#reflexiv-transitive-hülle",
+    "href": "12 Kontextfreie Grammatiken/Reflexiv Transitive Hülle.html#reflexiv-transitive-hülle",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(R^* = \\bigcup_{i=0}^{\\infty} R_i\\)\nTransitiv: (x,x) ist in R\nTransitiv: (x,y) (y,z) in R, also ist auch (x,z) in R\nDie Reflexiv Transitive Hülle macht einfach nur eine Relation reflexiv und transitiv zu jedem Element seiner beiden Mengen die in der Relation sind.\n\nProdukt von Relationen",
+    "crumbs": [
+      "12 Kontextfreie Grammatiken",
+      "12 Reflexiv Transitive Hülle"
+    ]
+  },
+  {
+    "objectID": "12 Kontextfreie Grammatiken/Ableitungsschritt in einer Grammatik.html",
+    "href": "12 Kontextfreie Grammatiken/Ableitungsschritt in einer Grammatik.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Wenn ich von einem Wort in das nächste Kommen kann, also X kann zu abX werden, schreiben ich z.b.:\n\\(Yabb\\mathbf{X} \\implies Yabb\\mathbf{abX}\\)\n\\(\\mathbf{X} {\\implies}^* \\ Yaccdd{X}ooabABL\\)\n\nGerichteter Graph\nAufbau einer kontextfreien Grammatik",
+    "crumbs": [
+      "12 Kontextfreie Grammatiken",
+      "12 Ableitungsschritt in einer Grammatik"
+    ]
+  },
+  {
+    "objectID": "12 Kontextfreie Grammatiken/Ableitungsschritt in einer Grammatik.html#ableitungsschritt-in-einer-grammatik",
+    "href": "12 Kontextfreie Grammatiken/Ableitungsschritt in einer Grammatik.html#ableitungsschritt-in-einer-grammatik",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Wenn ich von einem Wort in das nächste Kommen kann, also X kann zu abX werden, schreiben ich z.b.:\n\\(Yabb\\mathbf{X} \\implies Yabb\\mathbf{abX}\\)\n\\(\\mathbf{X} {\\implies}^* \\ Yaccdd{X}ooabABL\\)\n\nGerichteter Graph\nAufbau einer kontextfreien Grammatik",
+    "crumbs": [
+      "12 Kontextfreie Grammatiken",
+      "12 Ableitungsschritt in einer Grammatik"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Graphenmarkierungen.html",
+    "href": "15 Graphen/Graphenmarkierungen.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Naja okay man kann halt die kanten Markieren. Man kann die knoten markieren. Wenn man auf die kanten Zahlen macht, dann ist es ein gewichteter Graph. Das kann man sich alles formal als Funktion vorstellen, die jedem Knoten oder jeder Kante ein Symbol oder so zuweist.\n\nAbbildung\nUngerichtete Graphen\nGerichteter Graph",
+    "crumbs": [
+      "15 Graphen",
+      "15 Graphenmarkierungen"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Graphenmarkierungen.html#graphenmarkierungen",
+    "href": "15 Graphen/Graphenmarkierungen.html#graphenmarkierungen",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Naja okay man kann halt die kanten Markieren. Man kann die knoten markieren. Wenn man auf die kanten Zahlen macht, dann ist es ein gewichteter Graph. Das kann man sich alles formal als Funktion vorstellen, die jedem Knoten oder jeder Kante ein Symbol oder so zuweist.\n\nAbbildung\nUngerichtete Graphen\nGerichteter Graph",
+    "crumbs": [
+      "15 Graphen",
+      "15 Graphenmarkierungen"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Streng zusammenhängend.html",
+    "href": "15 Graphen/Streng zusammenhängend.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ein Graph heißt streng zusammenhängend, wenn es für alle beliebigen zwei Knoten x,y ein Pfad von x nach y gibt.\n\nGerichteter Graph",
+    "crumbs": [
+      "15 Graphen",
+      "15 Streng zusammenhängend"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Streng zusammenhängend.html#streng-zusammenhängend",
+    "href": "15 Graphen/Streng zusammenhängend.html#streng-zusammenhängend",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ein Graph heißt streng zusammenhängend, wenn es für alle beliebigen zwei Knoten x,y ein Pfad von x nach y gibt.\n\nGerichteter Graph",
+    "crumbs": [
+      "15 Graphen",
+      "15 Streng zusammenhängend"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Erreichbarkeit.html",
+    "href": "15 Graphen/Erreichbarkeit.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Es gibt einen Pfad \\(p = (v_0,...,v_n)\\)\n\nPfad",
+    "crumbs": [
+      "15 Graphen",
+      "15 $v_n$ ist von $v_0$ aus erreichbar."
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Erreichbarkeit.html#v_n-ist-von-v_0-aus-erreichbar.",
+    "href": "15 Graphen/Erreichbarkeit.html#v_n-ist-von-v_0-aus-erreichbar.",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Es gibt einen Pfad \\(p = (v_0,...,v_n)\\)\n\nPfad",
+    "crumbs": [
+      "15 Graphen",
+      "15 $v_n$ ist von $v_0$ aus erreichbar."
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Zusammenhängender (ungerichteter!) Graph.html",
+    "href": "15 Graphen/Zusammenhängender (ungerichteter!) Graph.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ein ungerichteter Graph ist zusammenhängend, wenn sein zugehöriger gerichteter Graph streng zusammenhängend ist.\n\nStreng zusammenhängend\nUngerichtete Graphen",
+    "crumbs": [
+      "15 Graphen",
+      "15 Zusammenhängender (ungerichteter!) Graph"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Zusammenhängender (ungerichteter!) Graph.html#zusammenhängender-ungerichteter-graph",
+    "href": "15 Graphen/Zusammenhängender (ungerichteter!) Graph.html#zusammenhängender-ungerichteter-graph",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ein ungerichteter Graph ist zusammenhängend, wenn sein zugehöriger gerichteter Graph streng zusammenhängend ist.\n\nStreng zusammenhängend\nUngerichtete Graphen",
+    "crumbs": [
+      "15 Graphen",
+      "15 Zusammenhängender (ungerichteter!) Graph"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Ungerichtete Graphen.html",
+    "href": "15 Graphen/Ungerichtete Graphen.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "sind diejenigen Graphen naja wo man halt in beide richtungen gehen darf einfach gesagt. Ehrlicht adjazenz ist hier einfach wirklich nur wenn es eine Verbindung gibt, schlingenfrei ja wenn es keine Schlinge gibt, und Teil Graphe genau so mit Teilmengen.\n\nKantenrelation",
+    "crumbs": [
+      "15 Graphen",
+      "15 Ungerichtete Graphen"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Ungerichtete Graphen.html#ungerichtete-graphen",
+    "href": "15 Graphen/Ungerichtete Graphen.html#ungerichtete-graphen",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "sind diejenigen Graphen naja wo man halt in beide richtungen gehen darf einfach gesagt. Ehrlicht adjazenz ist hier einfach wirklich nur wenn es eine Verbindung gibt, schlingenfrei ja wenn es keine Schlinge gibt, und Teil Graphe genau so mit Teilmengen.\n\nKantenrelation",
+    "crumbs": [
+      "15 Graphen",
+      "15 Ungerichtete Graphen"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Potenzen der Kanten eines Graphs.html",
+    "href": "15 Graphen/Potenzen der Kanten eines Graphs.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Naja ist eigentlich selbsterklärend. Ich gehe halt alle Knoten 2x.\n\nGerichteter Graph",
+    "crumbs": [
+      "15 Graphen",
+      "15 Potenzen der Kanten eines Graph"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Potenzen der Kanten eines Graphs.html#potenzen-der-kanten-eines-graph",
+    "href": "15 Graphen/Potenzen der Kanten eines Graphs.html#potenzen-der-kanten-eines-graph",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Naja ist eigentlich selbsterklärend. Ich gehe halt alle Knoten 2x.\n\nGerichteter Graph",
+    "crumbs": [
+      "15 Graphen",
+      "15 Potenzen der Kanten eines Graph"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Eingangs bzw Ausgangsgrad und Grad eines Knotens.html",
+    "href": "15 Graphen/Eingangs bzw Ausgangsgrad und Grad eines Knotens.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Der Eingangs- bzw Ausgangsgrad eines Knotens ist die Anzahl der Knoten die reingehen bzw Rausgehen. Das ist nur im gerichteten Graphen definiert. Die Summe von eingangs und Ausgangknoten bezeichnet man als Grad eines Knoten.\n\nGerichteter Graph",
+    "crumbs": [
+      "15 Graphen",
+      "15 Eingangs bzw Ausgangsgrad und Grad eines Knotens"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Eingangs bzw Ausgangsgrad und Grad eines Knotens.html#eingangs-bzw-ausgangsgrad-und-grad-eines-knotens",
+    "href": "15 Graphen/Eingangs bzw Ausgangsgrad und Grad eines Knotens.html#eingangs-bzw-ausgangsgrad-und-grad-eines-knotens",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Der Eingangs- bzw Ausgangsgrad eines Knotens ist die Anzahl der Knoten die reingehen bzw Rausgehen. Das ist nur im gerichteten Graphen definiert. Die Summe von eingangs und Ausgangknoten bezeichnet man als Grad eines Knoten.\n\nGerichteter Graph",
+    "crumbs": [
+      "15 Graphen",
+      "15 Eingangs bzw Ausgangsgrad und Grad eines Knotens"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/geschlossener Pfad.html",
+    "href": "15 Graphen/geschlossener Pfad.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ein Pfad \\(p = (v_0,...,v_n)\\) heißt geschlossen, wenn \\(v_0\\)=\\(v_1\\).\n\nPfad",
+    "crumbs": [
+      "15 Graphen",
+      "15 Geschlossener Pfad"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/geschlossener Pfad.html#geschlossener-pfad",
+    "href": "15 Graphen/geschlossener Pfad.html#geschlossener-pfad",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ein Pfad \\(p = (v_0,...,v_n)\\) heißt geschlossen, wenn \\(v_0\\)=\\(v_1\\).\n\nPfad",
+    "crumbs": [
+      "15 Graphen",
+      "15 Geschlossener Pfad"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Zu gerichtetem Graph zugehöriger ungerichteter Graph.html",
+    "href": "15 Graphen/Zu gerichtetem Graph zugehöriger ungerichteter Graph.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Man lässt einfach alle Pfeile weg graphisch :)\n\nUngerichtete Graphen\nGerichteter Graph",
+    "crumbs": [
+      "15 Graphen",
+      "15 Zu gerichtetem Graph zugehöriger ungerichteter Graph"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Zu gerichtetem Graph zugehöriger ungerichteter Graph.html#zu-gerichtetem-graph-zugehöriger-ungerichteter-graph",
+    "href": "15 Graphen/Zu gerichtetem Graph zugehöriger ungerichteter Graph.html#zu-gerichtetem-graph-zugehöriger-ungerichteter-graph",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Man lässt einfach alle Pfeile weg graphisch :)\n\nUngerichtete Graphen\nGerichteter Graph",
+    "crumbs": [
+      "15 Graphen",
+      "15 Zu gerichtetem Graph zugehöriger ungerichteter Graph"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Teilgraph.html",
+    "href": "15 Graphen/Teilgraph.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ein Graph \\(G' = (V', E')\\) ist ein Teilgraph von \\(G = (V, E)\\), wenn \\(V' \\subseteq V\\) und \\(E' \\subseteq E\\).\n\nGerichteter Graph",
+    "crumbs": [
+      "15 Graphen",
+      "15 Teilgraph"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Teilgraph.html#teilgraph",
+    "href": "15 Graphen/Teilgraph.html#teilgraph",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ein Graph \\(G' = (V', E')\\) ist ein Teilgraph von \\(G = (V, E)\\), wenn \\(V' \\subseteq V\\) und \\(E' \\subseteq E\\).\n\nGerichteter Graph",
+    "crumbs": [
+      "15 Graphen",
+      "15 Teilgraph"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Gerichteter Graph.html",
+    "href": "15 Graphen/Gerichteter Graph.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ein gerichteter Graph ist durch ein Paar \\(G = (V,E)\\) festgelegt. Wobei \\(E\\subseteq V \\times V\\) ist.\nV sind KNOTEN\nE sind KANTEN !",
+    "crumbs": [
+      "15 Graphen",
+      "15 Gerichteter Graph"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Gerichteter Graph.html#gerichteter-graph",
+    "href": "15 Graphen/Gerichteter Graph.html#gerichteter-graph",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ein gerichteter Graph ist durch ein Paar \\(G = (V,E)\\) festgelegt. Wobei \\(E\\subseteq V \\times V\\) ist.\nV sind KNOTEN\nE sind KANTEN !",
+    "crumbs": [
+      "15 Graphen",
+      "15 Gerichteter Graph"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Kantenrelation.html",
+    "href": "15 Graphen/Kantenrelation.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "In gerichteten Graphen können wir Kanten potenzieren und das ist cool! Aber damit wir das in Ungerichteten Graphen zun können definieren wir uns die Kantenrelation \\(E_g\\) ! Das ist die Menge aller (x,y) für die Gilt, dass {x, y }in E sind. Also ist \\(G(V, E_g)\\) der zu U gehörige gerichtete Graph, wenn U=(V,E) ist.\n\nGerichteter Graph",
+    "crumbs": [
+      "15 Graphen",
+      "15 Kantenrelation"
+    ]
+  },
+  {
+    "objectID": "15 Graphen/Kantenrelation.html#kantenrelation",
+    "href": "15 Graphen/Kantenrelation.html#kantenrelation",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "In gerichteten Graphen können wir Kanten potenzieren und das ist cool! Aber damit wir das in Ungerichteten Graphen zun können definieren wir uns die Kantenrelation \\(E_g\\) ! Das ist die Menge aller (x,y) für die Gilt, dass {x, y }in E sind. Also ist \\(G(V, E_g)\\) der zu U gehörige gerichtete Graph, wenn U=(V,E) ist.\n\nGerichteter Graph",
+    "crumbs": [
+      "15 Graphen",
+      "15 Kantenrelation"
+    ]
+  },
+  {
+    "objectID": "22 MIMA/Grobstruktur der Mima, von neumann architektur.html",
+    "href": "22 MIMA/Grobstruktur der Mima, von neumann architektur.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Steuerwerk\n-&gt; Gibt die Befehle an die anderen Einheiten.\n-&gt; Takt - sorgt dafür, dass die Operationen getaktet ausgeführt werden ig\nRechenwerk\n-&gt; Führt die Rechenbefehle vom Steuerwerk aus\nSpeicher\nAllgemeiner Aufbau des Prozessors",
+    "crumbs": [
+      "22 MIMA",
+      "Grobstruktur der Mima, von neumann architektur.html"
+    ]
+  },
+  {
+    "objectID": "22 MIMA/Programm in einer Mima.html",
+    "href": "22 MIMA/Programm in einer Mima.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "22 Programm in einer Mima\n\nIst sozusagen eine Tabelle bzw ein Speicher von verschiedenen Werten, wobei die ersten 4 bits die Werte sind und die letzten 20 bits die Werte. Die Programme werden nacheinander ausgeführt. Also:\nzuerst der Befehl an der Adresse 1 in der Tabelle, dann 10, dann 11, dann 100, dann 101, dann 110, dann 111, dann 1000 usw.\n\nGrobstruktur der Mima, von neumann architektur",
+    "crumbs": [
+      "22 MIMA",
+      "Programm in einer Mima.html"
+    ]
+  },
+  {
+    "objectID": "22 MIMA/Hauptspeicher der Mima.html",
+    "href": "22 MIMA/Hauptspeicher der Mima.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Es gilt: Adressen sind 20bit und Werte sind 24bit. Somit gibt es (wenn wir bei der Tabellenanalogie aus Kapitel 9 sind) \\(2^{20}\\) Tabellenzeilen mit je 24bit Speicher. Also \\(2^{20}*24bit\\).\n\n\n\nProgrammspeicher (Speicher um die Befehle zu speichern). 4 Bit Befehlscodierung und 20bit Adresse/Wert.\n\n\n\nDatenspeicher: Eingaben, Zwischenergebnisse, Ausgaben. Dies in Zweierkomplementdarstellung.\n\nGrobstruktur der Mima, von neumann architektur",
+    "crumbs": [
+      "22 MIMA",
+      "22 Hauptspeicher der Mima"
+    ]
+  },
+  {
+    "objectID": "22 MIMA/Hauptspeicher der Mima.html#hauptspeicher-der-mima",
+    "href": "22 MIMA/Hauptspeicher der Mima.html#hauptspeicher-der-mima",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Es gilt: Adressen sind 20bit und Werte sind 24bit. Somit gibt es (wenn wir bei der Tabellenanalogie aus Kapitel 9 sind) \\(2^{20}\\) Tabellenzeilen mit je 24bit Speicher. Also \\(2^{20}*24bit\\).\n\n\n\nProgrammspeicher (Speicher um die Befehle zu speichern). 4 Bit Befehlscodierung und 20bit Adresse/Wert.\n\n\n\nDatenspeicher: Eingaben, Zwischenergebnisse, Ausgaben. Dies in Zweierkomplementdarstellung.\n\nGrobstruktur der Mima, von neumann architektur",
+    "crumbs": [
+      "22 MIMA",
+      "22 Hauptspeicher der Mima"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Zweierkomplement von Binärzahlen.html",
+    "href": "8 Übersetzungen und Codierungen/Zweierkomplement von Binärzahlen.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ist so definiert: Für positive Zahlen schrieben wir die Zahl auf und setzten vorne eine 0 dran. Für negative Zahlen setzten wir vorne eine 1 dran und berechnen die Binärdarstellung mit führenden nullen von der negativen Zahl x + 2^(l-1). Dies hat einen Vorteil und einen Nachteil in meiner Sicht:\nDer Vorteil ist, dass negative Zahlen im Zweierkomplement gut binär addierbar sind, wenn man den Überhang entfernt.\nDer Nachteil ist, dass man negative Zahlen nicht so ganz einfach lesen kann.\nDefinition vom Zweierkomplement:\n\\(Zkpl_{\\ell}(x) = \\begin{cases} 0\\text{bin}_{\\ell-1}(x) & \\text{if } x \\geq 0 \\\\ 1\\text{bin}_{\\ell-1}\\left(2^{\\ell-1} + x\\right) & \\text{if } x &lt; 0 \\end{cases}\\)\n\nProblematik - Führende Nullen",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Zweierkomplement von Binärzahlen"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Zweierkomplement von Binärzahlen.html#zweierkomplement-von-binärzahlen",
+    "href": "8 Übersetzungen und Codierungen/Zweierkomplement von Binärzahlen.html#zweierkomplement-von-binärzahlen",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ist so definiert: Für positive Zahlen schrieben wir die Zahl auf und setzten vorne eine 0 dran. Für negative Zahlen setzten wir vorne eine 1 dran und berechnen die Binärdarstellung mit führenden nullen von der negativen Zahl x + 2^(l-1). Dies hat einen Vorteil und einen Nachteil in meiner Sicht:\nDer Vorteil ist, dass negative Zahlen im Zweierkomplement gut binär addierbar sind, wenn man den Überhang entfernt.\nDer Nachteil ist, dass man negative Zahlen nicht so ganz einfach lesen kann.\nDefinition vom Zweierkomplement:\n\\(Zkpl_{\\ell}(x) = \\begin{cases} 0\\text{bin}_{\\ell-1}(x) & \\text{if } x \\geq 0 \\\\ 1\\text{bin}_{\\ell-1}\\left(2^{\\ell-1} + x\\right) & \\text{if } x &lt; 0 \\end{cases}\\)\n\nProblematik - Führende Nullen",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Zweierkomplement von Binärzahlen"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Problematik - Führende Nullen.html",
+    "href": "8 Übersetzungen und Codierungen/Problematik - Führende Nullen.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "In der Funktion Num_k(w) besteht das Problem, dass führende Nullen gelöscht werden. Um das zu umgehen kann man diese wieder hinzufügen :). Es ist wichtig sich die Problematik der löschung der Führenden Nullen im Kopf zu haben weil man sonst bisschen blundern kann in der Klausur :(\nBsp:\n\\(\\text{bin}_\\ell : \\mathbb{Z}_{2^\\ell} \\rightarrow \\{0,1\\}^\\ell\\)\n\\(\\text{bin}_\\ell(n) = 0^{\\ell - |\\text{Repr}_2(n)|} \\text{Repr}_2(n)\\)\nDa fügen wir l minus Länge von der Reprä. nullen hinzu. Unser output wort ist also immer so lang wie es stellen gibt: hier sind es l stellen\n\nK-äre Darstellung bzw K-Äre Repräsentation\nnum(x) Dezimaldarstellung von Zahlen",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Führende Nullen Problematik"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Problematik - Führende Nullen.html#führende-nullen-problematik",
+    "href": "8 Übersetzungen und Codierungen/Problematik - Führende Nullen.html#führende-nullen-problematik",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "In der Funktion Num_k(w) besteht das Problem, dass führende Nullen gelöscht werden. Um das zu umgehen kann man diese wieder hinzufügen :). Es ist wichtig sich die Problematik der löschung der Führenden Nullen im Kopf zu haben weil man sonst bisschen blundern kann in der Klausur :(\nBsp:\n\\(\\text{bin}_\\ell : \\mathbb{Z}_{2^\\ell} \\rightarrow \\{0,1\\}^\\ell\\)\n\\(\\text{bin}_\\ell(n) = 0^{\\ell - |\\text{Repr}_2(n)|} \\text{Repr}_2(n)\\)\nDa fügen wir l minus Länge von der Reprä. nullen hinzu. Unser output wort ist also immer so lang wie es stellen gibt: hier sind es l stellen\n\nK-äre Darstellung bzw K-Äre Repräsentation\nnum(x) Dezimaldarstellung von Zahlen",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Führende Nullen Problematik"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/N_x(w), Anzahl von x in Wort w.html",
+    "href": "8 Übersetzungen und Codierungen/N_x(w), Anzahl von x in Wort w.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(N_x : A^* \\rightarrow \\mathbb{N}_0\\)\n\\(N_x(\\varepsilon) = 0,\\)\n\\(\\forall y \\in A, \\forall w \\in A^* : N_x(yw) = \\begin{cases} 1 + N_x(w) & \\text{if } y = x \\\\ N_x(w) & \\text{otherwise} \\end{cases}\\)\nAka Zählt rekursiv eins hoch für jedes mal wenn es x sieht.\n\nWort aus einem Alphabet A\nAbbildung",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 N_x(w), Anzahl von x in Wort w"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/N_x(w), Anzahl von x in Wort w.html#n_xw-anzahl-von-x-in-wort-w",
+    "href": "8 Übersetzungen und Codierungen/N_x(w), Anzahl von x in Wort w.html#n_xw-anzahl-von-x-in-wort-w",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(N_x : A^* \\rightarrow \\mathbb{N}_0\\)\n\\(N_x(\\varepsilon) = 0,\\)\n\\(\\forall y \\in A, \\forall w \\in A^* : N_x(yw) = \\begin{cases} 1 + N_x(w) & \\text{if } y = x \\\\ N_x(w) & \\text{otherwise} \\end{cases}\\)\nAka Zählt rekursiv eins hoch für jedes mal wenn es x sieht.\n\nWort aus einem Alphabet A\nAbbildung",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 N_x(w), Anzahl von x in Wort w"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/ε-Freier Homomorphismus.html",
+    "href": "8 Übersetzungen und Codierungen/ε-Freier Homomorphismus.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Einen Homomorphismus nennt man ε-Frei, wenn für alle \\(x \\in A\\) gilt: \\(h(x) \\not= ε\\)\n\nHomomorphismus im Wortkontext",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 ε-Freier Homomorphismus"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/ε-Freier Homomorphismus.html#ε-freier-homomorphismus",
+    "href": "8 Übersetzungen und Codierungen/ε-Freier Homomorphismus.html#ε-freier-homomorphismus",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Einen Homomorphismus nennt man ε-Frei, wenn für alle \\(x \\in A\\) gilt: \\(h(x) \\not= ε\\)\n\nHomomorphismus im Wortkontext",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 ε-Freier Homomorphismus"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Ganzzahlige Division mit Rest.html",
+    "href": "8 Übersetzungen und Codierungen/Ganzzahlige Division mit Rest.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(x = y \\cdot (x \\, \\text{div} \\, y) + (x \\, \\text{mod} \\, y)\\)\ndiv: gibt das Ergebnis der Ganzzahligen Divison aus. Dies ist das was nicht der Rest ist in der Grundschule\nmod: Rest einer Ganzzahligen Division\n.\nEs gilt die Rechenregel [x+y] = [x] + [y]. Wobei alle Zahlen immer in der Restklasse sind. Dasselbe gilt für die Multiplikation\n\nAbbildung",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Ganzzahlige Division mit Rest (div/mod)"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Ganzzahlige Division mit Rest.html#ganzzahlige-division-mit-rest-divmod",
+    "href": "8 Übersetzungen und Codierungen/Ganzzahlige Division mit Rest.html#ganzzahlige-division-mit-rest-divmod",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(x = y \\cdot (x \\, \\text{div} \\, y) + (x \\, \\text{mod} \\, y)\\)\ndiv: gibt das Ergebnis der Ganzzahligen Divison aus. Dies ist das was nicht der Rest ist in der Grundschule\nmod: Rest einer Ganzzahligen Division\n.\nEs gilt die Rechenregel [x+y] = [x] + [y]. Wobei alle Zahlen immer in der Restklasse sind. Dasselbe gilt für die Multiplikation\n\nAbbildung",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Ganzzahlige Division mit Rest (div/mod)"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/K-äre Darstellung bzw K-Äre Repräsentation.html",
+    "href": "8 Übersetzungen und Codierungen/K-äre Darstellung bzw K-Äre Repräsentation.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Dies ist die Umkehrfunktion zu \\(num_k(x)\\). Wir gehen also von den z.b. Natürlichen Zahlen in ein Alphabet. Die Zahlen werden dann K-Är dargestellt.\n\\(\\text{Repr}_k(n) = \\begin{cases} \\text{Repr}_k(n) & \\text{if } n &lt; k \\\\ \\text{Repr}_k\\left(n \\, \\text{div} \\, k\\right) \\cdot \\text{repr}_k(n \\, \\text{mod} \\, k) & \\text{if } n \\geq k \\end{cases}\\)\n\nGanzzahlige Division mit Rest\nAbbildung",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 K-Äre Darstellung"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/K-äre Darstellung bzw K-Äre Repräsentation.html#k-äre-darstellung",
+    "href": "8 Übersetzungen und Codierungen/K-äre Darstellung bzw K-Äre Repräsentation.html#k-äre-darstellung",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Dies ist die Umkehrfunktion zu \\(num_k(x)\\). Wir gehen also von den z.b. Natürlichen Zahlen in ein Alphabet. Die Zahlen werden dann K-Är dargestellt.\n\\(\\text{Repr}_k(n) = \\begin{cases} \\text{Repr}_k(n) & \\text{if } n &lt; k \\\\ \\text{Repr}_k\\left(n \\, \\text{div} \\, k\\right) \\cdot \\text{repr}_k(n \\, \\text{mod} \\, k) & \\text{if } n \\geq k \\end{cases}\\)\n\nGanzzahlige Division mit Rest\nAbbildung",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 K-Äre Darstellung"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Übersetzung von Zahldarstellungen.html",
+    "href": "8 Übersetzungen und Codierungen/Übersetzung von Zahldarstellungen.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Zum Beispiel\n\\(\\text{Trans}_{2,16} = \\text{Repr}_2 \\circ \\text{Num}_{16}\\)\nSie bildet Hexadezimalzahlenwörter auf Binärzahlenwörter ab.\n\nK-äre Darstellung bzw K-Äre Repräsentation\nÜbersetzen",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Übersetzung von Zahldarstellungen"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Übersetzung von Zahldarstellungen.html#übersetzung-von-zahldarstellungen",
+    "href": "8 Übersetzungen und Codierungen/Übersetzung von Zahldarstellungen.html#übersetzung-von-zahldarstellungen",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Zum Beispiel\n\\(\\text{Trans}_{2,16} = \\text{Repr}_2 \\circ \\text{Num}_{16}\\)\nSie bildet Hexadezimalzahlenwörter auf Binärzahlenwörter ab.\n\nK-äre Darstellung bzw K-Äre Repräsentation\nÜbersetzen",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Übersetzung von Zahldarstellungen"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Huffman Code.html",
+    "href": "8 Übersetzungen und Codierungen/Huffman Code.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Motivation: Einen präfixfreien Homomorphismus konstruieren, sodass ein Wort w aus dem Alphabet \\(A\\) möglichst komprimiert in Binärdarstellung dargestellt wird.\nWie geht das?\nWir bauen uns einen Baum. An den Blättern sind die Zeichen die im Wort w Vorkommen zusammen mit ihrer vorkommenszahl notiert. Initial nenne ich diese Zeichen elementare Wörter.\nMan verbindet nun iterativ sozusagen die zwei elemenate Wörter, die die geringste Vorkommenszahl haben über einen neuen Knoten. Der Knoten trägt den Namen der konkatenation der Wörter und hat als Wert die Summe der Vorkommenszahlen.\nMan wiederholt das mit dem neunen Knoten als neues Elementares Wort.\nDann baut man es auf und wenn man wissen will was die Repräsentation eines Zeichens in der Huffman Codierung von dem Wort w ist, dann geht man den Baum runter und merkt sich was man liest.\n\nGerichteter Graph\nPräfixfreier Homomorphismus\nCodierung",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Huffman Code"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Huffman Code.html#huffman-code",
+    "href": "8 Übersetzungen und Codierungen/Huffman Code.html#huffman-code",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Motivation: Einen präfixfreien Homomorphismus konstruieren, sodass ein Wort w aus dem Alphabet \\(A\\) möglichst komprimiert in Binärdarstellung dargestellt wird.\nWie geht das?\nWir bauen uns einen Baum. An den Blättern sind die Zeichen die im Wort w Vorkommen zusammen mit ihrer vorkommenszahl notiert. Initial nenne ich diese Zeichen elementare Wörter.\nMan verbindet nun iterativ sozusagen die zwei elemenate Wörter, die die geringste Vorkommenszahl haben über einen neuen Knoten. Der Knoten trägt den Namen der konkatenation der Wörter und hat als Wert die Summe der Vorkommenszahlen.\nMan wiederholt das mit dem neunen Knoten als neues Elementares Wort.\nDann baut man es auf und wenn man wissen will was die Repräsentation eines Zeichens in der Huffman Codierung von dem Wort w ist, dann geht man den Baum runter und merkt sich was man liest.\n\nGerichteter Graph\nPräfixfreier Homomorphismus\nCodierung",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Huffman Code"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Induktion über die Wortlänge.html",
+    "href": "8 Übersetzungen und Codierungen/Induktion über die Wortlänge.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Oooof imagine du bist in der Situation, dass zu z.B. zeigen musst, dass für jedes Wort \\(w \\in A^*\\) gilt \\(h(w) = g(w)\\). Oh naja je nachdem wie h und g definiert sind kann man coole eigenschaften ausnutzen und sagen es gilt für ein Wort der länge 0, der Länge 1, der Länge n \\(\\implies\\) n+1 :)\n\nHomomorphismus im Wortkontext",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Induktion über die Wortlänge"
+    ]
+  },
+  {
+    "objectID": "8 Übersetzungen und Codierungen/Induktion über die Wortlänge.html#induktion-über-die-wortlänge",
+    "href": "8 Übersetzungen und Codierungen/Induktion über die Wortlänge.html#induktion-über-die-wortlänge",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Oooof imagine du bist in der Situation, dass zu z.B. zeigen musst, dass für jedes Wort \\(w \\in A^*\\) gilt \\(h(w) = g(w)\\). Oh naja je nachdem wie h und g definiert sind kann man coole eigenschaften ausnutzen und sagen es gilt für ein Wort der länge 0, der Länge 1, der Länge n \\(\\implies\\) n+1 :)\n\nHomomorphismus im Wortkontext",
+    "crumbs": [
+      "8 Übersetzungen und Codierungen",
+      "8 Induktion über die Wortlänge"
+    ]
+  },
+  {
+    "objectID": "2 Signale, Nachrichten, Informationen, Daten/Signal.html",
+    "href": "2 Signale, Nachrichten, Informationen, Daten/Signal.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Die Veränderung einer oder mehrer physikalischer Größen um etwas mitzuteilen\nSeite 5",
+    "crumbs": [
+      "2 Signale, Nachrichten, Informationen, Daten",
+      "Signal.html"
+    ]
+  },
+  {
+    "objectID": "2 Signale, Nachrichten, Informationen, Daten/Interpretation bzw Information.html",
+    "href": "2 Signale, Nachrichten, Informationen, Daten/Interpretation bzw Information.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine Interpretation / Das Interpretieren ist der Akt einer Nachricht eine Bedeutung / Information zuzuordnen.\nVgl Seite 7",
+    "crumbs": [
+      "2 Signale, Nachrichten, Informationen, Daten",
+      "Interpretation bzw Information.html"
+    ]
+  },
+  {
+    "objectID": "2 Signale, Nachrichten, Informationen, Daten/Inschrift.html",
+    "href": "2 Signale, Nachrichten, Informationen, Daten/Inschrift.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "“transportierung” von Mitteilungen zu einem späteren Zeitpunkt durch speicherung als Inschrift\nVgl Seite 6\nNachricht",
+    "crumbs": [
+      "2 Signale, Nachrichten, Informationen, Daten",
+      "Inschrift.html"
+    ]
+  },
+  {
+    "objectID": "Testfile.html",
+    "href": "Testfile.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Hello this is a test! Will this be displayed in the website?"
+  },
+  {
+    "objectID": "5 Aussagenlogik/Aussage.html",
+    "href": "5 Aussagenlogik/Aussage.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Satz der immer wahr oder falsch sein kann den man mit anderen Sätzen kombinieren kann.\nVgl Seite 33",
+    "crumbs": [
+      "5 Aussagenlogik",
+      "Aussage.html"
+    ]
+  },
+  {
+    "objectID": "5 Aussagenlogik/Auswertungsfunktion.html",
+    "href": "5 Aussagenlogik/Auswertungsfunktion.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Erweiterung der Interpretationsfunktion.\nvalI : ForAl -&gt; |B\nvalI(X) = I(X), falls X aus einer Variablenmenge V\nvalI(notX) =\n{w, falls valI(X) = f\nf, falls valI(X) = w\netc\nVgl Seite 38\nInterpretation einer Menge VarAl\nAussagenlogische Formel\nAbbildung",
+    "crumbs": [
+      "5 Aussagenlogik",
+      "Auswertungsfunktion.html"
+    ]
+  },
+  {
+    "objectID": "5 Aussagenlogik/Modell einer Formelmenge.html",
+    "href": "5 Aussagenlogik/Modell einer Formelmenge.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "eine Interpretation I einer Formelmenge Γ ist ein Modell von Γ, wenn I ein Modell für jedes G element von Γ ist.\nVgl Seite 41\nInterpretation einer Menge VarAl",
+    "crumbs": [
+      "5 Aussagenlogik",
+      "Modell einer Formelmenge.html"
+    ]
+  },
+  {
+    "objectID": "5 Aussagenlogik/Erfüllbare Formeln.html",
+    "href": "5 Aussagenlogik/Erfüllbare Formeln.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Formeln, bei denen es mindestens ein Modell gibt.\nAlso ja der name sagts schon eigentlich, es gibt eine Interpretation dann ist die Formel true\nVgl Seite 41\nAussagenlogische Formel",
+    "crumbs": [
+      "5 Aussagenlogik",
+      "Erfüllbare Formeln.html"
+    ]
+  },
+  {
+    "objectID": "5 Aussagenlogik/Aussagenlogische Verknüpfungsmenge.html",
+    "href": "5 Aussagenlogik/Aussagenlogische Verknüpfungsmenge.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ver(M) = {menger aller nicht(g), (G und H), (G oder H), (G impl. H) für die gilt G,H, in M}\nalso alle direkten Verknüfungen\nAussage",
+    "crumbs": [
+      "5 Aussagenlogik",
+      "Aussagenlogische Verknüpfungsmenge.html"
+    ]
+  },
+  {
+    "objectID": "5 Aussagenlogik/Interpretation einer Menge VarAl.html",
+    "href": "5 Aussagenlogik/Interpretation einer Menge VarAl.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ist eine Abbildung!\nI: VarAl -&gt; |B\neine Variable wird sozusagen Interpretiert, ihr wird ein Wahrheitswert zugewiesen\nVgl Seite 37\nInterpretation bzw Information\nAbbildung",
+    "crumbs": [
+      "5 Aussagenlogik",
+      "Interpretation einer Menge VarAl.html"
+    ]
+  },
+  {
+    "objectID": "5 Aussagenlogik/Aussagenlogische Konnektive.html",
+    "href": "5 Aussagenlogik/Aussagenlogische Konnektive.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Nicht, oder, und, implikation\nVgl Seite 34\nAussage",
+    "crumbs": [
+      "5 Aussagenlogik",
+      "Aussagenlogische Konnektive.html"
+    ]
+  },
+  {
+    "objectID": "4 Wörter/Konkatenation zweier Wörter.html",
+    "href": "4 Wörter/Konkatenation zweier Wörter.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Notationsüberlegung in “Zeichen”:\n\nbaum * haus = baumhaus\n\nFormalere Definitionsüberlegung mit Funktionen\n\n\nVgl Seite 26\nWort aus einem Alphabet A\nAbbildung",
+    "crumbs": [
+      "4 Wörter",
+      "Konkatenation zweier Wörter.html"
+    ]
+  },
+  {
+    "objectID": "4 Wörter/Leeres Wort.html",
+    "href": "4 Wörter/Leeres Wort.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "ε.\nwenn in der ersten Schreibweise w = ε dann ist in der “Funktionenschreibweise”:\nw: { } -&gt; A\nVgl Seite 25\nWort aus einem Alphabet A",
+    "crumbs": [
+      "4 Wörter",
+      "Leeres Wort.html"
+    ]
+  },
+  {
+    "objectID": "4 Wörter/Wort aus einem Alphabet A.html",
+    "href": "4 Wörter/Wort aus einem Alphabet A.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ansicht: Folge von zeichen aus A.\nAnsicht: Ein Wort ist eine Funktion, die jeder Zahl von 0 bis |w| - 1 ein Zeichen aus A zuordnet.\n\nwenn w = hallo kann man auch sagen:\nw(0) = h\nw(1) = a\nw(2) = l\nw(3) = l\nw(4) = o\nVgl Seite 23\nAlphabet",
+    "crumbs": [
+      "4 Wörter",
+      "Wort aus einem Alphabet A.html"
+    ]
+  },
+  {
+    "objectID": "4 Wörter/Binäre Operation.html",
+    "href": "4 Wörter/Binäre Operation.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "So eine Abbildung:\n\nDass die Mengen da alles dieselben sind ist sehr wichtig!\nVgl Seite 31\nAbbildung",
+    "crumbs": [
+      "4 Wörter",
+      "Binäre Operation.html"
+    ]
+  },
+  {
+    "objectID": "3 Mengen, Alphabete, Abbildungen/Kathesisches Produkt von A und B.html",
+    "href": "3 Mengen, Alphabete, Abbildungen/Kathesisches Produkt von A und B.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "A x B = { (a,b) | a€A und b€B }\nVgl Seite 18",
+    "crumbs": [
+      "3 Mengen, Alphabete, Abbildungen",
+      "Kathesisches Produkt von A und B.html"
+    ]
+  },
+  {
+    "objectID": "3 Mengen, Alphabete, Abbildungen/Alphabet.html",
+    "href": "3 Mengen, Alphabete, Abbildungen/Alphabet.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ein Vorrat an Zeichen, aus denen Texte zusasmmengesetzt werden, bzw\nEndliche Menge von Zeichen\nVgl Seite 10/15",
+    "crumbs": [
+      "3 Mengen, Alphabete, Abbildungen",
+      "Alphabet.html"
+    ]
+  },
+  {
+    "objectID": "3 Mengen, Alphabete, Abbildungen/Linkstotal.html",
+    "href": "3 Mengen, Alphabete, Abbildungen/Linkstotal.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "jedes linke ist total glücklich :)\nBsp Unicode:\nfür jedes a in AU gibt es ein n in |N0.\nVgl Seite 19\nAbbildung",
+    "crumbs": [
+      "3 Mengen, Alphabete, Abbildungen",
+      "Linkstotal.html"
+    ]
+  },
+  {
+    "objectID": "3 Mengen, Alphabete, Abbildungen/partielle Abbildung.html",
+    "href": "3 Mengen, Alphabete, Abbildungen/partielle Abbildung.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "die ist nichts linkstotal. Also z.b.:\n\\[ f: \\mathbb{R} \\rightarrow \\mathbb{R} \\\\ x \\mapsto \\sqrt{x} \\]\n\\[ g: [0, \\infty) \\rightarrow [0, \\infty) \\\\ x \\mapsto \\sqrt{x} \\]\nf ist eine parteielle Funktion (die auch nichts surjektiv ist)\ng ist eine funktion die sogar bijektiv ist\nVgl Seite 19\nAbbildung",
+    "crumbs": [
+      "3 Mengen, Alphabete, Abbildungen",
+      "partielle Abbildung.html"
+    ]
+  },
+  {
+    "objectID": "3 Mengen, Alphabete, Abbildungen/Abbildung.html",
+    "href": "3 Mengen, Alphabete, Abbildungen/Abbildung.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "eine Abbildung ist eine Zuweisung von einer Startmenge in eine Zielmenge. Eine Abbildung oder auch Funktion muss Linkstotal und Rechtseindeutig sein.",
+    "crumbs": [
+      "3 Mengen, Alphabete, Abbildungen",
+      "3 Abbildung"
+    ]
+  },
+  {
+    "objectID": "3 Mengen, Alphabete, Abbildungen/Abbildung.html#abbildung",
+    "href": "3 Mengen, Alphabete, Abbildungen/Abbildung.html#abbildung",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "eine Abbildung ist eine Zuweisung von einer Startmenge in eine Zielmenge. Eine Abbildung oder auch Funktion muss Linkstotal und Rechtseindeutig sein.",
+    "crumbs": [
+      "3 Mengen, Alphabete, Abbildungen",
+      "3 Abbildung"
+    ]
+  },
+  {
+    "objectID": "3 Mengen, Alphabete, Abbildungen/Relation.html",
+    "href": "3 Mengen, Alphabete, Abbildungen/Relation.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine Realtion von A und B ist eine Teilmenge des karthesischen Produktes von A und B.\nR teilmenge von A x B\nVgl Seite 19\nKathesisches Produkt von A und B\nAbbildung",
+    "crumbs": [
+      "3 Mengen, Alphabete, Abbildungen",
+      "Relation.html"
+    ]
+  },
+  {
+    "objectID": "13 Prädikatenlogik/Konstantensymbole.html",
+    "href": "13 Prädikatenlogik/Konstantensymbole.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "0 - Stellige Funktionssymbole. Diese nehmen sozusagen das Nulltupel an und geben einen Wert zurück. Sei c() eine Funktion mit arität 0. Die Prädikatenlogische Interpretation von c ( I(c)) geht dann von \\(D^0 \\rightarrow D\\). Also nehmen wir ein Nulltupel und weisem dem einen Wert zu. Da das Nulltupel eindeutig ist I guess haben wir somit eine Konstante yeyyy :D :3\n0 - Stellige Relationssymbole werden dann interpretiert in eine Teilmenge von \\(D^0\\). Also uhm \\(D^0\\) ist ja nur das leere Tupel oder die Leere Menge ist die Interpretation eines Nullstelligen Relationssymbol ok boomer. Also I(Q) = {()} ist immer Wahr und I(Q) = {} ist immer Falsch dann. Wenn man drüber nachdenkt macht das Sinn.\n\nSignatur einer prädikatenlogischen Formel",
+    "crumbs": [
+      "13 Prädikatenlogik",
+      "13 Konstantensymbole"
+    ]
+  },
+  {
+    "objectID": "13 Prädikatenlogik/Konstantensymbole.html#konstantensymbole",
+    "href": "13 Prädikatenlogik/Konstantensymbole.html#konstantensymbole",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "0 - Stellige Funktionssymbole. Diese nehmen sozusagen das Nulltupel an und geben einen Wert zurück. Sei c() eine Funktion mit arität 0. Die Prädikatenlogische Interpretation von c ( I(c)) geht dann von \\(D^0 \\rightarrow D\\). Also nehmen wir ein Nulltupel und weisem dem einen Wert zu. Da das Nulltupel eindeutig ist I guess haben wir somit eine Konstante yeyyy :D :3\n0 - Stellige Relationssymbole werden dann interpretiert in eine Teilmenge von \\(D^0\\). Also uhm \\(D^0\\) ist ja nur das leere Tupel oder die Leere Menge ist die Interpretation eines Nullstelligen Relationssymbol ok boomer. Also I(Q) = {()} ist immer Wahr und I(Q) = {} ist immer Falsch dann. Wenn man drüber nachdenkt macht das Sinn.\n\nSignatur einer prädikatenlogischen Formel",
+    "crumbs": [
+      "13 Prädikatenlogik",
+      "13 Konstantensymbole"
+    ]
+  },
+  {
+    "objectID": "13 Prädikatenlogik/Auswertung einer Prädikatenlogischer Formel.html",
+    "href": "13 Prädikatenlogik/Auswertung einer Prädikatenlogischer Formel.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Zuerst:\n\\(\\text{tval}_{D,I,\\beta} : \\text{Ter}^\\Sigma \\rightarrow D,\\)\nOrdnet jedem Term ein Ergebnis aus dem Universum zu.\n\\(\\text{tval}_{D,I,\\beta}(t) = \\begin{cases}  \\beta(x) & \\text{falls } t = x \\in \\text{Var}_{\\text{PL}} \\\\ I(f)(\\text{tval}_{D,I,\\beta}(t_1), \\ldots, \\text{tval}_{D,I,\\beta}(t_k)) & \\text{falls } t = f(t_1, \\ldots, t_k), \\text{ar}(f) = k \\end{cases}\\)\nZu Formeln gibt es folgende Auswertungsfunktion:\n\\(\\text{val}_{D,I,\\beta} : \\text{For}_\\Sigma \\rightarrow \\Bbb{B}\\)\n(Es gelten dieselben Definitionen von \\(val_{AL}\\) von Auswertungsfunktion)\n\\(\\text{val}_{D,I,\\beta}(R(t_1, \\ldots, t_k)) = \\begin{cases}  w & \\text{falls } (\\text{tval}_{D,I,\\beta}(t_1), \\ldots, \\text{tval}_{D,I,\\beta}(t_k)) \\in I(R) \\\\ f & \\text{falls } (\\text{tval}_{D,I,\\beta}(t_1), \\ldots, \\text{tval}_{D,I,\\beta}(t_k)) \\notin I(R)\\end{cases}\\)\n(Falls das keinen Sinn macht, mach dir klar, dass \\(I(R)\\) die Menge aller Term-ar(R)-Tupel sind, für die R zu Wahr auswertet).\nEs fehlen noch Quantoren:\nDafür musst du die Variablenbelegungsänderungsfunktion bissl verstanden haben. Es gilt:\n\\(\\text{val}_{D,I,\\beta}(\\forall x \\ F) = \\begin{cases}  w & \\text{falls für jedes } d \\in D \\text{ und } \\beta' = \\beta^{d}_x \\text{ gilt: } \\text{val}_{D,I,\\beta'}(F) = w \\\\ f & \\text{sonst} \\end{cases}\\) \\(\\text{val}_{D,I,\\beta}(\\exists x\\ F) = \\begin{cases}  w & \\text{falls für (mind.) ein } d \\in D \\text{ und } \\beta' = \\beta^{d}_x \\text{ gilt: } \\text{val}_{D,I,\\beta'}(F) = w \\\\ f & \\text{sonst} \\end{cases}\\)\n\nPrädikatenlogische Interpretation",
+    "crumbs": [
+      "13 Prädikatenlogik",
+      "13 Auswertung einer Prädikatenlogischer Formel"
+    ]
+  },
+  {
+    "objectID": "13 Prädikatenlogik/Auswertung einer Prädikatenlogischer Formel.html#auswertung-einer-prädikatenlogischer-formel",
+    "href": "13 Prädikatenlogik/Auswertung einer Prädikatenlogischer Formel.html#auswertung-einer-prädikatenlogischer-formel",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Zuerst:\n\\(\\text{tval}_{D,I,\\beta} : \\text{Ter}^\\Sigma \\rightarrow D,\\)\nOrdnet jedem Term ein Ergebnis aus dem Universum zu.\n\\(\\text{tval}_{D,I,\\beta}(t) = \\begin{cases}  \\beta(x) & \\text{falls } t = x \\in \\text{Var}_{\\text{PL}} \\\\ I(f)(\\text{tval}_{D,I,\\beta}(t_1), \\ldots, \\text{tval}_{D,I,\\beta}(t_k)) & \\text{falls } t = f(t_1, \\ldots, t_k), \\text{ar}(f) = k \\end{cases}\\)\nZu Formeln gibt es folgende Auswertungsfunktion:\n\\(\\text{val}_{D,I,\\beta} : \\text{For}_\\Sigma \\rightarrow \\Bbb{B}\\)\n(Es gelten dieselben Definitionen von \\(val_{AL}\\) von Auswertungsfunktion)\n\\(\\text{val}_{D,I,\\beta}(R(t_1, \\ldots, t_k)) = \\begin{cases}  w & \\text{falls } (\\text{tval}_{D,I,\\beta}(t_1), \\ldots, \\text{tval}_{D,I,\\beta}(t_k)) \\in I(R) \\\\ f & \\text{falls } (\\text{tval}_{D,I,\\beta}(t_1), \\ldots, \\text{tval}_{D,I,\\beta}(t_k)) \\notin I(R)\\end{cases}\\)\n(Falls das keinen Sinn macht, mach dir klar, dass \\(I(R)\\) die Menge aller Term-ar(R)-Tupel sind, für die R zu Wahr auswertet).\nEs fehlen noch Quantoren:\nDafür musst du die Variablenbelegungsänderungsfunktion bissl verstanden haben. Es gilt:\n\\(\\text{val}_{D,I,\\beta}(\\forall x \\ F) = \\begin{cases}  w & \\text{falls für jedes } d \\in D \\text{ und } \\beta' = \\beta^{d}_x \\text{ gilt: } \\text{val}_{D,I,\\beta'}(F) = w \\\\ f & \\text{sonst} \\end{cases}\\) \\(\\text{val}_{D,I,\\beta}(\\exists x\\ F) = \\begin{cases}  w & \\text{falls für (mind.) ein } d \\in D \\text{ und } \\beta' = \\beta^{d}_x \\text{ gilt: } \\text{val}_{D,I,\\beta'}(F) = w \\\\ f & \\text{sonst} \\end{cases}\\)\n\nPrädikatenlogische Interpretation",
+    "crumbs": [
+      "13 Prädikatenlogik",
+      "13 Auswertung einer Prädikatenlogischer Formel"
+    ]
+  },
+  {
+    "objectID": "13 Prädikatenlogik/Variablenbelegungsänderungsfunktion.html",
+    "href": "13 Prädikatenlogik/Variablenbelegungsänderungsfunktion.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(\\beta^{d}_x : \\text{Var}_{\\text{PL}} \\rightarrow D : v \\mapsto \\begin{cases}  \\beta(v) & \\text{falls } v \\not= x \\\\ d & \\text{falls } v = x \\end{cases}\\)\nDieses Beta kopiert Beta, aber an der Stelle x gibt die Funktion d zurück anstatt \\(\\beta(x)\\).\n\nPrädikatenlogische Variablenbelegung",
+    "crumbs": [
+      "13 Prädikatenlogik",
+      "13 Variablenbelegungsänderungsfunktion"
+    ]
+  },
+  {
+    "objectID": "13 Prädikatenlogik/Variablenbelegungsänderungsfunktion.html#variablenbelegungsänderungsfunktion",
+    "href": "13 Prädikatenlogik/Variablenbelegungsänderungsfunktion.html#variablenbelegungsänderungsfunktion",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(\\beta^{d}_x : \\text{Var}_{\\text{PL}} \\rightarrow D : v \\mapsto \\begin{cases}  \\beta(v) & \\text{falls } v \\not= x \\\\ d & \\text{falls } v = x \\end{cases}\\)\nDieses Beta kopiert Beta, aber an der Stelle x gibt die Funktion d zurück anstatt \\(\\beta(x)\\).\n\nPrädikatenlogische Variablenbelegung",
+    "crumbs": [
+      "13 Prädikatenlogik",
+      "13 Variablenbelegungsänderungsfunktion"
+    ]
+  },
+  {
+    "objectID": "13 Prädikatenlogik/Atomare Formeln.html",
+    "href": "13 Prädikatenlogik/Atomare Formeln.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Die Menge der atomaren Formeln \\(AtFor_\\Sigma\\) ist die kleinste Menge, für die gilt:\nWenn \\(R\\in Rel_{PL}\\), und \\(t1,...,t_{ar(R)}\\in Ter_\\Sigma\\), dann ist \\(R(t1,...,t_{ar(R)}) \\in AtFor_\\Sigma\\).\n\nTerme in der Prädikatenlogik\nSignatur einer prädikatenlogischen Formel",
+    "crumbs": [
+      "13 Prädikatenlogik",
+      "13 Atomare Formeln"
+    ]
+  },
+  {
+    "objectID": "13 Prädikatenlogik/Atomare Formeln.html#atomare-formeln",
+    "href": "13 Prädikatenlogik/Atomare Formeln.html#atomare-formeln",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Die Menge der atomaren Formeln \\(AtFor_\\Sigma\\) ist die kleinste Menge, für die gilt:\nWenn \\(R\\in Rel_{PL}\\), und \\(t1,...,t_{ar(R)}\\in Ter_\\Sigma\\), dann ist \\(R(t1,...,t_{ar(R)}) \\in AtFor_\\Sigma\\).\n\nTerme in der Prädikatenlogik\nSignatur einer prädikatenlogischen Formel",
+    "crumbs": [
+      "13 Prädikatenlogik",
+      "13 Atomare Formeln"
+    ]
+  },
+  {
+    "objectID": "13 Prädikatenlogik/Prädikatenlogische Variablenbelegung.html",
+    "href": "13 Prädikatenlogik/Prädikatenlogische Variablenbelegung.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Zu einem Alphabet \\(Var_{PL}\\) und einer Interpretation (D, I) ist eine Variablenbelegung \\(\\beta\\) eine Abbildung von \\(\\beta: Var_{PL} \\rightarrow D\\).\n\nPrädikatenlogische Interpretation",
+    "crumbs": [
+      "13 Prädikatenlogik",
+      "13 Prädikatenlogische Variablenbelegung"
+    ]
+  },
+  {
+    "objectID": "13 Prädikatenlogik/Prädikatenlogische Variablenbelegung.html#prädikatenlogische-variablenbelegung",
+    "href": "13 Prädikatenlogik/Prädikatenlogische Variablenbelegung.html#prädikatenlogische-variablenbelegung",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Zu einem Alphabet \\(Var_{PL}\\) und einer Interpretation (D, I) ist eine Variablenbelegung \\(\\beta\\) eine Abbildung von \\(\\beta: Var_{PL} \\rightarrow D\\).\n\nPrädikatenlogische Interpretation",
+    "crumbs": [
+      "13 Prädikatenlogik",
+      "13 Prädikatenlogische Variablenbelegung"
+    ]
+  },
+  {
+    "objectID": "13 Prädikatenlogik/Terme in der Prädikatenlogik.html",
+    "href": "13 Prädikatenlogik/Terme in der Prädikatenlogik.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Die Menge der Terme ist die kleine Menge \\(Ter_\\Sigma\\) für die gilt:\nWenn \\(x\\in Var_{PL}\\), dann ist x ein Term\nWenn \\(f \\in Fun_{PL}\\), ist und \\(t1,...,t_{ar(f)}\\) Terme sind, dann ist \\(f(t1,...,t_{ar(f)})\\) ein Term\nTerme werden als Werte oder Objekte Interpretiert. Terme werten nie zu Wahrheitswerten aus!!!\n\nSignatur einer prädikatenlogischen Formel",
+    "crumbs": [
+      "13 Prädikatenlogik",
+      "13 Terme in der Prädikatenlogik"
+    ]
+  },
+  {
+    "objectID": "13 Prädikatenlogik/Terme in der Prädikatenlogik.html#terme-in-der-prädikatenlogik",
+    "href": "13 Prädikatenlogik/Terme in der Prädikatenlogik.html#terme-in-der-prädikatenlogik",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Die Menge der Terme ist die kleine Menge \\(Ter_\\Sigma\\) für die gilt:\nWenn \\(x\\in Var_{PL}\\), dann ist x ein Term\nWenn \\(f \\in Fun_{PL}\\), ist und \\(t1,...,t_{ar(f)}\\) Terme sind, dann ist \\(f(t1,...,t_{ar(f)})\\) ein Term\nTerme werden als Werte oder Objekte Interpretiert. Terme werten nie zu Wahrheitswerten aus!!!\n\nSignatur einer prädikatenlogischen Formel",
+    "crumbs": [
+      "13 Prädikatenlogik",
+      "13 Terme in der Prädikatenlogik"
+    ]
+  },
+  {
+    "objectID": "21 Relationen/Äquivalenzrealtionen.html",
+    "href": "21 Relationen/Äquivalenzrealtionen.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Relationen die Symetrisch, Transitiv und Reflexiv sind jippie.\n\nRelation",
+    "crumbs": [
+      "21 Relationen",
+      "21 Äquivalenzrealtionen"
+    ]
+  },
+  {
+    "objectID": "21 Relationen/Äquivalenzrealtionen.html#äquivalenzrealtionen",
+    "href": "21 Relationen/Äquivalenzrealtionen.html#äquivalenzrealtionen",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Relationen die Symetrisch, Transitiv und Reflexiv sind jippie.\n\nRelation",
+    "crumbs": [
+      "21 Relationen",
+      "21 Äquivalenzrealtionen"
+    ]
+  },
+  {
+    "objectID": "21 Relationen/Äquivalenzklasse.html",
+    "href": "21 Relationen/Äquivalenzklasse.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Immer folgendes im Kopf haben:\nEs gibt eine Funktion f, die nimmt eine Äquivalenzrelation und ein Element x aus dem Definitionsbereich der Relation, und Bildet alle Elemente x auf das Zeichen, Symbol “\\([x]_R\\)” ab. Wenn a,b,c und d in Relation stehen, und x,y,z in Relation stehen, dann ist f(a) = f(b) = f(c) = f(d) sowie f(x) = f(y) = f(z).\nWICHTIG IST ALS VORSTELLUNG DABEI:\n\\([x]_R\\) ist eine Menge, in der alle Elemente aus der Definitionsmenge von R stehen, die in Relation zu x sind, wie so ein Sack in denen alle Sachen sind mit dem Label [x]. Aber dieses Label ist auch ersetzbar durch jedes Element was auch in dem Sack ist.\n\n\n\nBucket Sort ist auch hilfreich zum Verständnis\n\n\n\nTODO Einfügen von dem Bild vom Tutor Felix von Tutorium 13\n\nÄquivalenzrealtionen",
+    "crumbs": [
+      "21 Relationen",
+      "21 Äquivalenzklassen"
+    ]
+  },
+  {
+    "objectID": "21 Relationen/Äquivalenzklasse.html#äquivalenzklassen",
+    "href": "21 Relationen/Äquivalenzklasse.html#äquivalenzklassen",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Immer folgendes im Kopf haben:\nEs gibt eine Funktion f, die nimmt eine Äquivalenzrelation und ein Element x aus dem Definitionsbereich der Relation, und Bildet alle Elemente x auf das Zeichen, Symbol “\\([x]_R\\)” ab. Wenn a,b,c und d in Relation stehen, und x,y,z in Relation stehen, dann ist f(a) = f(b) = f(c) = f(d) sowie f(x) = f(y) = f(z).\nWICHTIG IST ALS VORSTELLUNG DABEI:\n\\([x]_R\\) ist eine Menge, in der alle Elemente aus der Definitionsmenge von R stehen, die in Relation zu x sind, wie so ein Sack in denen alle Sachen sind mit dem Label [x]. Aber dieses Label ist auch ersetzbar durch jedes Element was auch in dem Sack ist.\n\n\n\nBucket Sort ist auch hilfreich zum Verständnis\n\n\n\nTODO Einfügen von dem Bild vom Tutor Felix von Tutorium 13\n\nÄquivalenzrealtionen",
+    "crumbs": [
+      "21 Relationen",
+      "21 Äquivalenzklassen"
+    ]
+  },
+  {
+    "objectID": "21 Relationen/Hasse-Diagramm.html",
+    "href": "21 Relationen/Hasse-Diagramm.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ein Hasse Diagramm visualisiert eine Halbordnung.\nHalbordnungen",
+    "crumbs": [
+      "21 Relationen",
+      "Hasse-Diagramm.html"
+    ]
+  },
+  {
+    "objectID": "18 Endliche Automaten/Akzeptierte Formale Sprache.html",
+    "href": "18 Endliche Automaten/Akzeptierte Formale Sprache.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Die akzeptierte Formale Sprache eines endlichen Akzeptors ist die Menge aller Wörter, die ein endlicher Akzeptor akzeptiert lol.\n\\(L(A) = \\{ w \\in X^* \\, | \\, f^*(z_0, w) \\in F \\}\\)\n\nEndlicher Akzeptor\nFormale Sprache",
+    "crumbs": [
+      "18 Endliche Automaten",
+      "18 Akzeptierte Formale Sprache"
+    ]
+  },
+  {
+    "objectID": "18 Endliche Automaten/Akzeptierte Formale Sprache.html#akzeptierte-formale-sprache",
+    "href": "18 Endliche Automaten/Akzeptierte Formale Sprache.html#akzeptierte-formale-sprache",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Die akzeptierte Formale Sprache eines endlichen Akzeptors ist die Menge aller Wörter, die ein endlicher Akzeptor akzeptiert lol.\n\\(L(A) = \\{ w \\in X^* \\, | \\, f^*(z_0, w) \\in F \\}\\)\n\nEndlicher Akzeptor\nFormale Sprache",
+    "crumbs": [
+      "18 Endliche Automaten",
+      "18 Akzeptierte Formale Sprache"
+    ]
+  },
+  {
+    "objectID": "18 Endliche Automaten/Mealy-Automat.html",
+    "href": "18 Endliche Automaten/Mealy-Automat.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Mealy-Automat A = (Z,z0,X, f,Y,g) ist festgelegt durch\n• eine endliche Zustandsmenge Z,\n• einen Anfangszustand z0 ∈ Z,\n• ein Eingabealphabet X,\n• eine Zustandsüberführungsfunktion f : Z × X → Z,\n• ein Ausgabealphabet Y,\n• eine Ausgabefunktion g : Z×X → Y∗\nEin Mealy-Automat unterscheidet sich nur durch die Definition der Aufgabefunktion g. Hierbei ist der Unterschied, dass ein Moore Automat eine Ausgabe macht, wenn wir in einem Zustand sind. Der Mealy automat dagegen, wenn wir von einem Zustand in einen anderen übergehen.\n\nGerichteter Graph",
+    "crumbs": [
+      "18 Endliche Automaten",
+      "18 Mealy-Automat"
+    ]
+  },
+  {
+    "objectID": "18 Endliche Automaten/Mealy-Automat.html#mealy-automat",
+    "href": "18 Endliche Automaten/Mealy-Automat.html#mealy-automat",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Mealy-Automat A = (Z,z0,X, f,Y,g) ist festgelegt durch\n• eine endliche Zustandsmenge Z,\n• einen Anfangszustand z0 ∈ Z,\n• ein Eingabealphabet X,\n• eine Zustandsüberführungsfunktion f : Z × X → Z,\n• ein Ausgabealphabet Y,\n• eine Ausgabefunktion g : Z×X → Y∗\nEin Mealy-Automat unterscheidet sich nur durch die Definition der Aufgabefunktion g. Hierbei ist der Unterschied, dass ein Moore Automat eine Ausgabe macht, wenn wir in einem Zustand sind. Der Mealy automat dagegen, wenn wir von einem Zustand in einen anderen übergehen.\n\nGerichteter Graph",
+    "crumbs": [
+      "18 Endliche Automaten",
+      "18 Mealy-Automat"
+    ]
+  },
+  {
+    "objectID": "18 Endliche Automaten/Endlicher Akzeptor.html",
+    "href": "18 Endliche Automaten/Endlicher Akzeptor.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ist halt eigentlich nur eine umwandlung eines Moore-Automaten dahingehend, dass ein Zustand entweder akzeptierend oder nicht akzeptierend sein kann.\n\nMoore-Automaten",
+    "crumbs": [
+      "18 Endliche Automaten",
+      "18 Endlicher Akzeptor"
+    ]
+  },
+  {
+    "objectID": "18 Endliche Automaten/Endlicher Akzeptor.html#endlicher-akzeptor",
+    "href": "18 Endliche Automaten/Endlicher Akzeptor.html#endlicher-akzeptor",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ist halt eigentlich nur eine umwandlung eines Moore-Automaten dahingehend, dass ein Zustand entweder akzeptierend oder nicht akzeptierend sein kann.\n\nMoore-Automaten",
+    "crumbs": [
+      "18 Endliche Automaten",
+      "18 Endlicher Akzeptor"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Herzlich willkommen auf meiner Website mit den Vorlesungsnotizen zur Vorlesung von Dr. Ulbrich aus dem Wintersemester 2023/24!\nIn der Vorlesung ging es um die grundlegenden Konzepte der Informatik, angefangen bei Signalen und Daten bis hin zu komplexeren Themen wie formale Sprachen, Graphen und Turingmaschinen.\nAuf dieser Seite habe ich all meine Mitschriften geordnet und so aufbereitet, dass ihr hoffentlich genauso gut durch die verschiedenen Themen durchnavigieren könnt wie ich. Egal ob es um Speicher, Endliche Automaten oder den berühmten Turingmaschinen geht – hier findet ihr alles, was in der Vorlesung behandelt wurde. Es kann auch sein, dass ich an manchen Stellen eigene Ergänzungen gemacht habe, die die Themen vielleicht noch etwas anschaulicher darstellen. UND ICH AN EINIGEN STELLEN SACHEN AUSGELASSEN HABE!\nAlso klickt euch einfach durch die verschiedenen Abschnitte, und ich hoffe, meine Notizen helfen euch weiter!"
+  },
+  {
+    "objectID": "index.html#grundbegriffe-der-informatik",
+    "href": "index.html#grundbegriffe-der-informatik",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Herzlich willkommen auf meiner Website mit den Vorlesungsnotizen zur Vorlesung von Dr. Ulbrich aus dem Wintersemester 2023/24!\nIn der Vorlesung ging es um die grundlegenden Konzepte der Informatik, angefangen bei Signalen und Daten bis hin zu komplexeren Themen wie formale Sprachen, Graphen und Turingmaschinen.\nAuf dieser Seite habe ich all meine Mitschriften geordnet und so aufbereitet, dass ihr hoffentlich genauso gut durch die verschiedenen Themen durchnavigieren könnt wie ich. Egal ob es um Speicher, Endliche Automaten oder den berühmten Turingmaschinen geht – hier findet ihr alles, was in der Vorlesung behandelt wurde. Es kann auch sein, dass ich an manchen Stellen eigene Ergänzungen gemacht habe, die die Themen vielleicht noch etwas anschaulicher darstellen. UND ICH AN EINIGEN STELLEN SACHEN AUSGELASSEN HABE!\nAlso klickt euch einfach durch die verschiedenen Abschnitte, und ich hoffe, meine Notizen helfen euch weiter!"
+  },
+  {
+    "objectID": "16 Algorhitmen in Graphen/Wegematrix.html",
+    "href": "16 Algorhitmen in Graphen/Wegematrix.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ein Eintrag in der Wegematrix ist 1, wenn man von einem knoten x zu einem knoten y kommen kann. Man geht dann y weit runter und x weit nach rechts und schreibt an die Position eine 1 hin.\n\nAdjazenzmatrizen",
+    "crumbs": [
+      "16 Algorhitmen in Graphen",
+      "16 Wegematrix"
+    ]
+  },
+  {
+    "objectID": "16 Algorhitmen in Graphen/Wegematrix.html#wegematrix",
+    "href": "16 Algorhitmen in Graphen/Wegematrix.html#wegematrix",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ein Eintrag in der Wegematrix ist 1, wenn man von einem knoten x zu einem knoten y kommen kann. Man geht dann y weit runter und x weit nach rechts und schreibt an die Position eine 1 hin.\n\nAdjazenzmatrizen",
+    "crumbs": [
+      "16 Algorhitmen in Graphen",
+      "16 Wegematrix"
+    ]
+  },
+  {
+    "objectID": "16 Algorhitmen in Graphen/Inzidenzenliste.html",
+    "href": "16 Algorhitmen in Graphen/Inzidenzenliste.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Anders als bei einer Adjazentliste speichert man bei einer Inzidenzenliste in einer Spalte die Knoten und in der anderen Spalte alle Kanten, die diesen Knoten als Endpunkt haben.\n\nAdjazenzliste",
+    "crumbs": [
+      "16 Algorhitmen in Graphen",
+      "16 Inzidenzenliste"
+    ]
+  },
+  {
+    "objectID": "16 Algorhitmen in Graphen/Inzidenzenliste.html#inzidenzenliste",
+    "href": "16 Algorhitmen in Graphen/Inzidenzenliste.html#inzidenzenliste",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Anders als bei einer Adjazentliste speichert man bei einer Inzidenzenliste in einer Spalte die Knoten und in der anderen Spalte alle Kanten, die diesen Knoten als Endpunkt haben.\n\nAdjazenzliste",
+    "crumbs": [
+      "16 Algorhitmen in Graphen",
+      "16 Inzidenzenliste"
+    ]
+  },
+  {
+    "objectID": "16 Algorhitmen in Graphen/Potenzieren eines Graphen.html",
+    "href": "16 Algorhitmen in Graphen/Potenzieren eines Graphen.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ich potenziere die Adjazenzmatrix, dann habe ich alle Wege Multipliziert. Von den einzelnen Einträgen der Matrix muss ich dann noch das Signum nehmen, weil ich schreibe ja nur eine 1 hin, wenn die Knoten erreichbar sind. Yippie\n\nPotenzen der Kanten eines Graphs\nAdjazenzmatrizen",
+    "crumbs": [
+      "16 Algorhitmen in Graphen",
+      "16 Potenzieren eines Graphen"
+    ]
+  },
+  {
+    "objectID": "16 Algorhitmen in Graphen/Potenzieren eines Graphen.html#potenzieren-eines-graphen",
+    "href": "16 Algorhitmen in Graphen/Potenzieren eines Graphen.html#potenzieren-eines-graphen",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ich potenziere die Adjazenzmatrix, dann habe ich alle Wege Multipliziert. Von den einzelnen Einträgen der Matrix muss ich dann noch das Signum nehmen, weil ich schreibe ja nur eine 1 hin, wenn die Knoten erreichbar sind. Yippie\n\nPotenzen der Kanten eines Graphs\nAdjazenzmatrizen",
+    "crumbs": [
+      "16 Algorhitmen in Graphen",
+      "16 Potenzieren eines Graphen"
+    ]
+  },
+  {
+    "objectID": "20 Turingmaschine/Turingmaschine.html",
+    "href": "20 Turingmaschine/Turingmaschine.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "eine Turingmaschine \\(T = (Z,z_0,X, f, g,m)\\) ist festgelegt durch\n• eine Zustandsmenge \\(Z\\)\n• einen Anfangszustand \\(z_0 ∈ Z\\)\n• ein Bandalphabet \\(X\\)\n• eine partielle Zustandsüberführungsfunktion \\(f : Z×X \\overset{\\cdot\\cdot\\cdot}{\\rightarrow}Z\\)\n• eine partielle Ausgabefunktion \\(g : Z \\times X \\overset{\\cdot\\cdot\\cdot}{\\rightarrow} X\\)\n• eine partielle Bewegungsfunktion m : \\(Z × X \\overset{\\cdot\\cdot\\cdot}{\\rightarrow} \\{−1,0,1\\}\\).\n\nEndlicher Akzeptor",
+    "crumbs": [
+      "20 Turingmaschine",
+      "20 Turingmaschine"
+    ]
+  },
+  {
+    "objectID": "20 Turingmaschine/Turingmaschine.html#turingmaschine",
+    "href": "20 Turingmaschine/Turingmaschine.html#turingmaschine",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "eine Turingmaschine \\(T = (Z,z_0,X, f, g,m)\\) ist festgelegt durch\n• eine Zustandsmenge \\(Z\\)\n• einen Anfangszustand \\(z_0 ∈ Z\\)\n• ein Bandalphabet \\(X\\)\n• eine partielle Zustandsüberführungsfunktion \\(f : Z×X \\overset{\\cdot\\cdot\\cdot}{\\rightarrow}Z\\)\n• eine partielle Ausgabefunktion \\(g : Z \\times X \\overset{\\cdot\\cdot\\cdot}{\\rightarrow} X\\)\n• eine partielle Bewegungsfunktion m : \\(Z × X \\overset{\\cdot\\cdot\\cdot}{\\rightarrow} \\{−1,0,1\\}\\).\n\nEndlicher Akzeptor",
+    "crumbs": [
+      "20 Turingmaschine",
+      "20 Turingmaschine"
+    ]
+  },
+  {
+    "objectID": "20 Turingmaschine/Turingmaschine mit Ausgabe auf dem Band.html",
+    "href": "20 Turingmaschine/Turingmaschine mit Ausgabe auf dem Band.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Naja wenn eine Turingmaschine kein Entscheidungsproblem löst sondern ein Funktionswert berechnet und das Ergebnis auf das Band schreibt nennt man diese Turingmaschine eine Turingmaschine mit Ausgabe auf dem Band\n\nTuringmaschine",
+    "crumbs": [
+      "20 Turingmaschine",
+      "20 Turingmaschine mit Ausgabe auf dem Band"
+    ]
+  },
+  {
+    "objectID": "20 Turingmaschine/Turingmaschine mit Ausgabe auf dem Band.html#turingmaschine-mit-ausgabe-auf-dem-band",
+    "href": "20 Turingmaschine/Turingmaschine mit Ausgabe auf dem Band.html#turingmaschine-mit-ausgabe-auf-dem-band",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Naja wenn eine Turingmaschine kein Entscheidungsproblem löst sondern ein Funktionswert berechnet und das Ergebnis auf das Band schreibt nennt man diese Turingmaschine eine Turingmaschine mit Ausgabe auf dem Band\n\nTuringmaschine",
+    "crumbs": [
+      "20 Turingmaschine",
+      "20 Turingmaschine mit Ausgabe auf dem Band"
+    ]
+  },
+  {
+    "objectID": "20 Turingmaschine/Entscheidungsproblem.html",
+    "href": "20 Turingmaschine/Entscheidungsproblem.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Man braucht Turingmaschinen für essentiell zwei Sachen: Entscheidungsprobleme und Funktionenberechnungen. Bei Entscheidungsproblemen geht es wie bei einem Endlichen Akzeptor darum, ob beispielsweise ein Wort zu einer Formalen Sprache gehört.\n\nTuringmaschine\nTuringmaschinenakzeptor",
+    "crumbs": [
+      "20 Turingmaschine",
+      "20 Entscheidungsproblem"
+    ]
+  },
+  {
+    "objectID": "20 Turingmaschine/Entscheidungsproblem.html#entscheidungsproblem",
+    "href": "20 Turingmaschine/Entscheidungsproblem.html#entscheidungsproblem",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Man braucht Turingmaschinen für essentiell zwei Sachen: Entscheidungsprobleme und Funktionenberechnungen. Bei Entscheidungsproblemen geht es wie bei einem Endlichen Akzeptor darum, ob beispielsweise ein Wort zu einer Formalen Sprache gehört.\n\nTuringmaschine\nTuringmaschinenakzeptor",
+    "crumbs": [
+      "20 Turingmaschine",
+      "20 Entscheidungsproblem"
+    ]
+  },
+  {
+    "objectID": "20 Turingmaschine/Aufzählbare und Entscheidbare Sprache.html",
+    "href": "20 Turingmaschine/Aufzählbare und Entscheidbare Sprache.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Wenn eine Formale Sprache L von einer Turingmaschine akzeptiert werden kann, dann nennt man sie auch aufzählbare Sprache.\nWenn eine Turingmaschine L akzeptiert und diese Turingmaschine für jede Eingabe hält dann sagt man, dass die Maschine L entscheidet.\n\nEndkonfiguration einer Turingmaschine\nFormale Sprache",
+    "crumbs": [
+      "20 Turingmaschine",
+      "20 Aufzählbare und Entscheidbare Sprache"
+    ]
+  },
+  {
+    "objectID": "20 Turingmaschine/Aufzählbare und Entscheidbare Sprache.html#aufzählbare-und-entscheidbare-sprache",
+    "href": "20 Turingmaschine/Aufzählbare und Entscheidbare Sprache.html#aufzählbare-und-entscheidbare-sprache",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Wenn eine Formale Sprache L von einer Turingmaschine akzeptiert werden kann, dann nennt man sie auch aufzählbare Sprache.\nWenn eine Turingmaschine L akzeptiert und diese Turingmaschine für jede Eingabe hält dann sagt man, dass die Maschine L entscheidet.\n\nEndkonfiguration einer Turingmaschine\nFormale Sprache",
+    "crumbs": [
+      "20 Turingmaschine",
+      "20 Aufzählbare und Entscheidbare Sprache"
+    ]
+  },
+  {
+    "objectID": "20 Turingmaschine/Unendliche Berechnung bzw nicht haltende Berechnung.html",
+    "href": "20 Turingmaschine/Unendliche Berechnung bzw nicht haltende Berechnung.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine Unendliche Folge von Konfigurationen \\((c_1,c_2,...)\\) nennt man eine Unendliche Berechnung bzw nicht haltende Berechnung, wenn es eine Konfigurationsübergangsfunktion \\(\\Delta\\) gibt, sodass \\(\\Delta(c_i) = c_{i+1}\\).\n\nZeitkomplexität",
+    "crumbs": [
+      "20 Turingmaschine",
+      "20 Unendliche Berechnung bzw nicht haltende Berechnung"
+    ]
+  },
+  {
+    "objectID": "20 Turingmaschine/Unendliche Berechnung bzw nicht haltende Berechnung.html#unendliche-berechnung-bzw-nicht-haltende-berechnung",
+    "href": "20 Turingmaschine/Unendliche Berechnung bzw nicht haltende Berechnung.html#unendliche-berechnung-bzw-nicht-haltende-berechnung",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Eine Unendliche Folge von Konfigurationen \\((c_1,c_2,...)\\) nennt man eine Unendliche Berechnung bzw nicht haltende Berechnung, wenn es eine Konfigurationsübergangsfunktion \\(\\Delta\\) gibt, sodass \\(\\Delta(c_i) = c_{i+1}\\).\n\nZeitkomplexität",
+    "crumbs": [
+      "20 Turingmaschine",
+      "20 Unendliche Berechnung bzw nicht haltende Berechnung"
+    ]
+  },
+  {
+    "objectID": "17 Quantitative Aspekte/Θ(f).html",
+    "href": "17 Quantitative Aspekte/Θ(f).html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(Θ(f)\\) ist die Menge aller Funktionen, die gleichschnell wie f asymptotisch/größenordnungsmäßig wachsen.\n\nAsymptotisches bzw Größenordnungsmäßiges Wachstum",
+    "crumbs": [
+      "17 Quantitative Aspekte",
+      "17 $Θ(f)$"
+    ]
+  },
+  {
+    "objectID": "17 Quantitative Aspekte/Θ(f).html#θf",
+    "href": "17 Quantitative Aspekte/Θ(f).html#θf",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(Θ(f)\\) ist die Menge aller Funktionen, die gleichschnell wie f asymptotisch/größenordnungsmäßig wachsen.\n\nAsymptotisches bzw Größenordnungsmäßiges Wachstum",
+    "crumbs": [
+      "17 Quantitative Aspekte",
+      "17 $Θ(f)$"
+    ]
+  },
+  {
+    "objectID": "17 Quantitative Aspekte/Speicherplatzbedarf eines Algorithmus.html",
+    "href": "17 Quantitative Aspekte/Speicherplatzbedarf eines Algorithmus.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Asymptotisches bzw Größenordnungsmäßiges Wachstum",
+    "crumbs": [
+      "17 Quantitative Aspekte",
+      "17 Speicherplatzbedarf eines Algorithmus"
+    ]
+  },
+  {
+    "objectID": "17 Quantitative Aspekte/Speicherplatzbedarf eines Algorithmus.html#speicherplatzbedarf-eines-algorithmus",
+    "href": "17 Quantitative Aspekte/Speicherplatzbedarf eines Algorithmus.html#speicherplatzbedarf-eines-algorithmus",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Asymptotisches bzw Größenordnungsmäßiges Wachstum",
+    "crumbs": [
+      "17 Quantitative Aspekte",
+      "17 Speicherplatzbedarf eines Algorithmus"
+    ]
+  },
+  {
+    "objectID": "17 Quantitative Aspekte/Laufzeitberechnungen bei Implizit Definierten Funktionen.html",
+    "href": "17 Quantitative Aspekte/Laufzeitberechnungen bei Implizit Definierten Funktionen.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(T(n) = aT (\\frac{n}{b}) +f(n)\\). Also so einfach gesagt ja wir teilen halt das Problem auf auf eine kleinere Anzahl von Schritten und dann kommt da ein konstanter Faktor dazu und wir addieren die Anzahl von schritten wie’s braucht um n Schritte zu berechnen.\nDivide and conquer mäßig.\n\nRechenzeit eines Algorithmus",
+    "crumbs": [
+      "17 Quantitative Aspekte",
+      "17 Laufzeitberechnungen bei Implizit Definierten Funktionen"
+    ]
+  },
+  {
+    "objectID": "17 Quantitative Aspekte/Laufzeitberechnungen bei Implizit Definierten Funktionen.html#laufzeitberechnungen-bei-implizit-definierten-funktionen",
+    "href": "17 Quantitative Aspekte/Laufzeitberechnungen bei Implizit Definierten Funktionen.html#laufzeitberechnungen-bei-implizit-definierten-funktionen",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(T(n) = aT (\\frac{n}{b}) +f(n)\\). Also so einfach gesagt ja wir teilen halt das Problem auf auf eine kleinere Anzahl von Schritten und dann kommt da ein konstanter Faktor dazu und wir addieren die Anzahl von schritten wie’s braucht um n Schritte zu berechnen.\nDivide and conquer mäßig.\n\nRechenzeit eines Algorithmus",
+    "crumbs": [
+      "17 Quantitative Aspekte",
+      "17 Laufzeitberechnungen bei Implizit Definierten Funktionen"
+    ]
+  },
+  {
+    "objectID": "17 Quantitative Aspekte/Ω(f).html",
+    "href": "17 Quantitative Aspekte/Ω(f).html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(Ω(f)\\) ist die Menge aller Funktionen, die gleichschnell oder schneller als f wachsen.\n\nAsymptotisches bzw Größenordnungsmäßiges Wachstum",
+    "crumbs": [
+      "17 Quantitative Aspekte",
+      "17 $Ω(f)$"
+    ]
+  },
+  {
+    "objectID": "17 Quantitative Aspekte/Ω(f).html#ωf",
+    "href": "17 Quantitative Aspekte/Ω(f).html#ωf",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(Ω(f)\\) ist die Menge aller Funktionen, die gleichschnell oder schneller als f wachsen.\n\nAsymptotisches bzw Größenordnungsmäßiges Wachstum",
+    "crumbs": [
+      "17 Quantitative Aspekte",
+      "17 $Ω(f)$"
+    ]
+  },
+  {
+    "objectID": "9 Speicher/Speicher als Tabelle.html",
+    "href": "9 Speicher/Speicher als Tabelle.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Einen Speicher kann man als Funktion darstellen, der jeder Adresse einen Wert zuweist.\nJa wie alles bis jetzt ist halt einfach alles eine Funktion.\n\\(m: \\text{Adr} \\rightarrow \\text{Val}\\)\n\nSpeichern\nAbbildung",
+    "crumbs": [
+      "9 Speicher",
+      "9 Speicher als Tabelle"
+    ]
+  },
+  {
+    "objectID": "9 Speicher/Speicher als Tabelle.html#speicher-als-tabelle",
+    "href": "9 Speicher/Speicher als Tabelle.html#speicher-als-tabelle",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Einen Speicher kann man als Funktion darstellen, der jeder Adresse einen Wert zuweist.\nJa wie alles bis jetzt ist halt einfach alles eine Funktion.\n\\(m: \\text{Adr} \\rightarrow \\text{Val}\\)\n\nSpeichern\nAbbildung",
+    "crumbs": [
+      "9 Speicher",
+      "9 Speicher als Tabelle"
+    ]
+  },
+  {
+    "objectID": "9 Speicher/Caches.html",
+    "href": "9 Speicher/Caches.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ein Cache ist ähnlich zu unserem Speicher, nur die Adresse basiert scheinbar auf dem Inhalt. Wenn ich einen Wert ändere, ändere ich somit also möglicherweise die Adresse von allen anderen Einträgen. Es ist also nicht unabhängig.\n\nEigenschaften des von uns definierten Speichers",
+    "crumbs": [
+      "9 Speicher",
+      "9 Caches"
+    ]
+  },
+  {
+    "objectID": "9 Speicher/Caches.html#caches",
+    "href": "9 Speicher/Caches.html#caches",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Ein Cache ist ähnlich zu unserem Speicher, nur die Adresse basiert scheinbar auf dem Inhalt. Wenn ich einen Wert ändere, ändere ich somit also möglicherweise die Adresse von allen anderen Einträgen. Es ist also nicht unabhängig.\n\nEigenschaften des von uns definierten Speichers",
+    "crumbs": [
+      "9 Speicher",
+      "9 Caches"
+    ]
+  },
+  {
+    "objectID": "9 Speicher/Eigenschaften des von uns definierten Speichers.html",
+    "href": "9 Speicher/Eigenschaften des von uns definierten Speichers.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Er ist konsistent: Das heißt wenn wir einen Wert an eine Adresse schreiben und danach den Speicher an dieser Adresse auslesen kriegen wir den Wert den wir geschrieben haben.\nEr ist unabhängig: Das schreiben von einem Wert an einer Adresse ändert nichts an den Werten bei anderen Adressen. Formaler:\n(\\(m\\) ist die Speicherfunktion/Tabelle, \\(a\\) ist die Adresse, \\(v\\) ist ein Wert)\n\\(memread(memwrite(m,a,v),a) = v\\)\n\\(memread(memwrite(m,a′,v′),a) = memread(m,a)\\)\n\nSchreibfunktion eines Speichers\nAuslesefunktion eines Speichers",
+    "crumbs": [
+      "9 Speicher",
+      "9 Eigenschaften des von uns definierten Speichers"
+    ]
+  },
+  {
+    "objectID": "9 Speicher/Eigenschaften des von uns definierten Speichers.html#eigenschaften-des-von-uns-definierten-speichers",
+    "href": "9 Speicher/Eigenschaften des von uns definierten Speichers.html#eigenschaften-des-von-uns-definierten-speichers",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "Er ist konsistent: Das heißt wenn wir einen Wert an eine Adresse schreiben und danach den Speicher an dieser Adresse auslesen kriegen wir den Wert den wir geschrieben haben.\nEr ist unabhängig: Das schreiben von einem Wert an einer Adresse ändert nichts an den Werten bei anderen Adressen. Formaler:\n(\\(m\\) ist die Speicherfunktion/Tabelle, \\(a\\) ist die Adresse, \\(v\\) ist ein Wert)\n\\(memread(memwrite(m,a,v),a) = v\\)\n\\(memread(memwrite(m,a′,v′),a) = memread(m,a)\\)\n\nSchreibfunktion eines Speichers\nAuslesefunktion eines Speichers",
+    "crumbs": [
+      "9 Speicher",
+      "9 Eigenschaften des von uns definierten Speichers"
+    ]
+  },
+  {
+    "objectID": "9 Speicher/Schreibfunktion eines Speichers.html",
+    "href": "9 Speicher/Schreibfunktion eines Speichers.html",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(\\text{memwrite} : \\text{Val}^{\\text{Adr}} \\times \\text{Adr} \\times \\text{Val} \\rightarrow \\text{Val}^{\\text{Adr}}\\)\n\\((m, a, v) \\mapsto m\\)\n\nSpeicher als Tabelle",
+    "crumbs": [
+      "9 Speicher",
+      "9 Schreibfunktion eines Speichers"
+    ]
+  },
+  {
+    "objectID": "9 Speicher/Schreibfunktion eines Speichers.html#schreibfunktion-eines-speichers",
+    "href": "9 Speicher/Schreibfunktion eines Speichers.html#schreibfunktion-eines-speichers",
+    "title": "Grundbegriffe der Informatik",
+    "section": "",
+    "text": "\\(\\text{memwrite} : \\text{Val}^{\\text{Adr}} \\times \\text{Adr} \\times \\text{Val} \\rightarrow \\text{Val}^{\\text{Adr}}\\)\n\\((m, a, v) \\mapsto m\\)\n\nSpeicher als Tabelle",
+    "crumbs": [
+      "9 Speicher",
+      "9 Schreibfunktion eines Speichers"
+    ]
+  }
+]

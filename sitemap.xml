@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/9 Speicher/Speichern.html</loc>
+    <lastmod>2024-09-13T17:19:44.355Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/9 Speicher/Bit.html</loc>
+    <lastmod>2024-09-13T17:19:44.355Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/9 Speicher/Auslesefunktion eines Speichers.html</loc>
+    <lastmod>2024-09-13T17:19:44.355Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/9 Speicher/Wahlfreier Zugriff.html</loc>
+    <lastmod>2024-09-13T17:19:44.355Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/9 Speicher/Menge aller möglichen Speicherzustände.html</loc>
+    <lastmod>2024-09-13T17:19:44.347Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/17 Quantitative Aspekte/Mastertheorem.html</loc>
+    <lastmod>2024-09-13T17:19:44.347Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/17 Quantitative Aspekte/Rechenzeit eines Algorithmus.html</loc>
+    <lastmod>2024-09-13T17:19:44.347Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/17 Quantitative Aspekte/Asymptotisches bzw Größenordnungsmäßiges Wachstum.html</loc>
+    <lastmod>2024-09-13T17:19:44.347Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/17 Quantitative Aspekte/O(f).html</loc>
+    <lastmod>2024-09-13T17:19:44.343Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/20 Turingmaschine/Konfiguration einer Turingmaschine.html</loc>
+    <lastmod>2024-09-13T17:19:44.343Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/20 Turingmaschine/Zeitkomplexität.html</loc>
+    <lastmod>2024-09-13T17:19:44.343Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/20 Turingmaschine/Endkonfiguration einer Turingmaschine.html</loc>
+    <lastmod>2024-09-13T17:19:44.343Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/20 Turingmaschine/Turingmaschinenakzeptor.html</loc>
+    <lastmod>2024-09-13T17:19:44.339Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/20 Turingmaschine/(haltende) Endliche Berechnung (Turingmaschine).html</loc>
+    <lastmod>2024-09-13T17:19:44.339Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/16 Algorhitmen in Graphen/Adjazenzliste.html</loc>
+    <lastmod>2024-09-13T17:19:44.335Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/16 Algorhitmen in Graphen/Berechnung der Ereichbarkeitsrelation.html</loc>
+    <lastmod>2024-09-13T17:19:44.335Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/16 Algorhitmen in Graphen/Adjazenzmatrizen.html</loc>
+    <lastmod>2024-09-13T17:19:44.331Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/18 Endliche Automaten/Moore-Automaten.html</loc>
+    <lastmod>2024-09-13T17:19:44.331Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/18 Endliche Automaten/Zustandsauswertungsfunktionen eines endlichen Automaten.html</loc>
+    <lastmod>2024-09-13T17:19:44.327Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/18 Endliche Automaten/Ausgabeauswertungsfunktion eines Endlichen Automatens.html</loc>
+    <lastmod>2024-09-13T17:19:44.327Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/21 Relationen/Halbordnungen.html</loc>
+    <lastmod>2024-09-13T17:19:44.323Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/21 Relationen/Antisymetrie.html</loc>
+    <lastmod>2024-09-13T17:19:44.323Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/21 Relationen/Totale Ordnung.html</loc>
+    <lastmod>2024-09-13T17:19:44.319Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/13 Prädikatenlogik/Signatur einer prädikatenlogischen Formel.html</loc>
+    <lastmod>2024-09-13T17:19:44.319Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/13 Prädikatenlogik/Prädikatenlogische Formel.html</loc>
+    <lastmod>2024-09-13T17:19:44.319Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/13 Prädikatenlogik/Gleichheit in der Prädikatenlogik.html</loc>
+    <lastmod>2024-09-13T17:19:44.315Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/13 Prädikatenlogik/Modell einer prädikatenlogische Formel G.html</loc>
+    <lastmod>2024-09-13T17:19:44.315Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/13 Prädikatenlogik/Prädikatenlogische Interpretation.html</loc>
+    <lastmod>2024-09-13T17:19:44.315Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/13 Prädikatenlogik/Allgemeingültige Prädikatenlogische Formeln.html</loc>
+    <lastmod>2024-09-13T17:19:44.311Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/3 Mengen, Alphabete, Abbildungen/Rechtseindeutig.html</loc>
+    <lastmod>2024-09-13T17:19:44.311Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/3 Mengen, Alphabete, Abbildungen/Unicode als Beispiel.html</loc>
+    <lastmod>2024-09-13T17:19:44.311Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/3 Mengen, Alphabete, Abbildungen/Potenzmenge.html</loc>
+    <lastmod>2024-09-13T17:19:44.307Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/3 Mengen, Alphabete, Abbildungen/Mn.html</loc>
+    <lastmod>2024-09-13T17:19:44.307Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/3 Mengen, Alphabete, Abbildungen/Linkseindeutig.html</loc>
+    <lastmod>2024-09-13T17:19:44.303Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/3 Mengen, Alphabete, Abbildungen/Rechtstotal.html</loc>
+    <lastmod>2024-09-13T17:19:44.299Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/3 Mengen, Alphabete, Abbildungen/Kathesisches Produkt von M1, M2 und M3.html</loc>
+    <lastmod>2024-09-13T17:19:44.299Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/4 Wörter/Iterierte Konkatenation.html</loc>
+    <lastmod>2024-09-13T17:19:44.299Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/4 Wörter/A hoch n.html</loc>
+    <lastmod>2024-09-13T17:19:44.295Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/4 Wörter/Formale Sprache.html</loc>
+    <lastmod>2024-09-13T17:19:44.295Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/5 Aussagenlogik/Aussagenlogische Variablen.html</loc>
+    <lastmod>2024-09-13T17:19:44.295Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/5 Aussagenlogik/Menge aller Interpretationen für eine Variablenmenge V.html</loc>
+    <lastmod>2024-09-13T17:19:44.291Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/5 Aussagenlogik/Äquivalente Aussagen.html</loc>
+    <lastmod>2024-09-13T17:19:44.291Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/5 Aussagenlogik/Aussagenlogische Formel.html</loc>
+    <lastmod>2024-09-13T17:19:44.291Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/5 Aussagenlogik/Boolesche Menge.html</loc>
+    <lastmod>2024-09-13T17:19:44.287Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/5 Aussagenlogik/Tautologie.html</loc>
+    <lastmod>2024-09-13T17:19:44.287Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/5 Aussagenlogik/Boolsche Funktion.html</loc>
+    <lastmod>2024-09-13T17:19:44.283Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/5 Aussagenlogik/Γ Tautologie zu G.html</loc>
+    <lastmod>2024-09-13T17:19:44.283Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/7 Formale Sprachen/Konkatenation Formaler Sprachen.html</loc>
+    <lastmod>2024-09-13T17:19:44.283Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/2 Signale, Nachrichten, Informationen, Daten/Datum.html</loc>
+    <lastmod>2024-09-13T17:19:44.279Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/2 Signale, Nachrichten, Informationen, Daten/Nachricht.html</loc>
+    <lastmod>2024-09-13T17:19:44.279Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/2 Signale, Nachrichten, Informationen, Daten/Abstraktion.html</loc>
+    <lastmod>2024-09-13T17:19:44.279Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/8 Übersetzungen und Codierungen/Homomorphismus im Wortkontext.html</loc>
+    <lastmod>2024-09-13T17:19:44.275Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/8 Übersetzungen und Codierungen/Binärdarstellung.html</loc>
+    <lastmod>2024-09-13T17:19:44.275Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/8 Übersetzungen und Codierungen/Übersetzen.html</loc>
+    <lastmod>2024-09-13T17:19:44.271Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/8 Übersetzungen und Codierungen/Menge aller Abbildungen von A nach B.html</loc>
+    <lastmod>2024-09-13T17:19:44.271Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/8 Übersetzungen und Codierungen/num(x) Dezimaldarstellung von Zahlen.html</loc>
+    <lastmod>2024-09-13T17:19:44.267Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/8 Übersetzungen und Codierungen/Komposition von Funktionen.html</loc>
+    <lastmod>2024-09-13T17:19:44.263Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/8 Übersetzungen und Codierungen/Präfixfreier Homomorphismus.html</loc>
+    <lastmod>2024-09-13T17:19:44.263Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/8 Übersetzungen und Codierungen/Codierung.html</loc>
+    <lastmod>2024-09-13T17:19:44.259Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/22 MIMA/Wie läuft die Arbeitsschritte konkret ab.html</loc>
+    <lastmod>2024-09-13T17:19:44.259Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/22 MIMA/Allgemeiner Aufbau des Prozessors.html</loc>
+    <lastmod>2024-09-13T17:19:44.255Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/22 MIMA/Neimann Architektur vs Harvard Architektur.html</loc>
+    <lastmod>2024-09-13T17:19:44.255Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/22 MIMA/Wie läuft das ab mit den Befehlen.html</loc>
+    <lastmod>2024-09-13T17:19:44.251Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/15 Graphen/Ungerichteter Baum.html</loc>
+    <lastmod>2024-09-13T17:19:44.247Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/15 Graphen/Schlinge, Schlingenfrei.html</loc>
+    <lastmod>2024-09-13T17:19:44.247Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/15 Graphen/Pfad.html</loc>
+    <lastmod>2024-09-13T17:19:44.247Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/15 Graphen/Blätter eines Baumes.html</loc>
+    <lastmod>2024-09-13T17:19:44.243Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/15 Graphen/Adjazente Knoten.html</loc>
+    <lastmod>2024-09-13T17:19:44.243Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/15 Graphen/Wiederholungsfreier Pfad.html</loc>
+    <lastmod>2024-09-13T17:19:44.243Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/15 Graphen/Baum.html</loc>
+    <lastmod>2024-09-13T17:19:44.239Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/15 Graphen/Teilpfad.html</loc>
+    <lastmod>2024-09-13T17:19:44.239Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/15 Graphen/M+.html</loc>
+    <lastmod>2024-09-13T17:19:44.239Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/15 Graphen/Weg.html</loc>
+    <lastmod>2024-09-13T17:19:44.235Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/15 Graphen/(Einfacher) Zyklus.html</loc>
+    <lastmod>2024-09-13T17:19:44.235Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/12 Kontextfreie Grammatiken/Von einer Grammatik erzeugten Formalen Sprache.html</loc>
+    <lastmod>2024-09-13T17:19:44.231Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/12 Kontextfreie Grammatiken/Aufbau einer kontextfreien Grammatik.html</loc>
+    <lastmod>2024-09-13T17:19:44.231Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/12 Kontextfreie Grammatiken/Potenz einer Relation.html</loc>
+    <lastmod>2024-09-13T17:19:44.227Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/12 Kontextfreie Grammatiken/Produkt von Relationen.html</loc>
+    <lastmod>2024-09-13T17:19:44.223Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/19 Regulärer Ausdruck/Stukturelle Induktion.html</loc>
+    <lastmod>2024-09-13T17:19:44.223Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/19 Regulärer Ausdruck/Regulärer Ausdruck über Alphabet A.html</loc>
+    <lastmod>2024-09-13T17:19:44.219Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/19 Regulärer Ausdruck/Rechtslineare Grammatiken.html</loc>
+    <lastmod>2024-09-13T17:19:44.215Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/19 Regulärer Ausdruck/Durch regulären Ausdruck beschriebene Formale Sprache.html</loc>
+    <lastmod>2024-09-13T17:19:44.219Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/19 Regulärer Ausdruck/Drei Sätze über die Erzeugung, Erkennung und Beschreibung formaler Sprachen.html</loc>
+    <lastmod>2024-09-13T17:19:44.223Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/12 Kontextfreie Grammatiken/Identische Abbildung auf Menge M.html</loc>
+    <lastmod>2024-09-13T17:19:44.227Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/12 Kontextfreie Grammatiken/Reflexiv Transitive Hülle.html</loc>
+    <lastmod>2024-09-13T17:19:44.227Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/12 Kontextfreie Grammatiken/Ableitungsschritt in einer Grammatik.html</loc>
+    <lastmod>2024-09-13T17:19:44.231Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/15 Graphen/Graphenmarkierungen.html</loc>
+    <lastmod>2024-09-13T17:19:44.231Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/15 Graphen/Streng zusammenhängend.html</loc>
+    <lastmod>2024-09-13T17:19:44.235Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/15 Graphen/Erreichbarkeit.html</loc>
+    <lastmod>2024-09-13T17:19:44.235Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/15 Graphen/Zusammenhängender (ungerichteter!) Graph.html</loc>
+    <lastmod>2024-09-13T17:19:44.239Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/15 Graphen/Ungerichtete Graphen.html</loc>
+    <lastmod>2024-09-13T17:19:44.239Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/15 Graphen/Potenzen der Kanten eines Graphs.html</loc>
+    <lastmod>2024-09-13T17:19:44.239Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/15 Graphen/Eingangs bzw Ausgangsgrad und Grad eines Knotens.html</loc>
+    <lastmod>2024-09-13T17:19:44.243Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/15 Graphen/geschlossener Pfad.html</loc>
+    <lastmod>2024-09-13T17:19:44.243Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/15 Graphen/Zu gerichtetem Graph zugehöriger ungerichteter Graph.html</loc>
+    <lastmod>2024-09-13T17:19:44.247Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/15 Graphen/Teilgraph.html</loc>
+    <lastmod>2024-09-13T17:19:44.247Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/15 Graphen/Gerichteter Graph.html</loc>
+    <lastmod>2024-09-13T17:19:44.247Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/15 Graphen/Kantenrelation.html</loc>
+    <lastmod>2024-09-13T17:19:44.251Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/22 MIMA/Grobstruktur der Mima, von neumann architektur.html</loc>
+    <lastmod>2024-09-13T17:19:44.251Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/22 MIMA/Programm in einer Mima.html</loc>
+    <lastmod>2024-09-13T17:19:44.255Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/22 MIMA/Hauptspeicher der Mima.html</loc>
+    <lastmod>2024-09-13T17:19:44.255Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/8 Übersetzungen und Codierungen/Zweierkomplement von Binärzahlen.html</loc>
+    <lastmod>2024-09-13T17:19:44.259Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/8 Übersetzungen und Codierungen/Problematik - Führende Nullen.html</loc>
+    <lastmod>2024-09-13T17:19:44.263Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/8 Übersetzungen und Codierungen/N_x(w), Anzahl von x in Wort w.html</loc>
+    <lastmod>2024-09-13T17:19:44.263Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/8 Übersetzungen und Codierungen/ε-Freier Homomorphismus.html</loc>
+    <lastmod>2024-09-13T17:19:44.267Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/8 Übersetzungen und Codierungen/Ganzzahlige Division mit Rest.html</loc>
+    <lastmod>2024-09-13T17:19:44.271Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/8 Übersetzungen und Codierungen/K-äre Darstellung bzw K-Äre Repräsentation.html</loc>
+    <lastmod>2024-09-13T17:19:44.271Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/8 Übersetzungen und Codierungen/Übersetzung von Zahldarstellungen.html</loc>
+    <lastmod>2024-09-13T17:19:44.275Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/8 Übersetzungen und Codierungen/Huffman Code.html</loc>
+    <lastmod>2024-09-13T17:19:44.275Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/8 Übersetzungen und Codierungen/Induktion über die Wortlänge.html</loc>
+    <lastmod>2024-09-13T17:19:44.279Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/2 Signale, Nachrichten, Informationen, Daten/Signal.html</loc>
+    <lastmod>2024-09-13T17:19:44.279Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/2 Signale, Nachrichten, Informationen, Daten/Interpretation bzw Information.html</loc>
+    <lastmod>2024-09-13T17:19:44.279Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/2 Signale, Nachrichten, Informationen, Daten/Inschrift.html</loc>
+    <lastmod>2024-09-13T17:19:44.283Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/Testfile.html</loc>
+    <lastmod>2024-09-13T17:19:44.283Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/5 Aussagenlogik/Aussage.html</loc>
+    <lastmod>2024-09-13T17:19:44.283Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/5 Aussagenlogik/Auswertungsfunktion.html</loc>
+    <lastmod>2024-09-13T17:19:44.287Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/5 Aussagenlogik/Modell einer Formelmenge.html</loc>
+    <lastmod>2024-09-13T17:19:44.287Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/5 Aussagenlogik/Erfüllbare Formeln.html</loc>
+    <lastmod>2024-09-13T17:19:44.287Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/5 Aussagenlogik/Aussagenlogische Verknüpfungsmenge.html</loc>
+    <lastmod>2024-09-13T17:19:44.291Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/5 Aussagenlogik/Interpretation einer Menge VarAl.html</loc>
+    <lastmod>2024-09-13T17:19:44.291Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/5 Aussagenlogik/Aussagenlogische Konnektive.html</loc>
+    <lastmod>2024-09-13T17:19:44.291Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/4 Wörter/Konkatenation zweier Wörter.html</loc>
+    <lastmod>2024-09-13T17:19:44.295Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/4 Wörter/Leeres Wort.html</loc>
+    <lastmod>2024-09-13T17:19:44.295Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/4 Wörter/Wort aus einem Alphabet A.html</loc>
+    <lastmod>2024-09-13T17:19:44.295Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/4 Wörter/Binäre Operation.html</loc>
+    <lastmod>2024-09-13T17:19:44.299Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/3 Mengen, Alphabete, Abbildungen/Kathesisches Produkt von A und B.html</loc>
+    <lastmod>2024-09-13T17:19:44.299Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/3 Mengen, Alphabete, Abbildungen/Alphabet.html</loc>
+    <lastmod>2024-09-13T17:19:44.299Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/3 Mengen, Alphabete, Abbildungen/Linkstotal.html</loc>
+    <lastmod>2024-09-13T17:19:44.303Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/3 Mengen, Alphabete, Abbildungen/partielle Abbildung.html</loc>
+    <lastmod>2024-09-13T17:19:44.307Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/3 Mengen, Alphabete, Abbildungen/Abbildung.html</loc>
+    <lastmod>2024-09-13T17:19:44.307Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/3 Mengen, Alphabete, Abbildungen/Relation.html</loc>
+    <lastmod>2024-09-13T17:19:44.311Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/13 Prädikatenlogik/Konstantensymbole.html</loc>
+    <lastmod>2024-09-13T17:19:44.311Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/13 Prädikatenlogik/Auswertung einer Prädikatenlogischer Formel.html</loc>
+    <lastmod>2024-09-13T17:19:44.315Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/13 Prädikatenlogik/Variablenbelegungsänderungsfunktion.html</loc>
+    <lastmod>2024-09-13T17:19:44.315Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/13 Prädikatenlogik/Atomare Formeln.html</loc>
+    <lastmod>2024-09-13T17:19:44.315Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/13 Prädikatenlogik/Prädikatenlogische Variablenbelegung.html</loc>
+    <lastmod>2024-09-13T17:19:44.319Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/13 Prädikatenlogik/Terme in der Prädikatenlogik.html</loc>
+    <lastmod>2024-09-13T17:19:44.319Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/21 Relationen/Äquivalenzrealtionen.html</loc>
+    <lastmod>2024-09-13T17:19:44.319Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/21 Relationen/Äquivalenzklasse.html</loc>
+    <lastmod>2024-09-13T17:19:44.323Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/21 Relationen/Hasse-Diagramm.html</loc>
+    <lastmod>2024-09-13T17:19:44.323Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/18 Endliche Automaten/Akzeptierte Formale Sprache.html</loc>
+    <lastmod>2024-09-13T17:19:44.323Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/18 Endliche Automaten/Mealy-Automat.html</loc>
+    <lastmod>2024-09-13T17:19:44.327Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/18 Endliche Automaten/Endlicher Akzeptor.html</loc>
+    <lastmod>2024-09-13T17:19:44.327Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/index.html</loc>
+    <lastmod>2024-09-13T17:19:44.331Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/16 Algorhitmen in Graphen/Wegematrix.html</loc>
+    <lastmod>2024-09-13T17:19:44.331Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/16 Algorhitmen in Graphen/Inzidenzenliste.html</loc>
+    <lastmod>2024-09-13T17:19:44.335Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/16 Algorhitmen in Graphen/Potenzieren eines Graphen.html</loc>
+    <lastmod>2024-09-13T17:19:44.335Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/20 Turingmaschine/Turingmaschine.html</loc>
+    <lastmod>2024-09-13T17:19:44.339Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/20 Turingmaschine/Turingmaschine mit Ausgabe auf dem Band.html</loc>
+    <lastmod>2024-09-13T17:19:44.343Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/20 Turingmaschine/Entscheidungsproblem.html</loc>
+    <lastmod>2024-09-13T17:19:44.343Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/20 Turingmaschine/Aufzählbare und Entscheidbare Sprache.html</loc>
+    <lastmod>2024-09-13T17:19:44.343Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/20 Turingmaschine/Unendliche Berechnung bzw nicht haltende Berechnung.html</loc>
+    <lastmod>2024-09-13T17:19:44.343Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/17 Quantitative Aspekte/Θ(f).html</loc>
+    <lastmod>2024-09-13T17:19:44.347Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/17 Quantitative Aspekte/Speicherplatzbedarf eines Algorithmus.html</loc>
+    <lastmod>2024-09-13T17:19:44.347Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/17 Quantitative Aspekte/Laufzeitberechnungen bei Implizit Definierten Funktionen.html</loc>
+    <lastmod>2024-09-13T17:19:44.347Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/17 Quantitative Aspekte/Ω(f).html</loc>
+    <lastmod>2024-09-13T17:19:44.347Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/9 Speicher/Speicher als Tabelle.html</loc>
+    <lastmod>2024-09-13T17:19:44.351Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/9 Speicher/Caches.html</loc>
+    <lastmod>2024-09-13T17:19:44.355Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/9 Speicher/Eigenschaften des von uns definierten Speichers.html</loc>
+    <lastmod>2024-09-13T17:19:44.355Z</lastmod>
+  </url>
+  <url>
+    <loc>https://uegwq.github.io/Grundbegriffe-der-Informatik/9 Speicher/Schreibfunktion eines Speichers.html</loc>
+    <lastmod>2024-09-13T17:19:44.355Z</lastmod>
+  </url>
+</urlset>
