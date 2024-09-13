@@ -1,0 +1,22 @@
+<!--TAGS-->
+---
+date: 1999-04-21
+pagetitle: "_TEMPLATE"
+# page-layout: custom
+# when using "page-layout :custom" it just doesnt load the sidebar
+# section-divs: false
+toc: true
+# toc means table of contents, thats a link to all sections
+# when using the quarto standart page layout the table of contents shows on the right # side of the screen :)
+description: | 
+  A cool template
+#hide-description: true
+#image: quarto-dark-bg.jpeg
+#resources: 
+#  - images/hero_animation.mp4
+---
+<!--/TAGS-->
+
+## THIS IS A TEMPLATE
+
+And this is a very interesting text indeed :)

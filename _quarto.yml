@@ -1,0 +1,36 @@
+project:
+  type: website
+
+date: 2024-07-20
+lang: de
+
+website:
+  repo-url: https://github.com/quarto-dev/quarto-demo
+  repo-actions: [edit, issue]
+  title: "_TEMPLATE"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - text: "The Index file you are seing right now"
+        href: "index.qmd"
+      - text: "The Readme file for good measures"
+        href: "README.md"
+      - section: "The Readme file but as a section"
+        contents:
+          - "README.md"
+          - "index.qmd"
+          - "Testfile.md"
+
+execute:
+  freeze: true
+  cache: true
+
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly

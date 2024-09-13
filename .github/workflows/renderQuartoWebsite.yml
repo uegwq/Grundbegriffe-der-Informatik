@@ -1,0 +1,79 @@
+name: Generate Export Files, Render the Quarto-Page and publish it to gh-pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  generate-export-files-directory:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout current repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Checkout QuartoObsidianFileProcessor repository
+      uses: actions/checkout@v4
+      with:
+        repository: uegwq/QuartoObsidianFileProcessor
+        token: ${{ secrets.GITHUB_TOKEN }}
+        path: quarto-observable-file-processor
+        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+        fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+    
+
+    - name: Set up JDK 22
+      uses: actions/setup-java@v3
+      with:
+        java-version: 22
+        distribution: 'temurin'  # Specify the JDK distribution
+
+    - name: Build the QuartoObsidianFileProcessor project
+      run: |
+        cd quarto-observable-file-processor/control
+        mvn clean install package
+
+    - name: Run SuperMain
+      run: |
+        cd quarto-observable-file-processor
+        echo ${GITHUB_WORKSPACE}
+        java -cp control/target/control-1.0-SNAPSHOT.jar controler.SuperMain ui--false ${GITHUB_WORKSPACE}
+
+    - name: List directories and files
+      run: |
+        cd ${GITHUB_WORKSPACE}
+        echo "Listing current directory:"
+        ls -al
+        echo "Listing quarto-observable-file-processor directory:"
+        ls -al quarto-observable-file-processor
+        echo "Listing contents of exportFiles if it exists:"
+        ls -al ${GITHUB_WORKSPACE}/exportFiles || echo "exportFiles directory does not exist in  ${GITHUB_WORKSPACE}"
+    - name: Verify exportFiles directory
+      run: |
+        if [ -d "exportFiles" ]; then echo "Directory exportFiles exists."; else echo "Directory exportFiles does not exist."; exit 1; fi
+
+    - name: Set up Quarto
+      uses: quarto-dev/quarto-actions/setup@v2
+
+    - name: verify paths
+      run: |
+        cd ${GITHUB_WORKSPACE}
+        echo "Listing current directory:"
+        ls -al
+
+    - name: Render and Publish
+      uses: quarto-dev/quarto-actions/publish@v2
+      with:
+        target: gh-pages
+        path: ${GITHUB_WORKSPACE}/exportFiles
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
